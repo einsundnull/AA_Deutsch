@@ -3,7 +3,7 @@ PROMPT zum Wiederaufnehmen (kopieren und einfuegen — nichts aendern noetig)
 ==============================================================================
 
 Wir arbeiten am Projekt "AA Deutsch" unter:
-C:\Users\pc\Desktop\Standard Files\AA Deutsch
+C:\Users\pc\Desktop\Standard Files\AA Deutsch\WEITERMACHEN_PROMPT.txt
 
 ARBEITSAUFTRAG (sofort starten — keine Rueckfragen, kein Projekt-Scan):
 

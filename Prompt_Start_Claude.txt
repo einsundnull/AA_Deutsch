@@ -128,5 +128,6 @@ Lies nicht:
   ---
 
 Achte darauf, dass du Umlaute wirklich schreibst (anstelle von ae -> ä, ue -> ü, oe -> ö)
+Sag mir am Ende immer ob du die Progress File erstellt hast und unter welchem Namen.
 
 

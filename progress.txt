@@ -38,9 +38,9 @@ Thema 02: Schule & Lernen (4 UP)  — ABGESCHLOSSEN (50 Dateien)
   [X] ABSCHLUSS
 
 Thema 03: Freizeit & Hobbys (3 UP)
-  [ ] 01 Detaillierter ueber Hobbys sprechen
-  [ ] 02 Verabredungen treffen (Hast du Lust zu ...?)
-  [ ] 03 Ueber Kino, Buecher, Spiele sprechen
+  [X] 01 Detaillierter ueber Hobbys sprechen
+  [X] 02 Verabredungen treffen (Hast du Lust zu ...?)
+  [X] 03 Ueber Kino, Buecher, Spiele sprechen
   [ ] ABSCHLUSS
 
 Thema 04: Essen & Gesundheit (3 UP)
@@ -89,9 +89,9 @@ Thema 11: Grammatik A2 Kinder (7 UP)
   [ ] 07 Modalverben im Praeteritum (konnte, musste, wollte)
   [ ] ABSCHLUSS
 
-GESAMT A2_KINDER bisher: 88 von ca. 406 Dateien (22%)
+GESAMT A2_KINDER bisher: 124 von ca. 406 Dateien (31%)
 
 NAECHSTER SCHRITT:
-Thema 03 UP 01 — Detaillierter ueber Hobbys sprechen
-(Wortschatz: Hobbys, Freizeit-Verben; Grammatik: gern/lieber/am liebsten,
- Haeufigkeitsadverbien immer/oft/manchmal/selten/nie)
+Thema 03 ABSCHLUSS — Freizeit & Hobbys (kombiniert UP 01-03)
+(Hobbys + gern/lieber/am liebsten, Verabredungen treffen, Kino/Buecher/Spiele;
+ gefallen + Dativ, wollen, zu-Infinitiv, Haeufigkeitsadverbien)

@@ -1,0 +1,55 @@
+============================================================
+Progress-Log 2026-04-26 13:15
+A2_Kinder / Thema 03 FreizeitHobbys / UP 01
+============================================================
+
+PROMPT: "ja" — Weitermachen nach Thema 02 ABSCHLUSS.
+Naechster Punkt: Thema 03 UP 01 — Detaillierter ueber Hobbys sprechen.
+
+============================================================
+ZUSAMMENFASSUNG
+============================================================
+
+Skript create_A2K_FreizeitHobbys_01_Hobbys.js erstellt und ausgefuehrt.
+Alle 12 Dateien erfolgreich erzeugt.
+progress.txt: UP 01 auf [X], GESAMT 88 -> 100 (25%).
+
+Inhaltliche Schwerpunkte:
+  - gern / lieber / am liebsten (Steigerung der Vorliebe)
+  - Haeufigkeitsadverbien immer / oft / manchmal / selten / nie
+  - Freizeit-Verben: malen, zeichnen, lesen, basteln, tanzen, singen,
+    fotografieren, sammeln, Fussball spielen, Musik hoeren
+  - Steigerungsvergleich: Ich lese lieber als fernsehen.
+  - Inversion mit am liebsten: Am liebsten tanze ich.
+
+============================================================
+ERSTELLTE DATEIEN (12)
+============================================================
+
+Skript:
+  _scripts/create_A2K_FreizeitHobbys_01_Hobbys.js
+
+Ausgabe-Ordner:
+  A2_Kinder/03_FreizeitHobbys/01_Hobbys/
+
+  - A2_Kinder_FreizeitHobbys_01_Hobbys_Schreiben.docx
+  - A2_Kinder_FreizeitHobbys_01_Hobbys_Schreiben_LOESUNG.docx
+  - A2_Kinder_FreizeitHobbys_01_Hobbys_Lesen.docx
+  - A2_Kinder_FreizeitHobbys_01_Hobbys_Lesen_LOESUNG.docx
+  - A2_Kinder_FreizeitHobbys_01_Hobbys_Luecken.docx
+  - A2_Kinder_FreizeitHobbys_01_Hobbys_Luecken_LOESUNG.docx
+  - A2_Kinder_FreizeitHobbys_01_Hobbys_Wortliste.docx
+  - A2_Kinder_FreizeitHobbys_01_Hobbys_Wortliste_LOESUNG.docx
+  - A2_Kinder_FreizeitHobbys_01_Hobbys_Konversation.docx
+  - A2_Kinder_FreizeitHobbys_01_Hobbys_Konversation_LOESUNG.docx
+  - A2_Kinder_FreizeitHobbys_01_Hobbys_Bildaufgaben.docx
+  - A2_Kinder_FreizeitHobbys_01_Hobbys_Bildaufgaben_LOESUNG.docx
+
+============================================================
+NAECHSTER SCHRITT
+============================================================
+
+Thema 03 UP 02 — Verabredungen treffen (Hast du Lust zu ...?)
+  Wortschatz: Einladungen, Vorschlaege, Zusagen, Absagen
+  Grammatik:  Lust haben zu + Infinitiv, Modalverb wollen,
+              Temporaladverbien (heute, morgen, am Samstag ...)
