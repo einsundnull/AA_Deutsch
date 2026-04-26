@@ -1,0 +1,31 @@
+Datum: 2026-04-26
+Session-Log: AA Deutsch
+
+PROMPT:
+Fortsetzen mit Thema 04 UP 03 — A2_Kinder Essen & Gesundheit: Beim Arzt.
+
+ZUSAMMENFASSUNG:
+Skript create_EssenGesundheit_03_BeimArzt.js erstellt.
+Kleiner Syntaxfehler (ueberflüssiges Anfuehrungszeichen) sofort korrigiert.
+12 Dateien erfolgreich erstellt.
+
+INHALT:
+- Schreiben: Symptom-Koerperteil-Verbindung, Saetze fuer 3 Situationen, Entschuldigungsbrief
+- Lesen: Text "Lena ist krank" (Arztbesuch vollstaendig), R/F + Fragen + Diagnose/Empfehlung suchen
+- Luecken: Saetze mit Symptomwortschatz, Dialog Arztgespräch, Modalverben musst/sollst/darfst
+- Wortliste: 13 Eintraege (Symptome, Medizin, Ausdruck, Orte) + Modalverb-Tabelle
+- Konversation: Dialog Kinderarzt + Dialog Krankmeldung Schule + Rollenspiel-Karten + Symptom-Ratespiel
+- Bildaufgaben: Symptome benennen, Arztbesuch-Reihenfolge, Medizin-Wirkung, krankes Kind beschreiben
+
+GRAMMATIK-SCHWERPUNKTE:
+- Modalverben: muessen / sollen / duerfen (nicht) — Bedeutungsunterschiede
+- seit + Zeitangabe (Dativ): seit gestern, seit zwei Tagen
+- Mir tut X weh / Ich habe + Symptom (ohne Artikel)
+
+ERSTELLTE DATEIEN (12):
+- A2_Kinder/04_EssenGesundheit/03_BeimArzt/ (alle 12 Dateien)
+
+PROGRESS.TXT:
+- UP 03 auf [X] gesetzt
+- GESAMT: 150 -> 162 Dateien (40%)
+- NAECHSTER SCHRITT: Thema 04 ABSCHLUSS — Essen & Gesundheit
