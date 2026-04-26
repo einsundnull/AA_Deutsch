@@ -1,0 +1,31 @@
+Datum: 2026-04-26
+Session-Log: AA Deutsch
+
+PROMPT:
+Thema 07 UP 01 — A2_Kinder Reisen & Ferien: Urlaub beschreiben.
+
+ZUSAMMENFASSUNG:
+Skript create_ReisenFerien_01_UrlaubBeschreiben.js erstellt und auf Anhieb erfolgreich ausgefuehrt.
+12 Dateien erstellt.
+
+INHALT:
+- Schreiben: Meer-vs-Berge Sortieraufgabe, Perfekt-Saetze bilden, Traumurlaub beschreiben
+- Lesen: "Mein bester Urlaub" (Kroatien — Meer, Schnorcheln, Regentag in alter Stadt, Lagerfeuer) + R/F + Fragen + Perfekt-Verben suchen
+- Luecken: Urlaubswortschatz + Dialog Urlaubsgespraech nach den Ferien
+- Wortliste: 13 Eintraege + haben-vs-sein-Tabelle + Ortsangaben im Urlaub
+- Konversation: Dialog Urlaubsbericht im Unterricht + Dialog Urlaubsplaene (Meer vs. Berge) + Partnerinterview + Laender-Ratespiel
+- Bildaufgaben: 4 Urlaubsbilder beschreiben, Postkarte lesen, Koffer packen, eigene Postkarte schreiben
+
+GRAMMATIK-SCHWERPUNKTE:
+- Perfekt mit haben (machen, essen, sehen, kaufen) vs. sein (fahren, gehen, schwimmen, fliegen)
+- Praeteritum war/waren/hatten (passiv bekannt auf A2)
+- Ortsangaben: am Strand/Meer, im Hotel, in den Bergen, nach + Landesname
+- Komparativ: lieber, am meisten
+
+ERSTELLTE DATEIEN (12):
+- A2_Kinder/07_ReisenFerien/01_UrlaubBeschreiben/ (alle 12 Dateien)
+
+PROGRESS.TXT:
+- UP 01 auf [X] gesetzt
+- GESAMT: 216 -> 228 Dateien (56%)
+- NAECHSTER SCHRITT: Thema 07 UP 02 — Transportmittel

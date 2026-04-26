@@ -1,0 +1,31 @@
+Datum: 2026-04-26
+Session-Log: AA Deutsch
+
+PROMPT:
+Thema 07 UP 02 — A2_Kinder Reisen & Ferien: Transportmittel.
+
+ZUSAMMENFASSUNG:
+Skript create_ReisenFerien_02_Transportmittel.js erstellt und auf Anhieb erfolgreich ausgefuehrt.
+12 Dateien erstellt.
+
+INHALT:
+- Schreiben: mit + Dativ Saetze bilden, Transportmittel vergleichen (Komparativ), Schulweg beschreiben
+- Lesen: "Eine lange Reise" (Hamburg → Lissabon mit Zug + Flugzeug + Metro + zu Fuss) + R/F + Fragen
+- Luecken: mit + Dativ ergaenzen, Bahnhof vs. Flughafen, eigene Meinung
+- Wortliste: 13 Eintraege + mit-Dativ-Tabelle + Komparativ-Beispiele
+- Konversation: Dialog Schulweg (Fahrrad vs. Bus), Dialog am Bahnhof (Gleis/Abfahrt/Umstieg), eigener Dialog, Partnerinterview
+- Bildaufgaben: Transportmittel benennen, Fahrplan lesen und auswerten, Schulweg zeichnen und beschreiben
+
+GRAMMATIK-SCHWERPUNKTE:
+- mit + Dativ: mit dem Zug/Auto (m./n.), mit der U-Bahn (f.)
+- Sonderfall: zu Fuss (kein Artikel, kein mit)
+- Komparativ: schneller als, langsamer als, teurer als, guenstiger als
+- Perfekt mit sein: fahren, fliegen, gehen, kommen
+
+ERSTELLTE DATEIEN (12):
+- A2_Kinder/07_ReisenFerien/02_Transportmittel/ (alle 12 Dateien)
+
+PROGRESS.TXT:
+- UP 02 auf [X] gesetzt
+- GESAMT: 228 -> 240 Dateien (59%)
+- NAECHSTER SCHRITT: Thema 07 UP 03 — Einfache Postkarten schreiben
