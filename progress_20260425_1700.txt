@@ -1,0 +1,18 @@
+Session: 2026-04-25 — Thema 13 UP 01 Verben Praesens
+
+PROMPT:
+"ja"
+
+ZUSAMMENFASSUNG:
+Thema 13 GrammatikMinimum gestartet.
+UP 01 Verben Praesens (sein, haben, moegen, heissen) erstellt.
+Inkl. vollstaendiger Konjugationstabelle aller 4 Verben in allen 6 Personen.
+
+ERSTELLT IN DIESER SESSION:
+Skript: _scripts/create_GrammatikMinimum_01_VerbenPraesens.js
+Ordner: A1_Kinder/13_GrammatikMinimum/01_VerbenPraesens/  (12 Dateien)
+
+GESAMT BISHER: 492 Dateien
+
+NAECHSTER SCHRITT:
+Thema 13 UP 02 Artikel (der, die, das)

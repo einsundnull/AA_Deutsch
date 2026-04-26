@@ -1,0 +1,26 @@
+﻿Fortschritt Deutschunterricht-Materialien
+Stand: 2026-04-25 00:00
+
+ABGESCHLOSSEN:
+[X] Thema 01 SichVorstellen    (5 UP x 12 + 2 = 62 Dateien)
+[X] Thema 02 Familie           (4 UP x 12 + 2 = 50 Dateien)
+[X] Thema 03 SchuleLernen      (5 UP x 12 + 2 = 62 Dateien)
+[X] Thema 04 ZahlenFarbenFormen (3 UP x 12 + 2 = 38 Dateien)
+[X] Thema 05 KoerperGesundheit (2 UP x 12 + 2 = 26 Dateien)
+[X] Thema 06 Kleidung          (2 UP x 12 + 2 = 26 Dateien)
+[X] Thema 07 EssenTrinken      (4 UP x 12 + 2 = 50 Dateien)
+[X] Thema 08 SpielenFreizeit   (3 UP x 12 + 2 = 38 Dateien)
+[X] Thema 09 Tiere             (3 UP x 12 + 2 = 38 Dateien)
+[X] Thema 10 Zuhause           (2 UP x 12 + 2 = 26 Dateien)
+    [X] 01 Raeume
+    [X] 02 Moebel
+    [X] ABSCHLUSS
+
+GESAMT BISHER: 416 Dateien
+
+ALS NAECHSTES:
+[ ] Thema 11 WetterJahreszeiten
+    [ ] 01 Wetter
+    [ ] 02 Jahreszeiten
+    [ ] 03 Monate
+    [ ] ABSCHLUSS

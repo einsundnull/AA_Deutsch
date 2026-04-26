@@ -1,0 +1,130 @@
+===============================================================================
+PROGRESS.TXT -- Deutschunterricht Übungsprojekt
+===============================================================================
+Letzte Aktualisierung: 23.04.2026 -- Session 8 abgeschlossen: Thema 02 KOMPLETT
+Projektordner: C:\Users\pc\Desktop\Standard Files\AA Deutsch
+
+
+-------------------------------------------------------------------------------
+1. PROJEKTZIEL
+-------------------------------------------------------------------------------
+Erstellung eines vollständigen Übungsmaterial-Archivs für den Deutsch-
+unterricht (A1-B2), basierend auf der Datei:
+"AAAA Checkliste_Deutschunterricht_A1-B2.docx"
+
+Alle Übungen werden als Word-Dokumente erstellt, die ausgedruckt oder als
+PDF konvertiert werden können.
+
+
+-------------------------------------------------------------------------------
+2. STAND DER ARBEIT
+-------------------------------------------------------------------------------
+
+[AKTUELL IN ARBEIT]
+Zielgruppe: Kinder/Jugendliche
+Niveau:     A1
+Thema:      Schule & Lernen
+Unterpunkt: 01 -- Schulsachen benennen (als nächstes)
+
+[FERTIG]
+  Thema 01: Sich selbst vorstellen -- KOMPLETT (62 Dateien)
+    ✓ Unterpunkt 01 "Name sagen und erfragen"   -- 12 Dateien in 01_Name/
+    ✓ Unterpunkt 02 "Alter sagen und erfragen"  -- 12 Dateien in 02_Alter/
+    ✓ Unterpunkt 03 "Wohnort nennen"            -- 12 Dateien in 03_Wohnort/
+    ✓ Unterpunkt 04 "Herkunft nennen"           -- 12 Dateien in 04_Herkunft/
+    ✓ Unterpunkt 05 "Sprachen nennen"           -- 12 Dateien in 05_Sprachen/
+    ✓ Abschlussübung                            -- 2 Dateien in ABSCHLUSS/
+
+  Thema 02: Familie -- KOMPLETT (50 Dateien)
+    ✓ Unterpunkt 01 "Familienmitglieder benennen" -- 12 Dateien in 01_Familienmitglieder/
+    ✓ Unterpunkt 02 "Über Geschwister sprechen"   -- 12 Dateien in 02_Geschwister/
+    ✓ Unterpunkt 03 "Haustiere benennen"          -- 12 Dateien in 03_Haustiere/
+    ✓ Unterpunkt 04 "Possessivpronomen (mein/meine)" -- 12 Dateien in 04_Possessivpronomen/
+    ✓ Abschlussübung                              -- 2 Dateien in ABSCHLUSS/
+
+[ALS NÄCHSTES]
+  → Thema 03 "Schule & Lernen" (5 Unterpunkte + Abschluss)
+    → 01 Schulsachen benennen
+    → 02 Klassenzimmer
+    → 03 Schulfächer
+    → 04 Wochentage
+    → 05 Stundenplan lesen
+    → ABSCHLUSSÜBUNG
+
+
+-------------------------------------------------------------------------------
+3. FORTSCHRITTSLISTE -- A1 KINDER / JUGENDLICHE
+-------------------------------------------------------------------------------
+Legende: [ ] = offen   [~] = in Arbeit   [X] = fertig
+
+THEMA 01: Sich selbst vorstellen  [KOMPLETT]
+  [X] 01 Name sagen und erfragen
+  [X] 02 Alter sagen und erfragen
+  [X] 03 Wohnort nennen
+  [X] 04 Herkunft nennen
+  [X] 05 Sprachen nennen
+  [X] ABSCHLUSSÜBUNG
+
+THEMA 02: Familie  [KOMPLETT]
+  [X] 01 Familienmitglieder benennen
+  [X] 02 Über Geschwister sprechen
+  [X] 03 Haustiere benennen
+  [X] 04 Possessivpronomen (mein/meine)
+  [X] ABSCHLUSSÜBUNG
+
+THEMA 03: Schule & Lernen
+  [ ] 01 Schulsachen benennen
+  [ ] 02 Klassenzimmer
+  [ ] 03 Schulfächer
+  [ ] 04 Wochentage
+  [ ] 05 Stundenplan lesen
+  [ ] ABSCHLUSSÜBUNG
+
+THEMA 04-13: noch nicht begonnen (siehe vorherige progress.txt)
+
+
+-------------------------------------------------------------------------------
+4. TECHNISCHE NOTIZEN
+-------------------------------------------------------------------------------
+- Node.js v22.16.0, docx v9.6.1
+- Generatoren in: AA Deutsch/_scripts/
+- Script-Muster: "use strict", DXA-Werte, NUMBERING-Config, PageNumber
+- Schreiben mit PowerShell single-quoted here-string (@'...'@)
+- Dateinamen-Konvention: [Niveau]_[Zielgruppe]_[Thema]_[Nr]_[Kürzel]_[Typ].docx
+- Referenzscript für Qualitätsmuster: create_03_Wohnort.js
+
+
+-------------------------------------------------------------------------------
+5. ORDNERSTRUKTUR
+-------------------------------------------------------------------------------
+AA Deutsch/
+├── A1_Kinder/
+│   ├── 01_SichVorstellen/   [KOMPLETT]
+│   │   ├── 01_Name/          12 Dateien
+│   │   ├── 02_Alter/         12 Dateien
+│   │   ├── 03_Wohnort/       12 Dateien
+│   │   ├── 04_Herkunft/      12 Dateien
+│   │   ├── 05_Sprachen/      12 Dateien
+│   │   └── ABSCHLUSS/         2 Dateien
+│   ├── 02_Familie/          [KOMPLETT]
+│   │   ├── 01_Familienmitglieder/ 12 Dateien
+│   │   ├── 02_Geschwister/        12 Dateien
+│   │   ├── 03_Haustiere/          12 Dateien
+│   │   ├── 04_Possessivpronomen/  12 Dateien
+│   │   └── ABSCHLUSS/              2 Dateien
+│   └── 03_SchuleLernen/           (als nächstes)
+└── _scripts/
+    ├── create_02_Alter.js
+    ├── create_03_Wohnort.js
+    ├── create_04_Herkunft.js
+    ├── create_05_Sprachen.js
+    ├── create_ABSCHLUSS_01.js
+    ├── create_Familie_01_Familienmitglieder.js
+    ├── create_Familie_02_Geschwister.js
+    ├── create_Familie_03_Haustiere.js
+    ├── create_Familie_04_Possessivpronomen.js
+    └── create_Familie_ABSCHLUSS.js
+
+===============================================================================
+ENDE PROGRESS.TXT
+===============================================================================

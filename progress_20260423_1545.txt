@@ -1,0 +1,45 @@
+﻿===============================================================================
+PROGRESS -- Deutschunterricht Uebungsprojekt
+===============================================================================
+Letzte Aktualisierung: 23.04.2026 -- Session 4: Unterpunkt 04 "Herkunft" fertig
+Projektordner: C:\Users\pc\Desktop\Standard Files\AA Deutsch
+
+
+AKTUELL IN ARBEIT
+  Zielgruppe: Kinder/Jugendliche | Niveau: A1
+  Thema:      Sich selbst vorstellen
+  Naechster Unterpunkt: 05 -- Sprachen nennen
+
+
+FERTIG
+  [X] 01 Name sagen und erfragen    -- 12 Dateien in 01_Name/
+  [X] 02 Alter sagen und erfragen   -- 12 Dateien in 02_Alter/
+  [X] 03 Wohnort nennen             -- 12 Dateien in 03_Wohnort/
+  [X] 04 Herkunft nennen            -- 12 Dateien in 04_Herkunft/
+
+
+ALS NAECHSTES
+  [ ] 05 Sprachen nennen
+  [ ] ABSCHLUSSÜBUNG Thema 01 (Sich selbst vorstellen)
+  [ ] Thema 02: Familie
+
+
+FORTSCHRITTSLISTE -- A1 KINDER
+-------------------------------
+THEMA 01: Sich selbst vorstellen
+  [X] 01 Name
+  [X] 02 Alter
+  [X] 03 Wohnort
+  [X] 04 Herkunft
+  [ ] 05 Sprachen nennen
+  [ ] ABSCHLUSSÜBUNG
+
+THEMA 02-13: noch nicht begonnen
+
+
+TECHNISCHE NOTIZEN
+  - Node.js v22.16.0, docx v9.6.1
+  - Scripts in: AA Deutsch/_scripts/create_0X_*.js
+  - Alle Scripts per PowerShell-Heredoc schreiben (keine typ. Anfuehrungszeichen in JS)
+
+===============================================================================

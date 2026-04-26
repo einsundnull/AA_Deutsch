@@ -1,0 +1,45 @@
+﻿===============================================================================
+PROGRESS -- Deutschunterricht Uebungsprojekt
+===============================================================================
+Letzte Aktualisierung: 23.04.2026 -- Session 5: Unterpunkt 05 "Sprachen" fertig
+Projektordner: C:\Users\pc\Desktop\Standard Files\AA Deutsch
+
+
+AKTUELL IN ARBEIT
+  Zielgruppe: Kinder/Jugendliche | Niveau: A1
+  Thema:      Sich selbst vorstellen
+  Naechster Schritt: ABSCHLUSSÜBUNG (alle 5 Unterpunkte kombiniert)
+
+
+FERTIG
+  [X] 01 Name sagen und erfragen    -- 12 Dateien in 01_Name/
+  [X] 02 Alter sagen und erfragen   -- 12 Dateien in 02_Alter/
+  [X] 03 Wohnort nennen             -- 12 Dateien in 03_Wohnort/
+  [X] 04 Herkunft nennen            -- 12 Dateien in 04_Herkunft/
+  [X] 05 Sprachen nennen            -- 12 Dateien in 05_Sprachen/
+
+
+ALS NAECHSTES
+  [ ] ABSCHLUSSÜBUNG Thema 01 (kombiniert alle 5 Unterpunkte) -- 2 Dateien
+  [ ] Thema 02: Familie (4 Unterpunkte + Abschluss)
+
+
+FORTSCHRITTSLISTE -- A1 KINDER
+-------------------------------
+THEMA 01: Sich selbst vorstellen
+  [X] 01 Name
+  [X] 02 Alter
+  [X] 03 Wohnort
+  [X] 04 Herkunft
+  [X] 05 Sprachen nennen
+  [ ] ABSCHLUSSÜBUNG  <-- naechster Schritt
+
+THEMA 02-13: noch nicht begonnen
+
+
+TECHNISCHE NOTIZEN
+  - Node.js v22.16.0, docx v9.6.1
+  - Scripts in: AA Deutsch/_scripts/create_0X_*.js
+  - Lange Scripts in zwei PowerShell-Bloecken schreiben (Out-File + Append)
+
+===============================================================================

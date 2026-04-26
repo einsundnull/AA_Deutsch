@@ -1,0 +1,256 @@
+===============================================================================
+PROGRESS.TXT — Deutschunterricht Übungsprojekt
+===============================================================================
+Letzte Aktualisierung: 23.04.2026 — Session 2 abgeschlossen: Unterpunkt 02 "Alter"
+Projektordner: C:\Users\pc\Desktop\Standard Files\AA Deutsch
+
+
+-------------------------------------------------------------------------------
+1. PROJEKTZIEL
+-------------------------------------------------------------------------------
+Erstellung eines vollständigen Übungsmaterial-Archivs für den Deutsch-
+unterricht (A1–B2), basierend auf der Datei:
+"AAAA Checkliste_Deutschunterricht_A1-B2.docx"
+
+Alle Übungen werden als Word-Dokumente erstellt, die ausgedruckt oder als
+PDF konvertiert werden können.
+
+
+-------------------------------------------------------------------------------
+2. STRUKTUR-SCHEMA (STRIKT EINHALTEN)
+-------------------------------------------------------------------------------
+Zielgruppe → Niveau → Thema → Unterpunkt
+
+Zielgruppen:  Kinder/Jugendliche  |  Erwachsene
+Niveaus:      A1, A2, B1, B2
+Themen:       siehe Checkliste (z.B. "Sich selbst vorstellen", "Familie")
+Unterpunkte:  siehe Checkliste (z.B. "Name sagen und erfragen")
+
+PRO UNTERPUNKT werden IMMER folgende Materialien erstellt:
+  [1] Schreibübung
+  [2] Leseübung (kurzer Text)
+  [3] Lückentext
+  [4] Wortliste
+  [5] Konversationsteil
+  [6] Bild-Arbeitsblatt (Aufgaben; Bilder fügt der Lehrer selbst ein)
+
+PRO THEMA (am Ende aller Unterpunkte):
+  [7] Abschlussübung (kombiniert alle Unterpunkte)
+
+FÜR JEDE Übung gibt es eine separate LÖSUNGSDATEI.
+→ Pro Unterpunkt: 12 Dateien (6 Übungen + 6 Lösungen)
+→ Pro Thema zusätzlich: 2 Dateien (Abschluss + Lösung)
+
+
+-------------------------------------------------------------------------------
+3. DATEINAMEN-KONVENTION
+-------------------------------------------------------------------------------
+Format: [Niveau]_[Zielgruppe]_[Thema]_[Unterpunkt-Nr]_[Uebungstyp].docx
+
+Beispiele:
+  A1_Kinder_SichVorstellen_02_Alter_Schreiben.docx
+  A1_Kinder_SichVorstellen_02_Alter_Schreiben_LOESUNG.docx
+  A1_Kinder_SichVorstellen_02_Alter_Lesen.docx
+  A1_Kinder_SichVorstellen_02_Alter_Luecken.docx
+  A1_Kinder_SichVorstellen_02_Alter_Wortliste.docx
+  A1_Kinder_SichVorstellen_02_Alter_Konversation.docx
+  A1_Kinder_SichVorstellen_02_Alter_Bildaufgaben.docx
+
+Übungstyp-Kürzel:
+  Schreiben | Lesen | Luecken | Wortliste | Konversation | Bildaufgaben | ABSCHLUSS
+
+
+-------------------------------------------------------------------------------
+4. ORDNERSTRUKTUR
+-------------------------------------------------------------------------------
+AA Deutsch/
+├── AAAA Checkliste_Deutschunterricht_A1-B2.docx  (Referenzdatei)
+├── progress.txt                                   (Haupt-Progressdatei)
+├── progress_20260423_1515.txt                     (diese Datei, Session 2)
+├── _scripts/                                      (Node.js-Generatoren)
+│   ├── create_02_Alter.js
+│   └── node_modules/docx/
+├── A1_Kinder/
+│   ├── 01_SichVorstellen/
+│   │   ├── 01_Name/        ← 12 Dateien (Session 1)
+│   │   ├── 02_Alter/       ← 12 Dateien (Session 2, FERTIG)
+│   │   ├── 03_Wohnort/     (offen)
+│   │   ├── 04_Herkunft/    (offen)
+│   │   ├── 05_Sprachen/    (offen)
+│   │   └── ABSCHLUSS/      (offen)
+│   ├── 02_Familie/
+│   └── ... (weitere Themen)
+├── A1_Erwachsene/
+├── A2_Kinder/
+├── A2_Erwachsene/
+├── B1_Kinder_Jugendliche/
+├── B1_Erwachsene/
+├── B2/
+└── _Vorlagen/
+
+
+-------------------------------------------------------------------------------
+5. STAND DER ARBEIT
+-------------------------------------------------------------------------------
+
+[AKTUELL IN ARBEIT]
+Zielgruppe: Kinder/Jugendliche
+Niveau:     A1
+Thema:      Sich selbst vorstellen
+Unterpunkt: 03 — Wohnort nennen (als nächstes)
+
+[FERTIG]
+  ✓ Unterpunkt 01 "Name sagen und erfragen" (A1 Kinder) — Session 1
+    — 6 Übungen + 6 Lösungen erstellt
+    — alle Dateien in: A1_Kinder/01_SichVorstellen/01_Name/
+
+  ✓ Unterpunkt 02 "Alter sagen und erfragen" (A1 Kinder) — Session 2
+    — 6 Übungen + 6 Lösungen erstellt
+    — alle Dateien in: A1_Kinder/01_SichVorstellen/02_Alter/
+
+[ALS NÄCHSTES]
+  → Unterpunkt 03 "Wohnort nennen"
+  → Unterpunkt 04 "Herkunft nennen"
+  → Unterpunkt 05 "Sprachen nennen"
+  → ABSCHLUSSÜBUNG für Thema "Sich selbst vorstellen"
+  → Neues Thema: "Familie" (A1 Kinder)
+
+
+-------------------------------------------------------------------------------
+6. FORTSCHRITTSLISTE — A1 KINDER / JUGENDLICHE
+-------------------------------------------------------------------------------
+Legende: [ ] = offen   [~] = in Arbeit   [X] = fertig
+
+THEMA 01: Sich selbst vorstellen
+  [X] 01 Name sagen und erfragen
+      [X] Schreibübung       [X] Lesetext
+      [X] Lückentext         [X] Wortliste
+      [X] Konversation       [X] Bildaufgaben
+  [X] 02 Alter sagen und erfragen
+      [X] Schreibübung       [X] Lesetext
+      [X] Lückentext         [X] Wortliste
+      [X] Konversation       [X] Bildaufgaben
+  [ ] 03 Wohnort nennen
+  [ ] 04 Herkunft nennen
+  [ ] 05 Sprachen nennen
+  [ ] ABSCHLUSSÜBUNG
+
+THEMA 02: Familie
+  [ ] 01 Familienmitglieder benennen
+  [ ] 02 Über Geschwister sprechen
+  [ ] 03 Haustiere benennen
+  [ ] 04 Possessivpronomen (mein/meine)
+  [ ] ABSCHLUSSÜBUNG
+
+THEMA 03: Schule & Lernen
+  [ ] 01 Schulsachen
+  [ ] 02 Klassenzimmer
+  [ ] 03 Schulfächer
+  [ ] 04 Wochentage
+  [ ] 05 Stundenplan
+  [ ] ABSCHLUSSÜBUNG
+
+THEMA 04: Zahlen, Farben, Formen
+  [ ] 01 Zahlen 1–20 (später bis 100)
+  [ ] 02 Grundfarben
+  [ ] 03 Formen
+  [ ] ABSCHLUSSÜBUNG
+
+THEMA 05: Körper & Gesundheit
+  [ ] 01 Körperteile
+  [ ] 02 Einfache Krankheiten
+  [ ] ABSCHLUSSÜBUNG
+
+THEMA 06: Kleidung
+  [ ] 01 Kleidungsstücke
+  [ ] 02 Farben + Kleidung kombinieren
+  [ ] ABSCHLUSSÜBUNG
+
+THEMA 07: Essen & Trinken
+  [ ] 01 Lieblingsessen
+  [ ] 02 Getränke
+  [ ] 03 Mahlzeiten
+  [ ] 04 Ich mag / Ich mag nicht
+  [ ] ABSCHLUSSÜBUNG
+
+THEMA 08: Spielen & Freizeit
+  [ ] 01 Hobbys
+  [ ] 02 Sportarten
+  [ ] 03 Spielzeug
+  [ ] ABSCHLUSSÜBUNG
+
+THEMA 09: Tiere
+  [ ] 01 Haustiere und Bauernhoftiere
+  [ ] 02 Zootiere
+  [ ] 03 Tierlaute
+  [ ] ABSCHLUSSÜBUNG
+
+THEMA 10: Zuhause
+  [ ] 01 Räume
+  [ ] 02 Möbel
+  [ ] ABSCHLUSSÜBUNG
+
+THEMA 11: Wetter & Jahreszeiten
+  [ ] 01 Wetter
+  [ ] 02 Jahreszeiten
+  [ ] 03 Monate
+  [ ] ABSCHLUSSÜBUNG
+
+THEMA 12: Feste & Feiern
+  [ ] 01 Geburtstag
+  [ ] 02 Weihnachten, Ostern, Fasching
+  [ ] ABSCHLUSSÜBUNG
+
+THEMA 13: Grammatik-Minimum A1 Kinder
+  [ ] 01 Verben im Präsens (sein, haben, mögen, heißen)
+  [ ] 02 Artikel (der, die, das)
+  [ ] 03 Plural einfacher Nomen
+  [ ] 04 Wortstellung
+  [ ] 05 Personalpronomen
+  [ ] ABSCHLUSSÜBUNG
+
+
+-------------------------------------------------------------------------------
+7. WEITERE NIVEAUS (NOCH NICHT AUFGESCHLÜSSELT)
+-------------------------------------------------------------------------------
+[ ] A1 Erwachsene — 13 Themen
+[ ] A2 Kinder — 11 Themen
+[ ] A2 Erwachsene — 14 Themen
+[ ] B1 Kinder/Jugendliche — 9 Themen
+[ ] B1 Erwachsene — 13 Themen
+[ ] B2 — 15 Themen
+
+Diese werden im Detail aufgeschlüsselt, sobald wir dort ankommen.
+
+
+-------------------------------------------------------------------------------
+8. TECHNISCHE NOTIZEN
+-------------------------------------------------------------------------------
+- Node.js v22.16.0
+- docx v9.6.1
+- Generatoren liegen in: AA Deutsch/_scripts/
+- Ausgabeordner: AA Deutsch/A1_Kinder/01_SichVorstellen/[Unterpunkt]/
+- Jedes Script heißt: create_[Nr]_[Kürzel].js
+
+
+-------------------------------------------------------------------------------
+9. ARBEITSWEISE MIT CLAUDE
+-------------------------------------------------------------------------------
+Zu Beginn jeder Sitzung:
+  1. progress_<ZeitundDatum>.txt und CLAUDE.md aus dem Ordner bereitstellen
+  2. Claude erkennt den Stand automatisch und macht dort weiter,
+     wo die letzte Sitzung aufgehört hat.
+  3. Am Ende der Sitzung liefert Claude eine aktualisierte progress_<Datum>.txt.
+
+WICHTIG FÜR CLAUDE:
+  - Strikt die Dateinamen-Konvention einhalten.
+  - Jede Übung braucht eine separate Lösungsdatei (Suffix _LOESUNG).
+  - Bei Bildaufgaben nur Aufgaben formulieren, KEINE Bilder generieren.
+  - Immer darauf achten, dass das Niveau (Wortschatz, Grammatik)
+    zum Unterpunkt passt.
+  - Nach jeder fertigen Übungsserie progress_<Datum>.txt erstellen.
+  - Generatoren in _scripts/ ablegen, nicht direkt im Projektordner.
+
+===============================================================================
+ENDE PROGRESS.TXT
+===============================================================================

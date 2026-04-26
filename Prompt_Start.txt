@@ -1,0 +1,24 @@
+> Lies: "C:\Users\pc\Desktop\Standard Files\AA Deutsch"                                                                 
+● Ich lese den Inhalt des Verzeichnisses.
+
+  Listed 1 directory (ctrl+o to expand)
+
+● Das Verzeichnis enthält:
+
+  Hauptordner:
+  - A1_Kinder/ — Unterrichtsordner (A1-Niveau, Kinder)                                                                    - AA_Deutsch_Projektstart/ — Projektstart-Ordner
+  - _scripts/ — Skripte                                                                                                 
+  Dateien:
+  - CLAUDE.md — Projektanweisungen
+  - AAAA Checkliste_Deutschunterricht_A1-B2.docx — Checkliste A1-B2
+  - Promt - Historie.odt/.pdf — Prompt-Historie
+  - AA_Deutsch_Projektstart.zip — Projektstart-Archiv
+  - progress.txt + mehrere progress_DATUM.txt — Fortschrittslogs (letzter: heute 25.04.2026)
+
+  Was möchtest du als nächstes tun?
+
+> Ich möchte, dass du weiter machst           
+
+Erstelle mir ein Prompt, der es das nächste Mal und bei allen kommenden Malen erlaubt, den Prompt zu posten, sodass
+  die Arbeit sofort an der STelle, an der wir in einer Session aufgehört haben, aufzunehmen, ohne das gesamte Projeckt
+  zu lesen und die 1M Token Grenze zu erreichen.

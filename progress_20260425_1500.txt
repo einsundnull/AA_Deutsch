@@ -1,0 +1,28 @@
+Session: 2026-04-25 — Thema 12 UP 01 Geburtstag + WEITERMACHEN_PROMPT.txt
+
+PROMPT:
+"Ja und erstelle mir ein Prompt, der es das nächste Mal und bei allen
+kommenden Malen erlaubt, den Prompt zu posten, sodass die Arbeit sofort
+an der Stelle, an der wir in einer Session aufgehört haben, aufzunehmen,
+ohne das gesamte Projekt zu lesen und die 1M Token Grenze zu erreichen."
+
+ZUSAMMENFASSUNG:
+1. Wiederaufnahme-Prompt erstellt: WEITERMACHEN_PROMPT.txt
+   - Liest nur 3 Dateien: progress.txt, CLAUDE.md, ein Vorlagen-Skript
+   - Keine Projekt-Scans, kein globbing/grepping
+   - Verhindert Erreichen der 1M Token Grenze
+
+2. Thema 12 UP 01 Geburtstag erstellt (12 Dateien)
+
+ERSTELLT IN DIESER SESSION:
+Dateien:
+  - WEITERMACHEN_PROMPT.txt (Wiederaufnahme-Prompt)
+Skript:
+  - _scripts/create_FesteFeiern_01_Geburtstag.js
+Ordner: A1_Kinder/12_FesteFeiern/01_Geburtstag/ (12 Dateien)
+
+GESAMT BISHER: 466 Dateien
+
+NAECHSTER SCHRITT:
+Thema 12 UP 02 Weihnachten, Ostern, Fasching
+Dann ABSCHLUSS Thema 12.

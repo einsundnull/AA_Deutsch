@@ -1,0 +1,44 @@
+============================================================
+Progress-Log 2026-04-26 13:00
+A2_Kinder / Thema 02 SchuleLernen / ABSCHLUSS
+============================================================
+
+PROMPT: "ja" — Weitermachen mit Thema 02 ABSCHLUSS.
+
+============================================================
+ZUSAMMENFASSUNG
+============================================================
+
+Thema 02 SchuleLernen ist jetzt vollstaendig abgeschlossen (50 Dateien):
+  4 UP x 12 Dateien = 48 + 2 Abschluss-Dateien = 50
+
+Abschluss-Inhalt kombiniert alle 4 Unterpunkte:
+  UP 01: Schulalltag (Lesetext ueber Nora)
+  UP 02: Lieblingsfach + beste Freunde (Konversation)
+  UP 03: Meinungen zu Schulfaechern (Aufgabe 3)
+  UP 04: Hausaufgaben und Pruefungen (Aufgabe 2 Modalverben)
+  + Aufgabe 5: Freitext "Mein Schultag"
+  + Aufgabe 6: Wortschatz-Mix "Was passt nicht?"
+  + Selbstevaluation (Checkboxen)
+
+============================================================
+ERSTELLTE DATEIEN (2)
+============================================================
+
+Skript:
+  _scripts/create_A2K_SchuleLernen_ABSCHLUSS.js
+
+Ausgabe-Ordner:
+  A2_Kinder/02_SchuleLernen/ABSCHLUSS/
+
+  - A2_Kinder_SchuleLernen_ABSCHLUSS.docx
+  - A2_Kinder_SchuleLernen_ABSCHLUSS_LOESUNG.docx
+
+============================================================
+NAECHSTER SCHRITT
+============================================================
+
+Thema 03 Freizeit & Hobbys / UP 01 — Detaillierter ueber Hobbys sprechen
+  Wortschatz: Hobbys und Freizeit-Verben
+  Grammatik:  gern / lieber / am liebsten;
+              Haeufigkeitsadverbien immer / oft / manchmal / selten / nie

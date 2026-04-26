@@ -1,0 +1,37 @@
+ORIGINAL-PROMPT:
+weiter . Achte in Zukunft darauf, dass du Umlaute wirklich schreibst (anstelle von ae -> ä, ue -> ü, oe -> ö)
+[gefolgt von einem zweiten "weiter"]
+
+ROOT CAUSE:
+zwei Anliegen in dieser Iteration:
+  (1) neue Regel: echte Umlaute in Inhalten (nur Dateinamen bleiben ASCII)
+  (2) Fortsetzung: A2 Kinder Thema 01 UP 03 + ABSCHLUSS Thema 01
+
+LÖSUNGSVORSCHLAG:
+(1) Memory feedback_umlaute_inhalte.md angelegt + MEMORY.md ergänzt.
+    Skripte ab UP 03 nutzen ä/ö/ü/ß überall in Strings, nur OUTPUT_DIR / TOPIC / Dateinamen ASCII.
+(2) UP 03 (Familienalltag): Wortschatz Tagesablauf + Schwerpunkt trennbare Verben (aufstehen, anziehen,
+    einkaufen, fernsehen, aufräumen, abwaschen). Lesetext "Ein ganz normaler Mittwoch" mit klar trennbarem Tagesablauf.
+    Reihenfolgewörter (zuerst/dann/danach) in Wortliste + Aufgaben.
+    ABSCHLUSS Thema 01 (60 Punkte): Lesen 15 + Beschreibung 10 + Trennbare Verben 10 + Wortschatz 10
+    + Tagesablauf-Aufsatz 10 + Sprechen 5. Notenraster + Selbstevaluation am Ende.
+
+TATSÄCHLICHE LÖSUNG:
+- _scripts/create_A2K_FamilieAlltag_03_FamilienAlltag.js (neu, mit echten Umlauten)
+- _scripts/create_A2K_FamilieAlltag_ABSCHLUSS.js (neu, mit echten Umlauten)
+- A2_Kinder/01_FamilieAlltag/03_FamilienAlltag/ (12 Dateien)
+- A2_Kinder/01_FamilieAlltag/ABSCHLUSS/ (2 Dateien)
+- progress.txt: Thema 01 vollständig auf X gesetzt; nächster Schritt = Thema 02 UP 01
+- ~/.claude/.../memory/feedback_umlaute_inhalte.md (neu) + MEMORY.md ergänzt
+- Task #1 → completed; Task #2 → in_progress
+
+STATUS:
+in Arbeit (A2_Kinder Thema 01 fertig, gesamt 10/11 Themen offen)
+
+NÄCHSTER SCHRITT:
+Thema 02 (Schule & Lernen) — 4 UPs:
+  01 Schulalltag beschreiben
+  02 Lieblingsfach, beste Freunde
+  03 Einfache Meinungen zu Schulfächern
+  04 Hausaufgaben und Prüfungen
++ ABSCHLUSS Thema 02

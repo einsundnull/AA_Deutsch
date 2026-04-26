@@ -1,0 +1,20 @@
+Session: 2026-04-26 — Thema 13 UP 02 Artikel (der, die, das)
+
+PROMPT:
+"ja"
+
+ZUSAMMENFASSUNG:
+Thema 13 UP 02 Artikel (der, die, das) erstellt.
+Inkl. Faustregeln (DER fuer maennl./Tage/Monate/Jahreszeiten,
+DIE fuer weibl./-ung/-heit, DAS fuer Kinder/-chen/Verben-als-Nomen).
+Lueckentext mit Vorbereitung Dativ (auf DEM Tisch).
+
+ERSTELLT IN DIESER SESSION:
+Skript: _scripts/create_GrammatikMinimum_02_Artikel.js
+Ordner: A1_Kinder/13_GrammatikMinimum/02_Artikel/  (12 Dateien)
+
+GESAMT BISHER: 504 Dateien
+504 von 542 Dateien (= 93%) — A1 Kinder fast komplett.
+
+NAECHSTER SCHRITT:
+Thema 13 UP 03 Plural einfacher Nomen

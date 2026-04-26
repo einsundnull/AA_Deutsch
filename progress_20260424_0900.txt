@@ -1,0 +1,155 @@
+﻿===============================================================================
+PROGRESS.TXT -- Deutschunterricht Übungsprojekt
+===============================================================================
+Letzte Aktualisierung: 24.04.2026 -- Session 10 abgeschlossen: Thema 04 KOMPLETT
+Projektordner: C:\Users\pc\Desktop\Standard Files\AA Deutsch
+
+
+-------------------------------------------------------------------------------
+1. PROJEKTZIEL
+-------------------------------------------------------------------------------
+Erstellung eines vollständigen Übungsmaterial-Archivs für den Deutsch-
+unterricht (A1-B2), basierend auf der Datei:
+"AAAA Checkliste_Deutschunterricht_A1-B2.docx"
+
+Alle Übungen werden als Word-Dokumente erstellt, die ausgedruckt oder als
+PDF konvertiert werden können.
+
+
+-------------------------------------------------------------------------------
+2. STAND DER ARBEIT
+-------------------------------------------------------------------------------
+
+[AKTUELL IN ARBEIT]
+Zielgruppe: Kinder/Jugendliche
+Niveau:     A1
+Thema:      Körper & Gesundheit
+Unterpunkt: 01 -- Körperteile (als nächstes)
+
+[FERTIG]
+  Thema 01: Sich selbst vorstellen -- KOMPLETT (62 Dateien)
+    ✓ Unterpunkt 01 "Name sagen und erfragen"   -- 12 Dateien in 01_Name/
+    ✓ Unterpunkt 02 "Alter sagen und erfragen"  -- 12 Dateien in 02_Alter/
+    ✓ Unterpunkt 03 "Wohnort nennen"            -- 12 Dateien in 03_Wohnort/
+    ✓ Unterpunkt 04 "Herkunft nennen"           -- 12 Dateien in 04_Herkunft/
+    ✓ Unterpunkt 05 "Sprachen nennen"           -- 12 Dateien in 05_Sprachen/
+    ✓ Abschlussübung                            -- 2 Dateien in ABSCHLUSS/
+
+  Thema 02: Familie -- KOMPLETT (50 Dateien)
+    ✓ Unterpunkt 01 "Familienmitglieder benennen" -- 12 Dateien in 01_Familienmitglieder/
+    ✓ Unterpunkt 02 "Über Geschwister sprechen"   -- 12 Dateien in 02_Geschwister/
+    ✓ Unterpunkt 03 "Haustiere benennen"          -- 12 Dateien in 03_Haustiere/
+    ✓ Unterpunkt 04 "Possessivpronomen (mein/meine)" -- 12 Dateien in 04_Possessivpronomen/
+    ✓ Abschlussübung                              -- 2 Dateien in ABSCHLUSS/
+
+  Thema 03: Schule & Lernen -- KOMPLETT (62 Dateien)
+    ✓ Unterpunkt 01 "Schulsachen benennen"       -- 12 Dateien in 01_Schulsachen/
+    ✓ Unterpunkt 02 "Klassenzimmer"              -- 12 Dateien in 02_Klassenzimmer/
+    ✓ Unterpunkt 03 "Schulfächer"                -- 12 Dateien in 03_Schulfaecher/
+    ✓ Unterpunkt 04 "Wochentage"                 -- 12 Dateien in 04_Wochentage/
+    ✓ Unterpunkt 05 "Stundenplan lesen"          -- 12 Dateien in 05_Stundenplan/
+    ✓ Abschlussübung                             -- 2 Dateien in ABSCHLUSS/
+
+  Thema 04: Zahlen, Farben, Formen -- KOMPLETT (38 Dateien)
+    ✓ Unterpunkt 01 "Zahlen 1-20"               -- 12 Dateien in 01_Zahlen/
+    ✓ Unterpunkt 02 "Grundfarben"               -- 12 Dateien in 02_Grundfarben/
+    ✓ Unterpunkt 03 "Formen"                    -- 12 Dateien in 03_Formen/
+    ✓ Abschlussübung                            -- 2 Dateien in ABSCHLUSS/
+
+[ALS NÄCHSTES]
+  → Thema 05 "Körper & Gesundheit" (2 Unterpunkte + Abschluss)
+    → 01 Körperteile
+    → 02 Einfache Krankheiten
+    → ABSCHLUSSÜBUNG
+
+
+-------------------------------------------------------------------------------
+3. FORTSCHRITTSLISTE -- A1 KINDER / JUGENDLICHE
+-------------------------------------------------------------------------------
+Legende: [ ] = offen   [~] = in Arbeit   [X] = fertig
+
+THEMA 01: Sich selbst vorstellen  [KOMPLETT]
+  [X] 01 Name sagen und erfragen
+  [X] 02 Alter sagen und erfragen
+  [X] 03 Wohnort nennen
+  [X] 04 Herkunft nennen
+  [X] 05 Sprachen nennen
+  [X] ABSCHLUSSÜBUNG
+
+THEMA 02: Familie  [KOMPLETT]
+  [X] 01 Familienmitglieder benennen
+  [X] 02 Über Geschwister sprechen
+  [X] 03 Haustiere benennen
+  [X] 04 Possessivpronomen (mein/meine)
+  [X] ABSCHLUSSÜBUNG
+
+THEMA 03: Schule & Lernen  [KOMPLETT]
+  [X] 01 Schulsachen benennen
+  [X] 02 Klassenzimmer
+  [X] 03 Schulfächer
+  [X] 04 Wochentage
+  [X] 05 Stundenplan lesen
+  [X] ABSCHLUSSÜBUNG
+
+THEMA 04: Zahlen, Farben, Formen  [KOMPLETT]
+  [X] 01 Zahlen 1-20
+  [X] 02 Grundfarben
+  [X] 03 Formen
+  [X] ABSCHLUSSÜBUNG
+
+THEMA 05: Körper & Gesundheit
+  [ ] 01 Körperteile
+  [ ] 02 Einfache Krankheiten
+  [ ] ABSCHLUSSÜBUNG
+
+THEMA 06-13: noch nicht begonnen
+
+
+-------------------------------------------------------------------------------
+4. TECHNISCHE NOTIZEN
+-------------------------------------------------------------------------------
+- Node.js v22.16.0, docx v9.6.1
+- Generatoren in: AA Deutsch/_scripts/
+- Script-Muster: "use strict", DXA-Werte, NUMBERING-Config, PageNumber
+- Schreiben mit PowerShell single-quoted here-string (@'...'@)
+- Bei langen Scripts: zwei Blöcke (Out-File + Add-Content)
+- Dateinamen-Konvention: [Niveau]_[Zielgruppe]_[Thema]_[Nr]_[Kürzel]_[Typ].docx
+- Referenzscript für Qualitätsmuster: create_03_Wohnort.js
+- PowerShell: && nicht verfügbar, stattdessen ; verwenden
+
+
+-------------------------------------------------------------------------------
+5. ORDNERSTRUKTUR
+-------------------------------------------------------------------------------
+AA Deutsch/
+├── A1_Kinder/
+│   ├── 01_SichVorstellen/   [KOMPLETT -- 62 Dateien]
+│   ├── 02_Familie/          [KOMPLETT -- 50 Dateien]
+│   ├── 03_SchuleLernen/     [KOMPLETT -- 62 Dateien]
+│   ├── 04_ZahlenFarbenFormen/ [KOMPLETT -- 38 Dateien]
+│   │   ├── 01_Zahlen/            12 Dateien
+│   │   ├── 02_Grundfarben/       12 Dateien
+│   │   ├── 03_Formen/            12 Dateien
+│   │   └── ABSCHLUSS/             2 Dateien
+│   └── 05_KoerperGesundheit/    (als nächstes)
+└── _scripts/
+    ├── create_03_Wohnort.js               (Referenz)
+    ├── create_Familie_01_Familienmitglieder.js
+    ├── create_Familie_02_Geschwister.js
+    ├── create_Familie_03_Haustiere.js
+    ├── create_Familie_04_Possessivpronomen.js
+    ├── create_Familie_ABSCHLUSS.js
+    ├── create_SchuleLernen_01_Schulsachen.js
+    ├── create_SchuleLernen_02_Klassenzimmer.js
+    ├── create_SchuleLernen_03_Schulfaecher.js
+    ├── create_SchuleLernen_04_Wochentage.js
+    ├── create_SchuleLernen_05_Stundenplan.js
+    ├── create_SchuleLernen_ABSCHLUSS.js
+    ├── create_ZahlenFarbenFormen_01_Zahlen.js
+    ├── create_ZahlenFarbenFormen_02_Grundfarben.js
+    ├── create_ZahlenFarbenFormen_03_Formen.js
+    └── create_ZahlenFarbenFormen_ABSCHLUSS.js
+
+===============================================================================
+ENDE PROGRESS.TXT
+===============================================================================

@@ -1,0 +1,132 @@
+Lies:
+"C:\Users\pc\Desktop\Standard Files\AA Deutsch\Prompt_Start.txt"
+"C:\Users\pc\Desktop\Standard Files\AA Deutsch\Prompt_Start_Claude.txt"
+
+Lies nicht: 
+"C:\Users\pc\Documents\Phoenix Code\HTMLHTML - Kopie (4)"
+"C:\Users\pc\Documents\Phoenix Code\HTML\Guide Lines"
+"C:\Users\pc\Documents\Phoenix Code\HTML\Doc"
+"C:\Users\pc\Documents\Phoenix Code\HTML\locales"
+"C:\Users\pc\Documents\Phoenix Code\HTML\seed-admin.js"
+"C:\Users\pc\Documents\Phoenix Code\HTML\.git"
+
+           
+       # SESSION-PROTOKOLL — IMMER ZUERST LESEN
+       ## A) RESUME (am Anfang jeder Session)
+
+  Bevor du irgendetwas anderes tust:
+
+  1. Suche im aktuellen Projektverzeichnis nach Dateien mit dem Muster
+     `progress_*.txt`. Wähle die NEUESTE (höchster Timestamp im Dateinamen).
+  2. Lies AUSSCHLIESSLICH diese eine Datei. Lies KEINE weiteren Projektdateien,
+     bis du mir den Status zusammengefasst hast.
+  3. Antworte mir in maximal 4 Sätzen nach diesem Schema:
+
+     "Als Letztes haben wir daran gearbeitet: <Problem>.
+      Status: <gelöst | in Arbeit | blockiert>.
+      Letzter Lösungsansatz: <kurz>.
+      Nächster Schritt: <nur falls Status != gelöst>."
+
+  4. Falls KEINE progress_*.txt existiert: sag genau das in einem Satz und warte
+     auf meinen ersten Auftrag. Nicht nachfragen, nicht raten, nichts lesen.
+
+  ## B) END-OF-ITERATION (nach jedem Durchlauf)
+
+  Sobald eine Aufgabe abgeschlossen ist (du würdest "fertig" melden) ODER ich
+  "weiter / commit / ok / nächste" sage, schreibst du — BEVOR du mir das
+  Endergebnis meldest — eine neue Datei:
+
+    Pfad:     <Projektroot>/progress_<YYYY-MM-DD_HH-MM-SS>.txt
+    Encoding: UTF-8, reiner Text (kein Markdown)
+    Modus:    immer NEUE Datei, niemals eine alte überschreiben
+
+  Inhalt — genau dieses Schema, Reihenfolge nicht ändern:
+
+    ORIGINAL-PROMPT:
+    <wortwörtlich mein Auftrag, der diesen Durchlauf ausgelöst hat>
+
+    ROOT CAUSE:
+    <die eigentliche Ursache, nicht das Symptom. "unbekannt" ist erlaubt,
+     "kein Fehler, neues Feature" auch.>
+
+    LÖSUNGSVORSCHLAG:
+    <was du vorgeschlagen hast, inkl. kurz erwähnter verworfener Alternativen>
+
+    TATSÄCHLICHE LÖSUNG:
+    <was am Ende implementiert wurde, mit datei:zeile-Referenzen>
+
+    STATUS:
+    <gelöst | in Arbeit | blockiert>
+
+    NÄCHSTER SCHRITT:
+    <nur ausfüllen wenn Status != gelöst, sonst leer lassen>
+
+  ## C) REGELN
+
+  - Eine progress_*.txt pro Durchlauf. Niemals überschreiben, niemals löschen.
+  - Resume-Phase darf NUR die neueste progress_*.txt lesen — keine Codedateien,
+    kein git log, kein README. Erst nach der Statuszusammenfassung darfst du
+    weiterlesen.
+  - Wenn ich "weiter" sage und es gibt eine offene progress-Datei (Status != gelöst),
+    arbeitest du genau an "NÄCHSTER SCHRITT" weiter — ohne Rückfrage.
+  - Timestamp = lokale Zeit beim Schreiben (nicht die Zeit aus dem Original-Prompt).
+  - Datum-Format strikt: `YYYY-MM-DD_HH-MM-SS` (Bindestriche in der Uhrzeit, damit
+    der Dateiname auf allen Filesystemen gültig ist).
+
+  Bestätige jetzt, dass du A) ausgeführt hast.
+
+  ---
+  Empfehlung zur Nutzung:
+  - Speicher den Block z. B. als ~/.claude/prompts/resume.md und ruf ihn per cat oder Snippet ab.
+  - Das Schema ist deckungsgleich mit deiner bestehenden Memory Progress Log Requirement, also kein Konflikt.
+  - Wenn dir die Dateien im Projektroot zu unruhig werden: ersetz <Projektroot>/progress_… durch
+  <Projektroot>/.progress/progress_… — der Rest bleibt gleich.
+
+  Soll ich den Prompt direkt unter ~/.claude/prompts/resume.md ablegen, damit du ihn pro Projekt nur noch per Pfad
+  referenzieren musst?
+
+· Generating… (57s · ↓ 2.0k tokens)
+  ⎿  Tip: Use /btw to ask a quick side question without interrupting Claude's current work
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+> 
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+  esc to interrupt
+    ORIGINAL-PROMPT:
+    <wortwörtlich mein Auftrag, der diesen Durchlauf ausgelöst hat>
+
+    ROOT CAUSE:
+    <die eigentliche Ursache, nicht das Symptom. "unbekannt" ist erlaubt,
+     "kein Fehler, neues Feature" auch.>
+
+    LÖSUNGSVORSCHLAG:
+    <was du vorgeschlagen hast, inkl. kurz erwähnter verworfener Alternativen>
+
+    TATSÄCHLICHE LÖSUNG:
+    <was am Ende implementiert wurde, mit datei:zeile-Referenzen>
+
+    STATUS:
+    <gelöst | in Arbeit | blockiert>
+
+    NÄCHSTER SCHRITT:
+    <nur ausfüllen wenn Status != gelöst, sonst leer lassen>
+
+  ## C) REGELN
+
+  - Eine progress_*.txt pro Durchlauf. Niemals überschreiben, niemals löschen.
+  - Resume-Phase darf NUR die neueste progress_*.txt lesen — keine Codedateien,
+    kein git log, kein README. Erst nach der Statuszusammenfassung darfst du
+    weiterlesen.
+  - Wenn ich "weiter" sage und es gibt eine offene progress-Datei (Status != gelöst),
+    arbeitest du genau an "NÄCHSTER SCHRITT" weiter — ohne Rückfrage.
+  - Timestamp = lokale Zeit beim Schreiben (nicht die Zeit aus dem Original-Prompt).
+  - Datum-Format strikt: `YYYY-MM-DD_HH-MM-SS` (Bindestriche in der Uhrzeit, damit
+    der Dateiname auf allen Filesystemen gültig ist).
+
+  Bestätige jetzt, dass du A) ausgeführt hast.
+
+  ---
+
+Achte darauf, dass du Umlaute wirklich schreibst (anstelle von ae -> ä, ue -> ü, oe -> ö)
+
+

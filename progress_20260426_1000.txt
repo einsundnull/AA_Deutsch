@@ -1,0 +1,19 @@
+Session: 2026-04-26 — Thema 13 UP 03 Plural einfacher Nomen
+
+PROMPT:
+"ja"
+
+ZUSAMMENFASSUNG:
+Thema 13 UP 03 Plural einfacher Nomen erstellt.
+Inkl. Tabelle aller 6 Pluralendungen (-e, -n, -en, -er, -s, kein Plural-Suffix)
+mit Umlaut-Faellen und Faustregeln nach Genus.
+
+ERSTELLT IN DIESER SESSION:
+Skript: _scripts/create_GrammatikMinimum_03_Plural.js
+Ordner: A1_Kinder/13_GrammatikMinimum/03_Plural/  (12 Dateien)
+
+GESAMT BISHER: 516 Dateien
+516 von 542 Dateien (= 95%) — A1 Kinder fast komplett.
+
+NAECHSTER SCHRITT:
+Thema 13 UP 04 Wortstellung

@@ -1,0 +1,23 @@
+Session: 2026-04-26 — Thema 13 UP 04 Wortstellung
+
+PROMPT:
+"ja"
+
+ZUSAMMENFASSUNG:
+Thema 13 UP 04 Wortstellung erstellt.
+Inkl. drei Satzmuster:
+  1) Aussagesatz (Verb auf Position 2)
+  2) W-Frage (W-Wort + Verb + Subjekt)
+  3) Ja/Nein-Frage (Verb auf Position 1)
+Alle 8 wichtigsten W-Woerter (Wer/Was/Wo/Wann/Wie/Warum/Wohin/Woher).
+
+ERSTELLT IN DIESER SESSION:
+Skript: _scripts/create_GrammatikMinimum_04_Wortstellung.js
+Ordner: A1_Kinder/13_GrammatikMinimum/04_Wortstellung/  (12 Dateien)
+
+GESAMT BISHER: 528 Dateien
+528 von 542 Dateien (= 97%) — Fast fertig!
+
+NAECHSTER SCHRITT:
+Thema 13 UP 05 Personalpronomen
+Dann ABSCHLUSS Thema 13 → A1_Kinder KOMPLETT.

@@ -1,0 +1,92 @@
+﻿===============================================================================
+PROGRESS.TXT -- Deutschunterricht Übungsprojekt
+===============================================================================
+Letzte Aktualisierung: 24.04.2026 -- Session 13 abgeschlossen: Thema 07 KOMPLETT
+Projektordner: C:\Users\pc\Desktop\Standard Files\AA Deutsch
+
+
+-------------------------------------------------------------------------------
+1. PROJEKTZIEL
+-------------------------------------------------------------------------------
+Erstellung eines vollständigen Übungsmaterial-Archivs für den Deutsch-
+unterricht (A1-B2), basierend auf der Datei:
+"AAAA Checkliste_Deutschunterricht_A1-B2.docx"
+
+
+-------------------------------------------------------------------------------
+2. STAND DER ARBEIT
+-------------------------------------------------------------------------------
+
+[AKTUELL IN ARBEIT]
+Zielgruppe: Kinder/Jugendliche
+Niveau:     A1
+Thema:      Spielen & Freizeit
+Unterpunkt: 01 -- Hobbys (als nächstes)
+
+[FERTIG]
+  Thema 01-06: alle KOMPLETT
+  Thema 07: Essen & Trinken -- KOMPLETT (50 Dateien)
+    ✓ Unterpunkt 01 "Lieblingsessen"        -- 12 Dateien in 01_Lieblingsessen/
+    ✓ Unterpunkt 02 "Getränke"              -- 12 Dateien in 02_Getraenke/
+    ✓ Unterpunkt 03 "Mahlzeiten"            -- 12 Dateien in 03_Mahlzeiten/
+    ✓ Unterpunkt 04 "Ich mag / mag nicht"   -- 12 Dateien in 04_IchMag/
+    ✓ Abschlussübung                        -- 2 Dateien in ABSCHLUSS/
+
+[ALS NÄCHSTES]
+  → Thema 08 "Spielen & Freizeit" (3 Unterpunkte + Abschluss)
+    → 01 Hobbys
+    → 02 Sportarten
+    → 03 Spielzeug
+    → ABSCHLUSSÜBUNG
+
+
+-------------------------------------------------------------------------------
+3. FORTSCHRITTSLISTE -- A1 KINDER / JUGENDLICHE
+-------------------------------------------------------------------------------
+
+THEMA 01-07: alle KOMPLETT
+
+THEMA 08: Spielen & Freizeit
+  [ ] 01 Hobbys
+  [ ] 02 Sportarten
+  [ ] 03 Spielzeug
+  [ ] ABSCHLUSSÜBUNG
+
+THEMA 09-13: noch nicht begonnen
+
+
+-------------------------------------------------------------------------------
+4. TECHNISCHE NOTIZEN
+-------------------------------------------------------------------------------
+- Node.js v22.16.0, docx v9.6.1
+- Generatoren in: AA Deutsch/_scripts/
+- Script-Muster: "use strict", DXA-Werte, NUMBERING-Config, PageNumber
+- Schreiben mit PowerShell single-quoted here-string (@'...'@)
+- Bei langen Scripts: zwei Blöcke (Out-File + Add-Content)
+- Dateinamen-Konvention: [Niveau]_[Zielgruppe]_[Thema]_[Nr]_[Kürzel]_[Typ].docx
+- PowerShell: ; statt && für sequenzielle Befehle
+
+
+-------------------------------------------------------------------------------
+5. ORDNERSTRUKTUR
+-------------------------------------------------------------------------------
+AA Deutsch/
+├── A1_Kinder/
+│   ├── 01_SichVorstellen/     [KOMPLETT -- 62 Dateien]
+│   ├── 02_Familie/            [KOMPLETT -- 50 Dateien]
+│   ├── 03_SchuleLernen/       [KOMPLETT -- 62 Dateien]
+│   ├── 04_ZahlenFarbenFormen/ [KOMPLETT -- 38 Dateien]
+│   ├── 05_KoerperGesundheit/  [KOMPLETT -- 26 Dateien]
+│   ├── 06_Kleidung/           [KOMPLETT -- 26 Dateien]
+│   ├── 07_EssenTrinken/       [KOMPLETT -- 50 Dateien]
+│   │   ├── 01_Lieblingsessen/     12 Dateien
+│   │   ├── 02_Getraenke/          12 Dateien
+│   │   ├── 03_Mahlzeiten/         12 Dateien
+│   │   ├── 04_IchMag/             12 Dateien
+│   │   └── ABSCHLUSS/              2 Dateien
+│   └── 08_SpielenFreizeit/    (als nächstes)
+└── _scripts/
+
+===============================================================================
+ENDE PROGRESS.TXT
+===============================================================================

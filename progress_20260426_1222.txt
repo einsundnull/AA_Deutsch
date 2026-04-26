@@ -1,0 +1,92 @@
+============================================================
+Progress-Log 2026-04-26 12:22
+A2_Kinder / Thema 02 SchuleLernen / UP 03
+============================================================
+
+PROMPT (Wiederaufnahme):
+Wir arbeiten am Projekt "AA Deutsch". Lies progress.txt, CLAUDE.md
+und das Vorlage-Skript create_WetterJahreszeiten_03_Monate.js.
+Identifiziere den naechsten offenen Unterpunkt, erstelle das passende
+Skript, fuehre es aus, aktualisiere progress.txt, schreibe einen Log
+und frage am Ende nach Weitermachen mit dem naechsten Punkt.
+
+============================================================
+ZUSAMMENFASSUNG
+============================================================
+
+Naechster offener Punkt aus progress.txt:
+  Thema 02 UP 03 — Einfache Meinungen zu Schulfaechern
+  Wortschatz: Bewertungen (toll/super/langweilig/anstrengend/leicht/schwer)
+  Grammatik: 'finden' + Akkusativ + Adjektiv; Meine Meinung ist ...
+
+Vorgehen:
+1. Verzeichnisstruktur abgeglichen: Konvention fuer A2_Kinder = Skript
+   "create_A2K_<Thema>_NN_Name.js", Ordner "NN_Name".
+2. Skript auf Basis der Vorlage create_WetterJahreszeiten_03_Monate.js
+   erstellt, alle 6 Uebungstypen + 6 Loesungen befuellt.
+3. Echte Umlaute (ae/oe/ue/ss -> ä/ö/ü/ß) NUR in Inhalten, Dateinamen
+   bleiben ASCII (gemaess Memory-Regel).
+4. Skript ausgefuehrt, alle 12 Dateien erfolgreich erzeugt.
+5. progress.txt: UP 03 auf [X], GESAMT 62 -> 74, NAECHSTER SCHRITT
+   auf UP 04 (Hausaufgaben und Pruefungen) gesetzt.
+
+============================================================
+ERSTELLTE DATEIEN (12)
+============================================================
+
+Skript:
+  _scripts/create_A2K_SchuleLernen_03_MeinungenSchulfaecher.js
+
+Ausgabe-Ordner:
+  A2_Kinder/02_SchuleLernen/03_MeinungenSchulfaecher/
+
+Uebungen + Loesungen:
+  - A2_Kinder_SchuleLernen_03_MeinungenSchulfaecher_Schreiben.docx
+  - A2_Kinder_SchuleLernen_03_MeinungenSchulfaecher_Schreiben_LOESUNG.docx
+  - A2_Kinder_SchuleLernen_03_MeinungenSchulfaecher_Lesen.docx
+  - A2_Kinder_SchuleLernen_03_MeinungenSchulfaecher_Lesen_LOESUNG.docx
+  - A2_Kinder_SchuleLernen_03_MeinungenSchulfaecher_Luecken.docx
+  - A2_Kinder_SchuleLernen_03_MeinungenSchulfaecher_Luecken_LOESUNG.docx
+  - A2_Kinder_SchuleLernen_03_MeinungenSchulfaecher_Wortliste.docx
+  - A2_Kinder_SchuleLernen_03_MeinungenSchulfaecher_Wortliste_LOESUNG.docx
+  - A2_Kinder_SchuleLernen_03_MeinungenSchulfaecher_Konversation.docx
+  - A2_Kinder_SchuleLernen_03_MeinungenSchulfaecher_Konversation_LOESUNG.docx
+  - A2_Kinder_SchuleLernen_03_MeinungenSchulfaecher_Bildaufgaben.docx
+  - A2_Kinder_SchuleLernen_03_MeinungenSchulfaecher_Bildaufgaben_LOESUNG.docx
+
+============================================================
+INHALTLICHE LOESUNGEN / VORSCHLAEGE
+============================================================
+
+Schreiben:
+  - 3 Aufgaben mit steigender Schwierigkeit
+  - Adjektivauswahl (Lueckensatz) -> freie Saetze -> 4-5 Saetze ueber
+    das Lieblingsfach
+Lesen:
+  - 3 kurze Texte: Lina (Kunst, Mathe schwer), Tarek (Sport, Englisch),
+    Sophie (Deutsch, Mathe leicht aber langweilig)
+  - 3 Aufgaben: Wer-sagt-das, W-Fragen, Adjektive im Text suchen
+Luecken:
+  - Woerterkasten mit Ablenkern
+  - 3 Bloecke: isolierte Saetze -> Adjektivwahl -> Dialog Anna/Ben
+Wortliste:
+  - 14 Eintraege (positive + negative Adjektive + Phrasen)
+  - Grammatik-Hinweise zu finden + Akk + Adj (endungslos)
+  - Zeile 'Uebersetzung in deine Sprache' fuer 12 Schluesselwoerter
+Konversation:
+  - Dialog 1 Mia/Jonas (vollstaendig)
+  - Dialog 2 mit Luecken zum Ergaenzen
+  - Partnerinterview (6 Fragen)
+  - Gruppenspiel 'Meinungs-Express'
+Bildaufgaben:
+  - 4 Aufgabentypen: Bild-Wort-Verbindung, Sprechblasen ergaenzen,
+    Notenspiegel mit Smileys, eigener Stundenplan + Symbole
+
+============================================================
+NAECHSTER SCHRITT
+============================================================
+
+Thema 02 UP 04 — Hausaufgaben und Pruefungen
+  Wortschatz: Hausaufgaben machen, Pruefung schreiben, lernen, ueben,
+              vergessen, Note bekommen, bestehen / durchfallen
+  Grammatik:  Modalverben muessen / sollen / koennen

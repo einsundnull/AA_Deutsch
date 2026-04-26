@@ -1,0 +1,33 @@
+ORIGINAL-PROMPT:
+weiter
+
+ROOT CAUSE:
+kein Fehler, neues Feature — A2_Kinder Thema 02 UP 02 (Lieblingsfach & beste Freunde).
+
+LÖSUNGSVORSCHLAG:
+A2_Kinder Thema 02 UP 02:
+Schwerpunkte:
+  - Wortschatz: alle Schulfächer (Mathe, Deutsch, Englisch, Französisch, Sport, Kunst, Musik,
+    Bio, Chemie, Physik, Erdkunde, Geschichte)
+  - Adjektive für Freundschaft: lustig, hilfsbereit, ehrlich, klug
+  - Grammatik: gern – lieber – am liebsten (Vorbereitung Komparativ/Superlativ)
+  - weil-Sätze (mit Verb am Ende!) — wichtige Vorübung für Thema 11
+  - Lesetext "Sophie und Mira" mit 3 weil-Sätzen, die im Aufgabenteil herausgesucht werden müssen
+  - Konversation: 'Wer bin ich?'-Spiel mit 4 Hinweisen
+  - Bildaufgabe: Steckbrief beste/r Freund/in als A2-typisches Festigungsformat
+  - Alle Inhalte mit echten Umlauten ä/ö/ü/ß; Dateinamen ASCII
+
+TATSÄCHLICHE LÖSUNG:
+- _scripts/create_A2K_SchuleLernen_02_LieblingsfachFreunde.js (neu)
+- A2_Kinder/02_SchuleLernen/02_LieblingsfachFreunde/ (12 Dateien)
+- progress.txt: UP 02 abgehakt; nächster Schritt = UP 03
+
+STATUS:
+in Arbeit
+
+NÄCHSTER SCHRITT:
+Thema 02 UP 03 — Einfache Meinungen zu Schulfächern
+Skript create_A2K_SchuleLernen_03_MeinungSchulfaecher.js
+Wortschatz: toll/super/spannend/langweilig/anstrengend/leicht/schwer/nervig/cool/blöd
+Grammatik: 'finde ... + Akkusativ + Adjektiv' (Ich finde Mathe schwer.);
+Meinungseinleiter: Meiner Meinung nach / Ich denke / Ich finde / Mir gefällt

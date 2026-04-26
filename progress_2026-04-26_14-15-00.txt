@@ -1,0 +1,29 @@
+ORIGINAL-PROMPT:
+weiter
+
+ROOT CAUSE:
+kein Fehler, neues Feature — Fortsetzung A2_Kinder Thema 01 mit UP 02.
+
+LOESUNGSVORSCHLAG:
+A2_Kinder Thema 01 UP 02 (Familienmitglieder beschreiben - Aussehen, Charakter):
+Skript erstellt mit Schwerpunkt:
+  - Adjektive in praedikativer Stellung (Sie ist klein.)
+  - hat + Adjektiv + Nomen (Er hat blaue Augen.)
+  - Gegensatzpaare (gross-klein, alt-jung, fleissig-faul)
+  - Wortliste mit 15 Adjektiven + Koerpermerkmalen
+  - Lesetext: 5 Familienmitglieder mit Aussehen+Charakter
+  - Tabelle ausfuellen statt freier Antworten
+
+TATSAECHLICHE LOESUNG:
+- _scripts/create_A2K_FamilieAlltag_02_FamilieBeschreiben.js (neu)
+- A2_Kinder/01_FamilieAlltag/02_FamilieBeschreiben/ (12 Dateien neu)
+- progress.txt: UP 02 abgehakt, naechster Schritt aktualisiert
+
+STATUS:
+in Arbeit
+
+NAECHSTER SCHRITT:
+Thema 01 UP 03 — Ueber den Alltag der Familie sprechen.
+Skript create_A2K_FamilieAlltag_03_FamilienAlltag.js.
+Wortschatz: aufstehen, fruehstuecken, zur Schule/Arbeit gehen, Mittagessen, Hausaufgaben, Abendessen, fernsehen, ins Bett gehen.
+Grammatik-Fokus: trennbare Verben (auf/stehen, an/ziehen, ein/kaufen), Tagesablauf mit Zeitangaben (um 7 Uhr, danach, dann, am Abend).

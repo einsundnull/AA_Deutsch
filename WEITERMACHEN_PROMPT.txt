@@ -1,0 +1,59 @@
+==============================================================================
+PROMPT zum Wiederaufnehmen (kopieren und einfuegen — nichts aendern noetig)
+==============================================================================
+
+Wir arbeiten am Projekt "AA Deutsch" unter:
+C:\Users\pc\Desktop\Standard Files\AA Deutsch
+
+ARBEITSAUFTRAG (sofort starten — keine Rueckfragen, kein Projekt-Scan):
+
+1. Lies NUR diese drei Dateien (NICHT das ganze Projekt!):
+   - C:\Users\pc\Desktop\Standard Files\AA Deutsch\progress.txt
+     → zeigt den naechsten offenen Unterpunkt unter "ALS NAECHSTES"
+   - C:\Users\pc\Desktop\Standard Files\AA Deutsch\CLAUDE.md
+     → enthaelt alle Konventionen (Dateinamen, Struktur, Typen)
+   - Ein bereits existierendes Skript als Vorlage, z. B.:
+     C:\Users\pc\Desktop\Standard Files\AA Deutsch\_scripts\create_WetterJahreszeiten_03_Monate.js
+     → zeigt die exakte Skript-Struktur mit allen Helper-Funktionen
+
+   NICHT lesen: weitere Skripte, andere Themenordner, alte progress_*.txt-Dateien.
+
+2. Identifiziere den naechsten offenen Unterpunkt aus progress.txt
+   ("ALS NAECHSTES" oder erster offener `[ ]`).
+
+3. Erstelle das passende Skript unter:
+     _scripts/create_<Thema>_<NN>_<UnterpunktKurz>.js
+   nach exakt dem Muster der Vorlage.
+   Inhalt: 6 Uebungen (Schreiben, Lesen, Luecken, Wortliste, Konversation,
+   Bildaufgaben) + 6 LOESUNG-Dateien = 12 Dateien.
+   Bei Themen-Abschluss zusaetzlich:
+     _scripts/create_<Thema>_ABSCHLUSS.js  (= 2 Dateien)
+
+4. Fuehre das Skript aus:
+     cd "C:/Users/pc/Desktop/Standard Files/AA Deutsch/_scripts"
+     node create_<Skriptname>.js
+
+5. Aktualisiere progress.txt:
+   - Setze den fertigen Unterpunkt auf [X]
+   - Aktualisiere "GESAMT BISHER" (+12 pro Unterpunkt, +2 pro Abschluss)
+   - Verschiebe "ALS NAECHSTES" auf den naechsten offenen Punkt
+
+6. Schreibe einen kurzen Log:
+   progress_<JJJJMMTT>_<HHMM>.txt
+   Inhalt: Prompt, Zusammenfassung, erstellte Dateien, naechster Schritt.
+
+7. Frage am Ende kurz: "Soll ich mit <naechstem Unterpunkt> weitermachen?"
+
+WICHTIGE REGELN:
+- Niemals das gesamte Projekt scannen / globben / grepen.
+- Niemals andere Themenordner oder fertige Dateien lesen.
+- Skripte werden mit Write-Tool erstellt (kein Edit auf vorhandenem Skript).
+- Strikte Einhaltung der Dateinamen-Konvention aus CLAUDE.md.
+- Keine Sonderzeichen (ae/oe/ue/ss) in Dateinamen.
+- Bei Bildaufgaben nur Platzhalter [BILD: ...], keine echten Bilder generieren.
+
+START: Beginne sofort mit Schritt 1 (nur diese drei Dateien lesen).
+
+==============================================================================
+ENDE PROMPT
+==============================================================================

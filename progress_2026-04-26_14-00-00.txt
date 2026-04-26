@@ -1,0 +1,31 @@
+ORIGINAL-PROMPT:
+A2 Kinder
+
+ROOT CAUSE:
+kein Fehler, neues Feature — Start des A2_Kinder-Niveaus nach Abschluss A1_Kinder.
+
+LOESUNGSVORSCHLAG:
+A2_Kinder Curriculum aus AAAA Checkliste extrahiert:
+11 Themen, 32 Unterpunkte, ca. 406 Dateien geplant.
+Begonnen mit Thema 01 (Familie & Alltag) UP 01 (Familie ausfuehrlich erzaehlen).
+Skript-Template aus create_Familie_01_Familienmitglieder.js uebernommen, A2-Niveau angepasst:
+  - laengere Lesetexte
+  - Perfekt-Saetze
+  - mehr Adjektive (Aussehen/Charakter)
+  - komplexere Aufgaben (Saetze verbinden mit und/aber, Verwandtenbeschreibung)
+  - Wortliste 15 Eintraege statt 12
+
+TATSAECHLICHE LOESUNG:
+- _scripts/create_A2K_FamilieAlltag_01_FamilieErzaehlen.js (neu)
+- A2_Kinder/01_FamilieAlltag/01_FamilieErzaehlen/ (12 Dateien neu)
+- progress.txt aktualisiert mit kompletter A2_Kinder-Themenliste
+- Tasks #1-#11 fuer A2_Kinder-Themen angelegt; Task #1 (Thema 01) in_progress
+
+STATUS:
+in Arbeit
+
+NAECHSTER SCHRITT:
+Thema 01 UP 02 — Familienmitglieder beschreiben (Aussehen, Charakter einfach):
+Skript create_A2K_FamilieAlltag_02_FamilieBeschreiben.js erstellen.
+Wortschatz: gross/klein, dick/duenn, alt/jung, Haarfarbe, Augenfarbe, freundlich/streng/lustig/ernst.
+Grammatik-Fokus: Adjektive in praedikativer Stellung ("Mein Vater ist gross.").

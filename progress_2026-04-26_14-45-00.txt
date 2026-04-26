@@ -1,0 +1,33 @@
+ORIGINAL-PROMPT:
+weiter
+
+ROOT CAUSE:
+kein Fehler, neues Feature — Beginn A2_Kinder Thema 02 (Schule & Lernen) UP 01.
+
+LÖSUNGSVORSCHLAG:
+A2_Kinder Thema 02 UP 01 (Schulalltag beschreiben):
+Skript erstellt mit Schwerpunkt:
+  - Wortschatz: Schultag, Stundenplan, Stunde, Pause, Schulhof, Mensa, Klassenarbeit, Note,
+    Lehrer/in, Mitschüler/in, Pausenbrot
+  - Grammatik-Fokus: Präteritum von sein und haben (war, hatte) für "Heute war ..."
+  - Trennbares Verb 'anfangen' (die Stunde fängt an)
+  - Lesetext "Tims langer Donnerstag" — kompletter Schultag, Vergangenheitsformen
+  - Stundenplan-Rekonstruktion als Lesetest
+  - Konversation: Stundenplan-Memory-Spiel als Wortschatzdrill
+  - Alle Inhalte mit echten Umlauten ä/ö/ü/ß; Dateinamen ASCII
+
+TATSÄCHLICHE LÖSUNG:
+- _scripts/create_A2K_SchuleLernen_01_Schulalltag.js (neu)
+- A2_Kinder/02_SchuleLernen/01_Schulalltag/ (12 Dateien)
+- progress.txt: UP 01 Thema 02 abgehakt; nächster Schritt = UP 02
+- Task #2 bleibt in_progress
+
+STATUS:
+in Arbeit
+
+NÄCHSTER SCHRITT:
+Thema 02 UP 02 — Lieblingsfach, beste Freunde
+Skript create_A2K_SchuleLernen_02_LieblingsfachFreunde.js
+Wortschatz: alle Schulfächer (Mathe, Deutsch, Englisch, Sport, Musik, Kunst, Bio, Chemie, Physik,
+Erdkunde, Geschichte, Religion, Ethik), beste/r Freund/in, Adjektive (toll, lustig, hilfsbereit, klug)
+Grammatik: gern / lieber / am liebsten (Steigerung von Adverbien); weil-Sätze als Übergang.

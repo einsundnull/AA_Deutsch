@@ -1,0 +1,85 @@
+============================================================
+Progress-Log 2026-04-26 12:46
+A2_Kinder / Thema 02 SchuleLernen / UP 04
+============================================================
+
+PROMPT:
+"ja" — Weitermachen mit naechstem Unterpunkt nach UP 03 (Meinungen).
+Naechster Punkt laut progress.txt: Thema 02 UP 04 — Hausaufgaben und
+Pruefungen (Modalverben muessen / sollen / koennen).
+
+============================================================
+ZUSAMMENFASSUNG
+============================================================
+
+Vorgehen:
+1. Skript create_A2K_SchuleLernen_04_HausaufgabenPruefungen.js auf Basis
+   der Vorlage erstellt — alle 12 Dateien (6 Uebungen + 6 Loesungen).
+2. Echte Umlaute in Inhalten (Pruefung, fuer, muessen ...), Dateinamen
+   bleiben ASCII (Pruefungen, ue/oe/ae) gemaess Memory-Regel.
+3. Skript ausgefuehrt — alle 12 Dateien erfolgreich erzeugt.
+4. progress.txt: UP 04 auf [X], GESAMT 74 -> 86 (21%), NAECHSTER SCHRITT
+   ist jetzt Thema 02 ABSCHLUSS.
+
+============================================================
+ERSTELLTE DATEIEN (12)
+============================================================
+
+Skript:
+  _scripts/create_A2K_SchuleLernen_04_HausaufgabenPruefungen.js
+
+Ausgabe-Ordner:
+  A2_Kinder/02_SchuleLernen/04_HausaufgabenPruefungen/
+
+Uebungen + Loesungen:
+  - A2_Kinder_SchuleLernen_04_HausaufgabenPruefungen_Schreiben.docx
+  - A2_Kinder_SchuleLernen_04_HausaufgabenPruefungen_Schreiben_LOESUNG.docx
+  - A2_Kinder_SchuleLernen_04_HausaufgabenPruefungen_Lesen.docx
+  - A2_Kinder_SchuleLernen_04_HausaufgabenPruefungen_Lesen_LOESUNG.docx
+  - A2_Kinder_SchuleLernen_04_HausaufgabenPruefungen_Luecken.docx
+  - A2_Kinder_SchuleLernen_04_HausaufgabenPruefungen_Luecken_LOESUNG.docx
+  - A2_Kinder_SchuleLernen_04_HausaufgabenPruefungen_Wortliste.docx
+  - A2_Kinder_SchuleLernen_04_HausaufgabenPruefungen_Wortliste_LOESUNG.docx
+  - A2_Kinder_SchuleLernen_04_HausaufgabenPruefungen_Konversation.docx
+  - A2_Kinder_SchuleLernen_04_HausaufgabenPruefungen_Konversation_LOESUNG.docx
+  - A2_Kinder_SchuleLernen_04_HausaufgabenPruefungen_Bildaufgaben.docx
+  - A2_Kinder_SchuleLernen_04_HausaufgabenPruefungen_Bildaufgaben_LOESUNG.docx
+
+============================================================
+INHALTLICHE LOESUNGEN / VORSCHLAEGE
+============================================================
+
+Schreiben:
+  - 3 Aufgaben: Modalverb-Lueckenfuellung -> Satz-Ergaenzung -> 5-6 Saetze
+    'Mein Tag mit Hausaufgaben'
+Lesen:
+  - Geschichte 'Eine schwierige Woche' (Tarek mit Referat, Mathe-Pruefung,
+    Englisch-Test, Bruder Karim hilft mit Lernplan)
+  - 3 Aufgaben: R/F, W-Fragen, Verben suchen
+Luecken:
+  - Woerterkasten mit Modalformen + Nomen + Verben
+  - 3 Bloecke: Modalverben einsetzen -> Wortschatz -> Dialog Mama/Kind
+Wortliste:
+  - 15 Eintraege (Nomen, Verb-Phrasen, Modalverben)
+  - Vollstaendige Modalverb-Konjugationstabelle (muessen/sollen/koennen)
+  - Wortstellungs-Regel: Modalverb Pos. 2, Vollverb-Infinitiv am Ende
+  - Schulnoten 1-6 erklaert
+Konversation:
+  - Dialog 1 Papa/Sara (vollstaendig, mit Pausen-Tipp)
+  - Dialog 2 mit Luecken zum Ergaenzen
+  - Partnerinterview (7 Fragen)
+  - Gruppenspiel 'Lern-Staffel'
+Bildaufgaben:
+  - 4 Aufgabentypen: Satz unter Bild (6 Bilder), Sprechblasen mit Modalverb,
+    eigener Wochenlernplan, 3 Saetze ueber den Plan
+
+============================================================
+NAECHSTER SCHRITT
+============================================================
+
+Thema 02 ABSCHLUSS — Schule & Lernen
+  Kombination aller 4 Unterpunkte (Schulalltag, Lieblingsfach, Meinungen,
+  Hausaufgaben). Mind. 5 Aufgaben: Lesetext, Lueckentext, Schreibaufgabe,
+  mind. 1 Konversationsaufgabe + Selbstevaluation.
+  Grammatik-Schwerpunkte: finden + Akk + Adjektiv, muessen/sollen/koennen,
+  Wortstellung im Hauptsatz.

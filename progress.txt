@@ -1,0 +1,97 @@
+Fortschritt Deutschunterricht-Materialien
+Stand: 2026-04-26 (aktualisiert)
+
+============================================================
+A1_KINDER VOLLSTAENDIG ABGESCHLOSSEN — 13 Themen, 542 Dateien
+============================================================
+
+ABGESCHLOSSEN A1_KINDER:
+[X] Thema 01 SichVorstellen     (5 UP x 12 + 2 = 62 Dateien)
+[X] Thema 02 Familie            (4 UP x 12 + 2 = 50 Dateien)
+[X] Thema 03 SchuleLernen       (5 UP x 12 + 2 = 62 Dateien)
+[X] Thema 04 ZahlenFarbenFormen (3 UP x 12 + 2 = 38 Dateien)
+[X] Thema 05 KoerperGesundheit  (2 UP x 12 + 2 = 26 Dateien)
+[X] Thema 06 Kleidung           (2 UP x 12 + 2 = 26 Dateien)
+[X] Thema 07 EssenTrinken       (4 UP x 12 + 2 = 50 Dateien)
+[X] Thema 08 SpielenFreizeit    (3 UP x 12 + 2 = 38 Dateien)
+[X] Thema 09 Tiere              (3 UP x 12 + 2 = 38 Dateien)
+[X] Thema 10 Zuhause            (2 UP x 12 + 2 = 26 Dateien)
+[X] Thema 11 WetterJahreszeiten (3 UP x 12 + 2 = 38 Dateien)
+[X] Thema 12 FesteFeiern        (2 UP x 12 + 2 = 26 Dateien)
+[X] Thema 13 GrammatikMinimum   (5 UP x 12 + 2 = 62 Dateien)
+
+============================================================
+AKTUELL IN ARBEIT: A2_KINDER (11 Themen, ca. 406 Dateien)
+============================================================
+
+Thema 01: Familie & Alltag (3 UP)  — ABGESCHLOSSEN (38 Dateien)
+  [X] 01 Ausfuehrlich ueber die Familie erzaehlen
+  [X] 02 Familienmitglieder beschreiben (Aussehen, Charakter)
+  [X] 03 Ueber den Alltag der Familie sprechen
+  [X] ABSCHLUSS
+
+Thema 02: Schule & Lernen (4 UP)  — ABGESCHLOSSEN (50 Dateien)
+  [X] 01 Schulalltag beschreiben
+  [X] 02 Lieblingsfach, beste Freunde
+  [X] 03 Einfache Meinungen zu Schulfaechern
+  [X] 04 Hausaufgaben und Pruefungen
+  [X] ABSCHLUSS
+
+Thema 03: Freizeit & Hobbys (3 UP)
+  [ ] 01 Detaillierter ueber Hobbys sprechen
+  [ ] 02 Verabredungen treffen (Hast du Lust zu ...?)
+  [ ] 03 Ueber Kino, Buecher, Spiele sprechen
+  [ ] ABSCHLUSS
+
+Thema 04: Essen & Gesundheit (3 UP)
+  [ ] 01 Gesundes und ungesundes Essen
+  [ ] 02 Einfache Rezepte verstehen
+  [ ] 03 Beim Arzt (Bauchweh, Kopfweh, Halsweh)
+  [ ] ABSCHLUSS
+
+Thema 05: Einkaufen (2 UP)
+  [ ] 01 Im Supermarkt, im Kiosk, beim Baecker
+  [ ] 02 Taschengeld und Preise
+  [ ] ABSCHLUSS
+
+Thema 06: Feste & Traditionen (2 UP)
+  [ ] 01 Feste beschreiben (Geburtstag, Weihnachten, Ostern)
+  [ ] 02 Einladungen schreiben und beantworten
+  [ ] ABSCHLUSS
+
+Thema 07: Reisen & Ferien (3 UP)
+  [ ] 01 Urlaub beschreiben
+  [ ] 02 Transportmittel
+  [ ] 03 Einfache Postkarten schreiben
+  [ ] ABSCHLUSS
+
+Thema 08: Natur & Umwelt (2 UP)
+  [ ] 01 Tiere und Pflanzen
+  [ ] 02 Einfache Umweltthemen (Muell trennen, Wasser sparen)
+  [ ] ABSCHLUSS
+
+Thema 09: Medien (2 UP)
+  [ ] 01 Fernsehen, Handy, Tablet, Computer
+  [ ] 02 Lieblingsfilm/-serie nennen
+  [ ] ABSCHLUSS
+
+Thema 10: Gefuehle (1 UP)
+  [ ] 01 Gefuehle ausdruecken (froh, traurig, muede, wuetend, Angst)
+  [ ] ABSCHLUSS
+
+Thema 11: Grammatik A2 Kinder (7 UP)
+  [ ] 01 Perfekt (regelmaessig + haeufige unregelmaessige Verben)
+  [ ] 02 Praeteritum von sein und haben
+  [ ] 03 Dativ (Einfuehrung)
+  [ ] 04 Wechselpraepositionen (auf dem/auf den)
+  [ ] 05 Komparativ und Superlativ
+  [ ] 06 Nebensaetze mit weil
+  [ ] 07 Modalverben im Praeteritum (konnte, musste, wollte)
+  [ ] ABSCHLUSS
+
+GESAMT A2_KINDER bisher: 88 von ca. 406 Dateien (22%)
+
+NAECHSTER SCHRITT:
+Thema 03 UP 01 — Detaillierter ueber Hobbys sprechen
+(Wortschatz: Hobbys, Freizeit-Verben; Grammatik: gern/lieber/am liebsten,
+ Haeufigkeitsadverbien immer/oft/manchmal/selten/nie)

@@ -1,0 +1,32 @@
+Session: 2026-04-25 — Thema 12 KOMPLETT FERTIG
+
+PROMPT:
+"ja"
+
+ZUSAMMENFASSUNG:
+Thema 12 FesteFeiern vollstaendig abgeschlossen.
+UP 02 (Weihnachten/Ostern/Fasching) + ABSCHLUSS erstellt.
+
+ERSTELLT IN DIESER SESSION:
+Skripte:
+  - _scripts/create_FesteFeiern_02_WeihnachtenOsternFasching.js
+  - _scripts/create_FesteFeiern_ABSCHLUSS.js
+
+Ordner: A1_Kinder/12_FesteFeiern/
+  - 02_WeihnachtenOsternFasching/  (12 Dateien)
+  - ABSCHLUSS/                     (2 Dateien)
+  Diese Session: 14 Dateien
+
+GESAMT THEMA 12: 26 Dateien (01 Geburtstag + 02 W/O/F + ABSCHLUSS)
+GESAMT BISHER: 480 Dateien
+
+A1_Kinder ist jetzt fast komplett — nur noch Thema 13 Grammatik fehlt!
+
+NAECHSTER SCHRITT:
+Thema 13 GrammatikMinimum (5 UP + ABSCHLUSS = 62 Dateien)
+  - 01 Verben Praesens (sein, haben, moegen, heissen)
+  - 02 Artikel (der, die, das)
+  - 03 Plural einfacher Nomen
+  - 04 Wortstellung
+  - 05 Personalpronomen
+  - ABSCHLUSS

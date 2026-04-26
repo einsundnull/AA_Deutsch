@@ -1,0 +1,93 @@
+﻿===============================================================================
+PROGRESS.TXT -- Deutschunterricht Uebungsprojekt
+===============================================================================
+Letzte Aktualisierung: 23.04.2026 -- Session 3: Unterpunkt 03 "Wohnort" fertig
+Projektordner: C:\Users\pc\Desktop\Standard Files\AA Deutsch
+
+
+-------------------------------------------------------------------------------
+STAND DER ARBEIT
+-------------------------------------------------------------------------------
+
+[AKTUELL IN ARBEIT]
+Zielgruppe: Kinder/Jugendliche
+Niveau:     A1
+Thema:      Sich selbst vorstellen
+Unterpunkt: 04 -- Herkunft nennen (als naechstes)
+
+[FERTIG]
+  Unterpunkt 01 "Name sagen und erfragen"      -- Session 1
+    Dateien: A1_Kinder/01_SichVorstellen/01_Name/  (12 Dateien)
+
+  Unterpunkt 02 "Alter sagen und erfragen"     -- Session 2
+    Dateien: A1_Kinder/01_SichVorstellen/02_Alter/ (12 Dateien)
+
+  Unterpunkt 03 "Wohnort nennen"               -- Session 3
+    Dateien: A1_Kinder/01_SichVorstellen/03_Wohnort/ (12 Dateien)
+
+[ALS NAECHSTES]
+  Unterpunkt 04 "Herkunft nennen"
+  Unterpunkt 05 "Sprachen nennen"
+  ABSCHLUSSÜBUNG fuer Thema "Sich selbst vorstellen"
+  Neues Thema: "Familie" (A1 Kinder)
+
+
+-------------------------------------------------------------------------------
+FORTSCHRITTSLISTE -- A1 KINDER / JUGENDLICHE
+-------------------------------------------------------------------------------
+Legende: [ ] = offen   [X] = fertig
+
+THEMA 01: Sich selbst vorstellen
+  [X] 01 Name sagen und erfragen
+  [X] 02 Alter sagen und erfragen
+  [X] 03 Wohnort nennen
+  [ ] 04 Herkunft nennen
+  [ ] 05 Sprachen nennen
+  [ ] ABSCHLUSSÜBUNG
+
+THEMA 02: Familie
+  [ ] 01 Familienmitglieder benennen
+  [ ] 02 Ueber Geschwister sprechen
+  [ ] 03 Haustiere benennen
+  [ ] 04 Possessivpronomen (mein/meine)
+  [ ] ABSCHLUSSÜBUNG
+
+THEMA 03: Schule & Lernen
+  [ ] 01 Schulsachen
+  [ ] 02 Klassenzimmer
+  [ ] 03 Schulfaecher
+  [ ] 04 Wochentage
+  [ ] 05 Stundenplan
+  [ ] ABSCHLUSSÜBUNG
+
+THEMA 04: Zahlen, Farben, Formen
+  [ ] 01 Zahlen 1-20
+  [ ] 02 Grundfarben
+  [ ] 03 Formen
+  [ ] ABSCHLUSSÜBUNG
+
+THEMA 05 bis 13: noch nicht begonnen
+
+
+-------------------------------------------------------------------------------
+TECHNISCHE NOTIZEN
+-------------------------------------------------------------------------------
+- Node.js v22.16.0, docx v9.6.1
+- Generatoren: AA Deutsch/_scripts/create_0X_*.js
+- Wichtig: Strings mit Sonderzeichen immer ueber PowerShell-Heredoc schreiben
+  (keine typografischen Anfuehrungszeichen in JS-String-Literals verwenden)
+
+
+-------------------------------------------------------------------------------
+WEITERE NIVEAUS (NOCH NICHT AUFGESCHLUESSELT)
+-------------------------------------------------------------------------------
+[ ] A1 Erwachsene
+[ ] A2 Kinder
+[ ] A2 Erwachsene
+[ ] B1 Kinder/Jugendliche
+[ ] B1 Erwachsene
+[ ] B2
+
+===============================================================================
+ENDE
+===============================================================================

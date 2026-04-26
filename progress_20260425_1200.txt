@@ -1,0 +1,30 @@
+Session: 2026-04-25 — Thema 11 Unterpunkt 01 Wetter
+
+PROMPT:
+"Ich möchte, dass du weiter machst"
+
+ZUSAMMENFASSUNG:
+Progress gelesen. Stand: Thema 01–10 fertig (416 Dateien).
+Naechstes: Thema 11 WetterJahreszeiten, UP 01 Wetter.
+
+ERSTELLT:
+Skript: _scripts/create_WetterJahreszeiten_01_Wetter.js
+Ordner: A1_Kinder/11_WetterJahreszeiten/01_Wetter/
+12 Dateien (6 Uebungen + 6 Loesungen):
+  - A1_Kinder_WetterJahreszeiten_01_Wetter_Schreiben.docx
+  - A1_Kinder_WetterJahreszeiten_01_Wetter_Schreiben_LOESUNG.docx
+  - A1_Kinder_WetterJahreszeiten_01_Wetter_Lesen.docx
+  - A1_Kinder_WetterJahreszeiten_01_Wetter_Lesen_LOESUNG.docx
+  - A1_Kinder_WetterJahreszeiten_01_Wetter_Luecken.docx
+  - A1_Kinder_WetterJahreszeiten_01_Wetter_Luecken_LOESUNG.docx
+  - A1_Kinder_WetterJahreszeiten_01_Wetter_Wortliste.docx
+  - A1_Kinder_WetterJahreszeiten_01_Wetter_Wortliste_LOESUNG.docx
+  - A1_Kinder_WetterJahreszeiten_01_Wetter_Konversation.docx
+  - A1_Kinder_WetterJahreszeiten_01_Wetter_Konversation_LOESUNG.docx
+  - A1_Kinder_WetterJahreszeiten_01_Wetter_Bildaufgaben.docx
+  - A1_Kinder_WetterJahreszeiten_01_Wetter_Bildaufgaben_LOESUNG.docx
+
+GESAMT BISHER: 428 Dateien
+
+NAECHSTER SCHRITT:
+Thema 11 UP 02 Jahreszeiten (12 Dateien)
