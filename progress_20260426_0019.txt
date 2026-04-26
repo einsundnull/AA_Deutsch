@@ -1,0 +1,31 @@
+Datum: 2026-04-26
+Session-Log: AA Deutsch
+
+PROMPT:
+Thema 09 UP 01 — A2_Kinder Medien: Fernsehen, Handy, Tablet, Computer.
+
+ZUSAMMENFASSUNG:
+Skript create_Medien_01_GeraeteMedien.js erstellt und auf Anhieb erfolgreich ausgefuehrt.
+12 Dateien erstellt.
+
+INHALT:
+- Schreiben: Geraete + Aktivitaeten zuordnen, trennbare Verben bilden, eigener Medienalltag
+- Lesen: "Zu viel Bildschirmzeit?" (Noah, 12 J., Handy/Tablet/Fernseher, Bildschirmregeln) + R/F + Fragen
+- Luecken: Medienvokabular + Dialog Mediendiskussion zu Hause
+- Wortliste: 13 Eintraege + Trennbare-Verben-Tabelle (6 Verben mit Praesens+Perfekt)
+- Konversation: Dialog Medienstreit (Emma+Papa), Dialog Lieblings-App, Klassendiskussion Handyregeln
+- Bildaufgaben: Geraete benennen, Diagramm auswerten (5,5 Std. Bildschirmzeit gesamt), Klassenregeln lesen, eigene Regeln erstellen
+
+GRAMMATIK-SCHWERPUNKTE:
+- Trennbare Verben: herunterladen, hochladen, anschauen, ausschalten, einschalten, abspielen
+- Bildschirmzeit (Dauer mit: stundenlang, zu lange)
+- Medienregeln mit Man darf / Man darf nicht + Infinitiv
+- duerfen (Modalverb) im Kontext Medienregeln
+
+ERSTELLTE DATEIEN (12):
+- A2_Kinder/09_Medien/01_GeraeteMedien/ (alle 12 Dateien)
+
+PROGRESS.TXT:
+- UP 01 auf [X] gesetzt
+- GESAMT: 280 -> 292 Dateien (72%)
+- NAECHSTER SCHRITT: Thema 09 UP 02 — Lieblingsfilm/-serie nennen

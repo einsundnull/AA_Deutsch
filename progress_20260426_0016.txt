@@ -1,0 +1,32 @@
+Datum: 2026-04-26
+Session-Log: AA Deutsch
+
+PROMPT:
+Thema 08 UP 01 — A2_Kinder Natur & Umwelt: Tiere und Pflanzen.
+
+ZUSAMMENFASSUNG:
+Skript create_NaturUmwelt_01_TierePflanzen.js erstellt und auf Anhieb erfolgreich ausgefuehrt.
+12 Dateien erstellt.
+
+INHALT:
+- Schreiben: Tiere/Pflanzen sortieren (Saeugetiere/Voegel/Baeume/Blumen), Tier beschreiben nach Muster (Fuchs, Adler), Lieblingstier frei beschreiben
+- Lesen: "Der Biber — Baumeister am Fluss" (Lebensraum, Daemme, Ernaehrung, Schutzstatus) + R/F + Fragen
+- Luecken: Tiereigenschaften ergaenzen, Tier-Raetsel loesen (Wolf/Adler/Eiche), eigenes Raetsel schreiben
+- Wortliste: 13 Eintraege + Lebensraeume-Tabelle (Wald/Fluss/Wiese/Gebirge) + Grammatik-Strukturen
+- Konversation: Dialog Naturkundemuseum (Wolf), Dialog Lieblingspflanze (Sonnenblume/Tanne), Tier-Raetsel-Spiel, Partnerinterview
+- Bildaufgaben: 6 Tiere/Pflanzen benennen, Ernaehrung zuordnen, Lebensraeume zuordnen, Lieblingstier zeichnen+beschreiben
+
+GRAMMATIK-SCHWERPUNKTE:
+- leben in/an/auf + Dativ (im Wald, am Fluss, auf der Wiese)
+- sich ernaehren von + Dativ
+- haben + Akkusativ fuer Koerperteile (hat scharfe Zaehne)
+- koennen + Infinitiv fuer Faehigkeiten
+- gefaehrdet sein / vom Aussterben bedroht sein
+
+ERSTELLTE DATEIEN (12):
+- A2_Kinder/08_NaturUmwelt/01_TierePflanzen/ (alle 12 Dateien)
+
+PROGRESS.TXT:
+- UP 01 auf [X] gesetzt
+- GESAMT: 254 -> 266 Dateien (66%)
+- NAECHSTER SCHRITT: Thema 08 UP 02 — Einfache Umweltthemen

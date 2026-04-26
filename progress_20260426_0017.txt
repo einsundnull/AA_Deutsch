@@ -1,0 +1,32 @@
+Datum: 2026-04-26
+Session-Log: AA Deutsch
+
+PROMPT:
+Thema 08 UP 02 — A2_Kinder Natur & Umwelt: Einfache Umweltthemen (Muell trennen, Wasser sparen).
+
+ZUSAMMENFASSUNG:
+Skript create_NaturUmwelt_02_Umweltthemen.js erstellt und auf Anhieb erfolgreich ausgefuehrt.
+12 Dateien erstellt.
+
+INHALT:
+- Schreiben: Muell den richtigen Tonnen zuordnen (6 Kategorien), Umwelttipps mit Man sollte/kann formulieren, eigener Umweltbericht
+- Lesen: "Leas gruener Alltag" (Muelltrennung 5 Tonnen, kurz duschen, Regenwassertonne, Licht ausschalten) + R/F + Fragen
+- Luecken: Umweltwortschatz, Dialog Umweltprojekt in der Klasse, eigene Meinung formulieren
+- Wortliste: 13 Eintraege + Muellttonnen-Tabelle + 10 Umwelttipps
+- Konversation: Dialog Muelltrennen erklaeren, Dialog Umwelttipps sammeln (Klassenprojekt), Umwelt-Debatte (Muell vs. Wasser/Strom), Partnerinterview
+- Bildaufgaben: Muelltonnen zuordnen, gut/schlecht fuer Umwelt beurteilen, Schulplakat lesen, eigenes Plakat entwerfen
+
+GRAMMATIK-SCHWERPUNKTE:
+- Man sollte + Infinitiv (Empfehlung)
+- Es ist wichtig, dass + Nebensatz (Verb am Ende)
+- Das schadet + Dativ (der Umwelt)
+- Man kann + Infinitiv (Moeglichkeit)
+- umweltfreundlich, Komparativ: umweltfreundlicher als
+
+ERSTELLTE DATEIEN (12):
+- A2_Kinder/08_NaturUmwelt/02_Umweltthemen/ (alle 12 Dateien)
+
+PROGRESS.TXT:
+- UP 02 auf [X] gesetzt
+- GESAMT: 266 -> 278 Dateien (68%)
+- NAECHSTER SCHRITT: Thema 08 ABSCHLUSS — Natur & Umwelt

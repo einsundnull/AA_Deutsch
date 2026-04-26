@@ -1,0 +1,32 @@
+Datum: 2026-04-26
+Session-Log: AA Deutsch
+
+PROMPT:
+Thema 09 UP 02 — A2_Kinder Medien: Lieblingsfilm/-serie nennen.
+
+ZUSAMMENFASSUNG:
+Skript create_Medien_02_LieblingsfilmSerie.js erstellt und auf Anhieb erfolgreich ausgefuehrt.
+12 Dateien erstellt.
+
+INHALT:
+- Schreiben: Filmtypen verbinden, Adjektiv-Saetze, eigener Lieblingsfilm (4-5 Saetze)
+- Lesen: "Kinoabend mit der Familie" (Lena+Jonas, Zeichentrickfilm "Drachenreiter", Empfehlung an Freundin) + R/F + Fragen
+- Luecken: Medienvokabular + Dialog Filmempfehlung (Mia+Tim)
+- Wortliste: 13 Eintraege + Grammatiktabelle (Ich finde / handeln von / empfehlen / weil)
+- Konversation: Dialog Filmempfehlung, Dialog Filmwahl, Partnerinterview (6 Fragen)
+- Bildaufgaben: 3 Filmplakate beurteilen, Diagramm Lieblingsfilmtypen (34 Schueler, 5 Typen), Filmrezension-Vorlage, eigenes Filmplakat gestalten
+
+GRAMMATIK-SCHWERPUNKTE:
+- Ich finde + [Nomen] + [Adjektiv] (Meinung ausdruecken)
+- Der Film handelt von + Dativ
+- Ich empfehle dir + [Nomen]
+- weil + Verb am Ende (Nebensatz)
+- Filmtypen mit Artikel: der Zeichentrickfilm, der Abenteuerfilm, die Komoedie, der Krimi
+
+ERSTELLTE DATEIEN (12):
+- A2_Kinder/09_Medien/02_LieblingsfilmSerie/ (alle 12 Dateien)
+
+PROGRESS.TXT:
+- UP 02 auf [X] gesetzt
+- GESAMT: 292 -> 304 Dateien (75%)
+- NAECHSTER SCHRITT: Thema 09 ABSCHLUSS — Medien

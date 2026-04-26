@@ -1,0 +1,26 @@
+Datum: 2026-04-26
+Session-Log: AA Deutsch
+
+PROMPT:
+Thema 08 ABSCHLUSS — A2_Kinder Natur & Umwelt (kombiniert UP 01-02).
+
+ZUSAMMENFASSUNG:
+Skript create_NaturUmwelt_ABSCHLUSS.js erstellt und auf Anhieb erfolgreich ausgefuehrt.
+2 Dateien erstellt. Thema 08 vollstaendig abgeschlossen (26 Dateien).
+
+INHALT:
+- Aufgabe 1: Text "Der Wald braucht uns" (Lebensraum, CO2/Sauerstoff, Klimawandel, Abholzung, Schutzmoeglichkeiten) + R/F + Fragen
+- Aufgabe 2: Lueckentext (beide UPs gemischt: Tiere + Umwelt, 12 Woerter)
+- Aufgabe 3: Tier nach Wahl beschreiben (6 Tiere zur Auswahl, 5-6 Saetze)
+- Aufgabe 4: 4 Umwelttipps fuer die Schule formulieren (Man sollte / Man kann / Es ist wichtig, dass)
+- Aufgabe 5: Natur & Umwelt — eigene Meinung (7-8 Saetze, Tier + Umwelthandlungen + Meinung)
+- Aufgabe 6: Selbstevaluation (6 Lernziele)
+
+ERSTELLTE DATEIEN (2):
+- A2_Kinder/08_NaturUmwelt/ABSCHLUSS/A2_Kinder_NaturUmwelt_ABSCHLUSS.docx
+- A2_Kinder/08_NaturUmwelt/ABSCHLUSS/A2_Kinder_NaturUmwelt_ABSCHLUSS_LOESUNG.docx
+
+PROGRESS.TXT:
+- ABSCHLUSS auf [X], Thema 08 als ABGESCHLOSSEN (26 Dateien) markiert
+- GESAMT: 278 -> 280 Dateien (69%)
+- NAECHSTER SCHRITT: Thema 09 UP 01 — Medien: Fernsehen, Handy, Tablet, Computer

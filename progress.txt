@@ -65,19 +65,19 @@ Thema 07: Reisen & Ferien (3 UP)  — ABGESCHLOSSEN (38 Dateien)
   [X] 03 Einfache Postkarten schreiben
   [X] ABSCHLUSS
 
-Thema 08: Natur & Umwelt (2 UP)
-  [ ] 01 Tiere und Pflanzen
-  [ ] 02 Einfache Umweltthemen (Muell trennen, Wasser sparen)
-  [ ] ABSCHLUSS
+Thema 08: Natur & Umwelt (2 UP)  — ABGESCHLOSSEN (26 Dateien)
+  [X] 01 Tiere und Pflanzen
+  [X] 02 Einfache Umweltthemen (Muell trennen, Wasser sparen)
+  [X] ABSCHLUSS
 
-Thema 09: Medien (2 UP)
-  [ ] 01 Fernsehen, Handy, Tablet, Computer
-  [ ] 02 Lieblingsfilm/-serie nennen
-  [ ] ABSCHLUSS
+Thema 09: Medien (2 UP)  — ABGESCHLOSSEN (26 Dateien)
+  [X] 01 Fernsehen, Handy, Tablet, Computer
+  [X] 02 Lieblingsfilm/-serie nennen
+  [X] ABSCHLUSS
 
-Thema 10: Gefuehle (1 UP)
-  [ ] 01 Gefuehle ausdruecken (froh, traurig, muede, wuetend, Angst)
-  [ ] ABSCHLUSS
+Thema 10: Gefuehle (1 UP)  — ABGESCHLOSSEN (14 Dateien)
+  [X] 01 Gefuehle ausdruecken (froh, traurig, muede, wuetend, Angst)
+  [X] ABSCHLUSS
 
 Thema 11: Grammatik A2 Kinder (7 UP)
   [ ] 01 Perfekt (regelmaessig + haeufige unregelmaessige Verben)
@@ -89,7 +89,7 @@ Thema 11: Grammatik A2 Kinder (7 UP)
   [ ] 07 Modalverben im Praeteritum (konnte, musste, wollte)
   [ ] ABSCHLUSS
 
-GESAMT A2_KINDER bisher: 254 von ca. 406 Dateien (63%)
+GESAMT A2_KINDER bisher: 320 von ca. 406 Dateien (79%)
 
 NAECHSTER SCHRITT:
-Thema 08 UP 01 — Natur & Umwelt: Tiere und Pflanzen
+Thema 11 UP 01 — Grammatik A2 Kinder: Perfekt (regelmaessig + haeufige unregelmaessige Verben)

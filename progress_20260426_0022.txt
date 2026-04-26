@@ -1,0 +1,32 @@
+Datum: 2026-04-26
+Session-Log: AA Deutsch
+
+PROMPT:
+Thema 10 UP 01 — A2_Kinder Gefuehle: froh, traurig, muede, wuetend, Angst.
+
+ZUSAMMENFASSUNG:
+Skript create_Gefuehle_01_GefuehleAusdruecken.js erstellt und auf Anhieb erfolgreich ausgefuehrt.
+12 Dateien erstellt.
+
+INHALT:
+- Schreiben: Gefuehl zur Situation zuordnen (8 Situationen), weil-Saetze mit Gefuehlen, freies Schreiben (4-5 Saetze, 3 Gefuehle)
+- Lesen: "Ein aufregender Tag" (Klara 10 J., Matheprüfung + Fussballspiel, Freundin Yuki, Vater, Tor schiessen) + R/F + Fragen
+- Luecken: Gefuehlsvokabular (10 Woerter) + Dialog Wie geht es dir? (Finn+Lena)
+- Wortliste: 13 Eintraege mit Gegenteil-Spalte + Grammatiktabelle (sein/fühlen/Angst haben/stolz sein/weil)
+- Konversation: Dialog Wie geht es dir?, Dialog Jemanden aufheitern, Partnerinterview (6 Fragen), Gefuehle-Pantomime-Spiel
+- Bildaufgaben: 3 Bilder (traurig/stolz/aengstlich) + weil-Satz, Tortendiagramm Gefuehle Klasse 4b (28 Schueler), Gefuehlspostkarte, Gefuehlsmonster zeichnen
+
+GRAMMATIK-SCHWERPUNKTE:
+- Ich bin + Adjektiv (traurig, muede, wuetend, aufgeregt, stolz, nervoes)
+- Ich fühle mich + Adjektiv (reflexives Verb)
+- Ich habe Angst vor + Dativ
+- Ich bin stolz auf + Akkusativ
+- weil + Verb am Ende (Nebensatz)
+
+ERSTELLTE DATEIEN (12):
+- A2_Kinder/10_Gefuehle/01_GefuehleAusdruecken/ (alle 12 Dateien)
+
+PROGRESS.TXT:
+- UP 01 auf [X] gesetzt
+- GESAMT: 306 -> 318 Dateien (78%)
+- NAECHSTER SCHRITT: Thema 10 ABSCHLUSS — Gefuehle
