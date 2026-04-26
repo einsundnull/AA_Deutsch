@@ -54,10 +54,10 @@ Thema 05: Einkaufen (2 UP)  — ABGESCHLOSSEN (38 Dateien)
   [X] 02 Taschengeld und Preise
   [X] ABSCHLUSS
 
-Thema 06: Feste & Traditionen (2 UP)
+Thema 06: Feste & Traditionen (2 UP)  — ABGESCHLOSSEN (26 Dateien)
   [X] 01 Feste beschreiben (Geburtstag, Weihnachten, Ostern)
   [X] 02 Einladungen schreiben und beantworten
-  [ ] ABSCHLUSS
+  [X] ABSCHLUSS
 
 Thema 07: Reisen & Ferien (3 UP)
   [ ] 01 Urlaub beschreiben
@@ -89,7 +89,7 @@ Thema 11: Grammatik A2 Kinder (7 UP)
   [ ] 07 Modalverben im Praeteritum (konnte, musste, wollte)
   [ ] ABSCHLUSS
 
-GESAMT A2_KINDER bisher: 214 von ca. 406 Dateien (53%)
+GESAMT A2_KINDER bisher: 216 von ca. 406 Dateien (53%)
 
 NAECHSTER SCHRITT:
-Thema 06 ABSCHLUSS — Feste & Traditionen (kombiniert UP 01-02)
+Thema 07 UP 01 — Reisen & Ferien: Urlaub beschreiben
