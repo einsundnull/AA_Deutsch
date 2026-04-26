@@ -1,0 +1,32 @@
+Datum: 2026-04-26
+Session-Log: AA Deutsch
+
+PROMPT:
+Thema 05 UP 02 — A2_Kinder Einkaufen: Taschengeld und Preise.
+
+ZUSAMMENFASSUNG:
+Skript create_Einkaufen_02_Taschengeld.js erstellt und auf Anhieb erfolgreich ausgefuehrt.
+12 Dateien erstellt.
+
+INHALT:
+- Schreiben: Preisvergleiche mit teurer als / guenstiger als, Taschengeld-Plan ausfuellen, Freitext
+- Lesen: "Nikos Sparplan" (spart auf Videospiel, entdeckt Angebot), R/F + Fragen + Rechenaufgaben
+- Luecken: Taschengeldwortschatz, Dialog Spielzeuggeschaeft mit Angebot und Rabatt, freier Sparplan
+- Wortliste: 12 Eintraege (sparen, ausgeben, Schnaeppchen...) + Komparativ-Tabelle
+- Konversation: Dialog Preisvergleich Rucksack + Dialog "Mehr Taschengeld?" + Interview + Preis-Schaetzspiel
+- Bildaufgaben: Preisschilder lesen, Balkendiagramm auswerten, Sparplan-Tabelle fuellen, Angebot berechnen
+
+GRAMMATIK-SCHWERPUNKTE:
+- Komparativ: teurer als / guenstiger als / so teuer wie
+- Superlativ: am teuersten / am guenstigsten
+- Perfekt: gespart / ausgegeben
+- sparen auf + Akkusativ
+- sich leisten koennen
+
+ERSTELLTE DATEIEN (12):
+- A2_Kinder/05_Einkaufen/02_Taschengeld/ (alle 12 Dateien)
+
+PROGRESS.TXT:
+- UP 02 auf [X] gesetzt
+- GESAMT: 176 -> 188 Dateien (46%)
+- NAECHSTER SCHRITT: Thema 05 ABSCHLUSS — Einkaufen

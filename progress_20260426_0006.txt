@@ -1,0 +1,31 @@
+Datum: 2026-04-26
+Session-Log: AA Deutsch
+
+PROMPT:
+Thema 05 UP 01 — A2_Kinder Einkaufen: Im Supermarkt, im Kiosk, beim Baecker.
+
+ZUSAMMENFASSUNG:
+Skript create_Einkaufen_01_Supermarkt.js erstellt.
+Kleiner Syntaxfehler (]}] statt ]}),) sofort korrigiert.
+12 Dateien erfolgreich erstellt.
+
+INHALT:
+- Schreiben: Produkte den 3 Geschaeften zuordnen, Baeckerei-Dialog ergaenzen, eigenen Einkaufszettel schreiben
+- Lesen: Geschichte "Emmas Samstag-Einkauf" (Baeckerei -> Supermarkt -> Kiosk), R/F + Fragen + Zuordnung
+- Luecken: Saetze mit Einkaufswortschatz, Baeckerei-Dialog, freier Einkaufsplan
+- Wortliste: 14 Eintraege (Orte, Produkte, Ausdruecke) + Akkusativ-Tabelle (der/die/das)
+- Konversation: Dialog Baeckerei (mit Preisberechnung) + Dialog nach Einkauf + Rollenspielkarten + Preis-Ratespiel
+- Bildaufgaben: Geschaefte benennen, Kassenbon lesen, Dialog zum Bild schreiben, Einkaufszettel
+
+GRAMMATIK-SCHWERPUNKTE:
+- Akkusativ: einen/eine/ein bei kaufen/nehmen/haette gerne
+- Ich haette gerne ... (Konjunktiv II, hoefliche Bitte)
+- Preis-Ausdrucke: Was kostet ...? Das macht ... Euro. Stimmt so.
+
+ERSTELLTE DATEIEN (12):
+- A2_Kinder/05_Einkaufen/01_Supermarkt/ (alle 12 Dateien)
+
+PROGRESS.TXT:
+- UP 01 auf [X] gesetzt
+- GESAMT: 164 -> 176 Dateien (43%)
+- NAECHSTER SCHRITT: Thema 05 UP 02 — Taschengeld und Preise

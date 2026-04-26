@@ -1,0 +1,26 @@
+Datum: 2026-04-26
+Session-Log: AA Deutsch
+
+PROMPT:
+Thema 04 ABSCHLUSS — A2_Kinder Essen & Gesundheit (kombiniert UP 01-03).
+
+ZUSAMMENFASSUNG:
+Skript create_EssenGesundheit_ABSCHLUSS.js erstellt und ausgefuehrt. 2 Dateien erstellt.
+Thema 04 damit vollstaendig abgeschlossen (50 Dateien).
+
+INHALT:
+- Aufgabe 1: Geschichte "Warum ist Theo krank?" (verbindet alle 3 UP: Fast Food -> Arztbesuch -> Smoothie-Rezept) + R/F + Fragen
+- Aufgabe 2: Lueckentext (14 Woerter fuer 10 Luecken, alle 3 Themenbereiche)
+- Aufgabe 3: Zuordnung 12 Woerter -> 3 Kategorien (Gesundes Essen / Rezept / Beim Arzt)
+- Aufgabe 4: Schreibaufgabe — Gesundheits-Ratgeber-Brief (Essen + Rezept + Arzt-Empfehlung kombiniert)
+- Aufgabe 5: Dialog Arzt fragt nach Essgewohnheiten (UP 01 + UP 03 verknuepft)
+- Aufgabe 6: Selbstevaluation (6 Lernziele)
+
+ERSTELLTE DATEIEN (2):
+- A2_Kinder/04_EssenGesundheit/ABSCHLUSS/A2_Kinder_EssenGesundheit_ABSCHLUSS.docx
+- A2_Kinder/04_EssenGesundheit/ABSCHLUSS/A2_Kinder_EssenGesundheit_ABSCHLUSS_LOESUNG.docx
+
+PROGRESS.TXT:
+- ABSCHLUSS auf [X], Thema 04 als ABGESCHLOSSEN markiert
+- GESAMT: 162 -> 164 Dateien (40%)
+- NAECHSTER SCHRITT: Thema 05 UP 01 — Einkaufen: Im Supermarkt, im Kiosk, beim Baecker
