@@ -1,0 +1,32 @@
+Datum: 2026-04-26
+Session-Log: AA Deutsch
+
+PROMPT:
+Thema 06 UP 02 — A2_Kinder Feste & Traditionen: Einladungen schreiben und beantworten.
+
+ZUSAMMENFASSUNG:
+Skript create_FesteTraditionen_02_Einladungen.js erstellt und auf Anhieb erfolgreich ausgefuehrt.
+12 Dateien erstellt.
+
+INHALT:
+- Schreiben: Einladung nach Infovorgabe schreiben, Zusage + Absage formulieren, eigene Einladung
+- Lesen: Einladung von Mia (Abschlussparty) + Antwort von Sara (Zusage mit Obstsalatangebot), R/F + Fragen
+- Luecken: Einladungsformeln (Hiermit lade ich dich ein, Herzliche Gruesse...), Zusage + Absage ergaenzen
+- Wortliste: 13 Eintraege (Einladung, einladen, Hiermit..., Ich komme gerne, Ich kann leider nicht...) + Strukturtabelle Einladungsaufbau
+- Konversation: Dialog Einladung annehmen (am Telefon) + Dialog Einladung absagen + eigener Dialog + Partnerinterview
+- Bildaufgaben: Einladungskarte lesen, Zusage/Absage/Unsicher zuordnen, Zusage schreiben, eigene Karte gestalten
+
+GRAMMATIK-SCHWERPUNKTE:
+- einladen (trennbar): Ich lade dich herzlich ein
+- Modalverb koennen: Ich kann (nicht) kommen
+- leider in der Absage: Ich kann leider nicht kommen
+- Konjunktiv II passiv: Ich wuerde gerne kommen, aber ...
+- Abschlussformeln: Herzliche Grueße / Bis bald
+
+ERSTELLTE DATEIEN (12):
+- A2_Kinder/06_FesteTraditionen/02_Einladungen/ (alle 12 Dateien)
+
+PROGRESS.TXT:
+- UP 02 auf [X] gesetzt
+- GESAMT: 202 -> 214 Dateien (53%)
+- NAECHSTER SCHRITT: Thema 06 ABSCHLUSS — Feste & Traditionen
