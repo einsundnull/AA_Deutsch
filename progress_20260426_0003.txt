@@ -1,0 +1,31 @@
+Datum: 2026-04-26
+Session-Log: AA Deutsch
+
+PROMPT:
+Fortsetzen mit Thema 04 UP 02 — A2_Kinder Essen & Gesundheit: Einfache Rezepte verstehen.
+
+ZUSAMMENFASSUNG:
+Skript create_EssenGesundheit_02_EinfacheRezepte.js erstellt und ausgefuehrt.
+12 Dateien erstellt.
+
+INHALT:
+- Schreiben: Obstsalat-Schritte ordnen, Saetze mit Signalwoertern, eigenes Rezept schreiben
+- Lesen: Bananen-Smoothie-Rezept (vollstaendig) mit R/F + W-Fragen + Zutaten-Tabelle
+- Luecken: Fruchtsalat-Rezept + Kochverb-Dialog Pfannkuchen + Mini-Rezept frei
+- Wortliste: 13 Kochverben/Rezept-Woerter + Imperativ-Tabelle (du/ihr/man-Form)
+- Konversation: Dialog zusammen kochen + Dialog Rezept erklaeren + Partnerinterview + Pantomime-Spiel
+- Bildaufgaben: Kochverben benennen, Smoothie-Schritte ordnen, Pfannkuchen-Zutaten, eigenes Essen zeichnen
+
+GRAMMATIK-SCHWERPUNKTE:
+- Imperativ (du-Form): Schneide! Wasche! Mische! Fuege hinzu!
+- man-Form als Alternative zum Imperativ
+- Signalwoerter der Reihenfolge: zuerst / dann / danach / anschliessend / zum Schluss
+- Mengenangaben: Essloffel, Teeloffel, Glas, Prise
+
+ERSTELLTE DATEIEN (12):
+- A2_Kinder/04_EssenGesundheit/02_EinfacheRezepte/ (alle 12 Dateien)
+
+PROGRESS.TXT:
+- UP 02 auf [X] gesetzt
+- GESAMT: 138 -> 150 Dateien (37%)
+- NAECHSTER SCHRITT: Thema 04 UP 03 — Beim Arzt (Bauchweh, Kopfweh, Halsweh)

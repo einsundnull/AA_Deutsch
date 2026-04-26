@@ -1,0 +1,34 @@
+Datum: 2026-04-26
+Session-Log: AA Deutsch
+
+PROMPT:
+Fortsetzen gemaess WEITERMACHEN_PROMPT.txt — naechsten offenen Unterpunkt aus progress.txt umsetzen.
+
+ZUSAMMENFASSUNG:
+Nächster offener Punkt war der ABSCHLUSS für Thema 03 (Freizeit & Hobbys) im Bereich A2_Kinder.
+Skript create_FreizeitHobbys_ABSCHLUSS.js erstellt und erfolgreich ausgefuehrt.
+
+INHALT DES ABSCHLUSSES:
+- Aufgabe 1: Lesebrief (Luisa an Nora) mit R/F-Aufgaben und W-Fragen
+  → deckt alle 3 Unterpunkte ab (Hobbys/Malen, Kinoeinladung, Brettspiel)
+- Aufgabe 2: Lueckentext (Dialog Tim & Jonas, Verabredung Fussball/Videospiele)
+  → Woerterkasten mit 10 Woertern fuer 8 Luecken (2 Ablenkwoerter)
+- Aufgabe 3: Zuordnungsaufgabe Kino / Buecher / Spiele (12 Woerter)
+- Aufgabe 4: Schreibaufgabe eigene Freizeit (5-7 Saetze, gern/lieber/am liebsten)
+- Aufgabe 5: Freier Dialog Verabredung (Hast du Lust, wollen, gefaellt mir)
+- Aufgabe 6: Selbstevaluation (6 Lernziele, [ ] Das kann ich gut / Das uebe ich noch)
+
+ERSTELLTE DATEIEN (2):
+- A2_Kinder/03_FreizeitHobbys/ABSCHLUSS/A2_Kinder_FreizeitHobbys_ABSCHLUSS.docx
+- A2_Kinder/03_FreizeitHobbys/ABSCHLUSS/A2_Kinder_FreizeitHobbys_ABSCHLUSS_LOESUNG.docx
+
+PROGRESS.TXT AENDERUNGEN:
+- Thema 03 ABSCHLUSS auf [X] gesetzt
+- Thema 03 als "ABGESCHLOSSEN (38 Dateien)" markiert
+- GESAMT: 124 -> 126 Dateien
+- NAECHSTER SCHRITT: Thema 04 UP 01 — Essen & Gesundheit: Gesundes und ungesundes Essen
+
+NAECHSTER SCHRITT:
+A2_Kinder Thema 04 UP 01 — Gesundes und ungesundes Essen
+Skript: create_EssenGesundheit_01_GesundesEssen.js
+12 Dateien (6 Uebungen + 6 Loesungen)

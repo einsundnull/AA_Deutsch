@@ -1,0 +1,31 @@
+Datum: 2026-04-26
+Session-Log: AA Deutsch
+
+PROMPT:
+Fortsetzen mit Thema 04 UP 01 — A2_Kinder Essen & Gesundheit: Gesundes und ungesundes Essen.
+
+ZUSAMMENFASSUNG:
+Skript create_EssenGesundheit_01_GesundesEssen.js erstellt und erfolgreich ausgefuehrt.
+12 Dateien erstellt.
+
+INHALT:
+- Schreiben: Sortieraufgabe gesund/ungesund, Saetze mit weil + enthalten, Freitext Fruehstueck
+- Lesen: Text ueber Ben (isst lieber Chips, lernt gesund essen) mit R/F + W-Fragen + Suchaufgabe
+- Luecken: Woerterkasten 14 Woerter / 10 Luecken, Dialog Schulkantine, freier Teil mit sollte
+- Wortliste: 13 Lebensmittel (Kategorie + Beispielsatz), Grammatik sollen/sollte + Komparativ
+- Konversation: Dialog Schulkantine + Dialog Einkaufen, Partnerinterview, Gruppenspiel
+- Bildaufgaben: Benennen + gesund/ungesund, Teller bewerten, Teller zeichnen, Zuordnung Lebensmittel-Inhalt
+
+GRAMMATIK-SCHWERPUNKTE:
+- sollen / sollte (Aufforderung vs. Ratschlag)
+- enthaelt / enthalten + viel/wenig + Nomen
+- Komparativ: gesuender als, besser als
+- weil + Verb am Ende
+
+ERSTELLTE DATEIEN (12):
+- A2_Kinder/04_EssenGesundheit/01_GesundesEssen/ (alle 12 Dateien)
+
+PROGRESS.TXT:
+- UP 01 auf [X] gesetzt
+- GESAMT: 126 -> 138 Dateien (34%)
+- NAECHSTER SCHRITT: Thema 04 UP 02 — Einfache Rezepte verstehen
