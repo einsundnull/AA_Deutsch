@@ -59,11 +59,11 @@ Thema 06: Feste & Traditionen (2 UP)  — ABGESCHLOSSEN (26 Dateien)
   [X] 02 Einladungen schreiben und beantworten
   [X] ABSCHLUSS
 
-Thema 07: Reisen & Ferien (3 UP)
+Thema 07: Reisen & Ferien (3 UP)  — ABGESCHLOSSEN (38 Dateien)
   [X] 01 Urlaub beschreiben
   [X] 02 Transportmittel
-  [ ] 03 Einfache Postkarten schreiben
-  [ ] ABSCHLUSS
+  [X] 03 Einfache Postkarten schreiben
+  [X] ABSCHLUSS
 
 Thema 08: Natur & Umwelt (2 UP)
   [ ] 01 Tiere und Pflanzen
@@ -89,7 +89,7 @@ Thema 11: Grammatik A2 Kinder (7 UP)
   [ ] 07 Modalverben im Praeteritum (konnte, musste, wollte)
   [ ] ABSCHLUSS
 
-GESAMT A2_KINDER bisher: 240 von ca. 406 Dateien (59%)
+GESAMT A2_KINDER bisher: 254 von ca. 406 Dateien (63%)
 
 NAECHSTER SCHRITT:
-Thema 07 UP 03 — Reisen & Ferien: Einfache Postkarten schreiben
+Thema 08 UP 01 — Natur & Umwelt: Tiere und Pflanzen

@@ -1,0 +1,31 @@
+Datum: 2026-04-26
+Session-Log: AA Deutsch
+
+PROMPT:
+Thema 07 UP 03 — A2_Kinder Reisen & Ferien: Einfache Postkarten schreiben.
+
+ZUSAMMENFASSUNG:
+Skript create_ReisenFerien_03_Postkarten.js erstellt und auf Anhieb erfolgreich ausgefuehrt.
+12 Dateien erstellt.
+
+INHALT:
+- Schreiben: Postkartenteil-Reihenfolge, Postkarte nach Infovorgabe (Schweden/See), eigene Postkarte an Klasse
+- Lesen: 3 Postkarten (Barcelona/Sagrada Familia, Alpen/Adler, Japan/Shinkansen) + Zuordnung + Fragen
+- Luecken: Postkarte ergaenzen, linke/rechte Seite zuordnen, Abschluss selbst schreiben
+- Wortliste: 13 Eintraege + Postkarten-Aufbau-Tabelle + Adjektiv-Listen (Ort/Wetter/Essen/Aktivitaeten)
+- Konversation: Dialog Postkarte vorlesen, Dialog Postkarte vs. Handy, Postkarte schreiben und vorlesen lassen + Fragen
+- Bildaufgaben: Postkarten Urlaubsort zuordnen, Venedig-Postkarte auswerten, Antwort schreiben, zweiseitige Postkarte gestalten
+
+GRAMMATIK-SCHWERPUNKTE:
+- Perfekt fuer Urlaubsaktivitaeten (haben + Partizip / sein + Partizip)
+- Praesens fuer aktuelle Beschreibungen (Das Wetter ist...)
+- Morgen + Praesens als Zukunft (Morgen fahren wir...)
+- Klingen + Adjektiv (Das klingt toll!)
+
+ERSTELLTE DATEIEN (12):
+- A2_Kinder/07_ReisenFerien/03_Postkarten/ (alle 12 Dateien)
+
+PROGRESS.TXT:
+- UP 03 auf [X] gesetzt
+- GESAMT: 240 -> 252 Dateien (62%)
+- NAECHSTER SCHRITT: Thema 07 ABSCHLUSS — Reisen & Ferien
