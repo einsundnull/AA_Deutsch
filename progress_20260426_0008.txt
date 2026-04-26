@@ -1,0 +1,26 @@
+Datum: 2026-04-26
+Session-Log: AA Deutsch
+
+PROMPT:
+Thema 05 ABSCHLUSS — A2_Kinder Einkaufen (kombiniert UP 01-02).
+
+ZUSAMMENFASSUNG:
+Skript create_Einkaufen_ABSCHLUSS.js erstellt und auf Anhieb erfolgreich ausgefuehrt.
+2 Dateien erstellt. Thema 05 vollstaendig abgeschlossen (38 Dateien).
+
+INHALT:
+- Aufgabe 1: Geschichte "Sophias grosser Einkaufstag" (Baeckerei + Supermarkt + Kiosk + Sparplan verknuepft) + R/F + Fragen
+- Aufgabe 2: Lueckentext (12 Woerter fuer 9 Luecken, beide Themen gemischt)
+- Aufgabe 3: Vollstaendiger Dialog Baeckerei selbst schreiben (mit Preisberechnung: 4 x 0,65 + 2,80 = 5,40, WG = 0,60)
+- Aufgabe 4: Einkaufsliste mit 5 Produkten ausrechnen, pruefen ob 12 Euro reichen (Ergebnis: 12,64 Euro, reicht nicht), Vergleichssaetze
+- Aufgabe 5: Schreibaufgabe letzter Einkauf (Perfekt + Ortsangaben + Preisbewertung)
+- Aufgabe 6: Selbstevaluation (6 Lernziele)
+
+ERSTELLTE DATEIEN (2):
+- A2_Kinder/05_Einkaufen/ABSCHLUSS/A2_Kinder_Einkaufen_ABSCHLUSS.docx
+- A2_Kinder/05_Einkaufen/ABSCHLUSS/A2_Kinder_Einkaufen_ABSCHLUSS_LOESUNG.docx
+
+PROGRESS.TXT:
+- ABSCHLUSS auf [X], Thema 05 als ABGESCHLOSSEN (38 Dateien) markiert
+- GESAMT: 188 -> 190 Dateien (47%)
+- NAECHSTER SCHRITT: Thema 06 UP 01 — Feste & Traditionen: Feste beschreiben

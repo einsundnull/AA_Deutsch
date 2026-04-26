@@ -1,0 +1,31 @@
+Datum: 2026-04-26
+Session-Log: AA Deutsch
+
+PROMPT:
+Thema 06 UP 01 — A2_Kinder Feste & Traditionen: Feste beschreiben (Geburtstag, Weihnachten, Ostern).
+
+ZUSAMMENFASSUNG:
+Skript create_FesteTradItionen_01_FesteBeschreiben.js erstellt und auf Anhieb erfolgreich ausgefuehrt.
+12 Dateien erstellt.
+
+INHALT:
+- Schreiben: Fest beschreiben (Geburtstag/Weihnachten/Ostern), Saetze mit trennbaren Verben, Freitext
+- Lesen: "Meine Lieblingsfeste" (Klara beschreibt Geburtstag, Weihnachten, Ostern) + R/F + Fragen
+- Luecken: Festwoerter (feiern, schmuecken, auspacken...), Dialog Geburtstag, freier Satz
+- Wortliste: 14 Eintraege (Geburtstag, Weihnachtsbaum, Osterhase, Frohe Weihnachten!, etc.)
+- Konversation: Dialog Geburtstagsvorbereitung + Dialog Weihnachten in der Familie + Interview
+- Bildaufgaben: Feste zuordnen, Szenen beschreiben, Sprechblasen, Fest-Kalender
+
+GRAMMATIK-SCHWERPUNKTE:
+- zu/an + Dativ bei Festen (zu Weihnachten, an Ostern, an meinem Geburtstag)
+- trennbare Verben: einladen, auspacken, schmuecken, vorbereiten
+- werden + Zahl (Ich werde 12.)
+- Perfekt von Festaktivitaeten (geschenkt, gebacken, gespielt)
+
+ERSTELLTE DATEIEN (12):
+- A2_Kinder/06_FesteTraditionen/01_FesteBeschreiben/ (alle 12 Dateien)
+
+PROGRESS.TXT:
+- UP 01 auf [X] gesetzt
+- GESAMT: 190 -> 202 Dateien (50%)
+- NAECHSTER SCHRITT: Thema 06 UP 02 — Einladungen schreiben und beantworten
