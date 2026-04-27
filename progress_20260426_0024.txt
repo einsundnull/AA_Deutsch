@@ -1,0 +1,32 @@
+Datum: 2026-04-26
+Session-Log: AA Deutsch
+
+PROMPT:
+Thema 11 UP 01 — A2_Kinder Grammatik A2: Perfekt (regelmaessig + haeufige unregelmaessige Verben).
+
+ZUSAMMENFASSUNG:
+Skript create_GrammatikA2_01_Perfekt.js erstellt und auf Anhieb erfolgreich ausgefuehrt.
+12 Dateien erstellt.
+
+INHALT:
+- Schreiben: Regelkasten (ge-...-t / ge-...-en / sein-Verben), Partizip-II-Tabelle (15 Verben), haben/sein + Satz bilden (8 Saetze), freies Schreiben (5 Saetze gestern)
+- Lesen: "Was habt ihr am Wochenende gemacht?" (Tobias: Pilze suchen im Wald; Priya: Buch lesen + Brief schreiben; Kai: krank zu Hause) + R/F + Fragen + Perfektformen unterstreichen
+- Luecken: 10 Sätze Partizip II einsetzen + Dialog Ausflug nach Hamburg (Perfektformen ergaenzen)
+- Wortliste: 18 Verben aufgeteilt in 3 Tabellen (regelm. haben / unregelm. haben / sein-Verben) mit Beispielsatz
+- Konversation: Dialog Was hast du gestern gemacht?, Dialog Wie war euer Ausflug?, Partnerinterview (5 Fragen letzte Woche)
+- Bildaufgaben: 4 Bilder beschreiben (Perfekt), Zeitstrahl Ana (5 Aktivitaeten), eigener Zeitstrahl zeichnen
+
+GRAMMATIK-SCHWERPUNKTE:
+- Regelmässige Verben: ge- + Stamm + -t (machen → gemacht)
+- Unregelmässige Verben: auswendig (essen→gegessen, fahren→gefahren, gehen→gegangen etc.)
+- Hilfsverb haben vs. sein (sein bei Bewegungsverben: fahren, gehen, kommen, laufen, fliegen, bleiben)
+- Partizip II steht am Satzende
+- Fragen im Perfekt: Hast du ...? / Bist du ...?
+
+ERSTELLTE DATEIEN (12):
+- A2_Kinder/11_GrammatikA2/01_Perfekt/ (alle 12 Dateien)
+
+PROGRESS.TXT:
+- UP 01 auf [X] gesetzt
+- GESAMT: 320 -> 332 Dateien (82%)
+- NAECHSTER SCHRITT: Thema 11 UP 02 — Praeteritum von sein und haben

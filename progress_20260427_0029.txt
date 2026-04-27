@@ -1,0 +1,35 @@
+Datum: 2026-04-27
+Session-Log: AA Deutsch
+
+PROMPT:
+Thema 11 UP 06 — A2_Kinder Grammatik A2: Nebensaetze mit weil.
+
+ZUSAMMENFASSUNG:
+Skript create_GrammatikA2_06_NebensaetzeWeil.js erstellt. Einmal Fehler (PageNumber als Konstruktor statt Enum), sofort behoben. Danach erfolgreich ausgefuehrt.
+12 Dateien erstellt.
+
+INHALT:
+- Schreiben: Regelkasten (weil → Verb am Ende, Beispiele, Merksatz), Sätze verbinden (5), weil am Anfang (Inversion), Wortstellung kontrollieren (3), freies Schreiben (4 Saetze)
+- Lesen: "Warum? Weil!" (Emma 11 J., Schultag, muede/konzentriert/Pause/Vokabeln) mit fett markierten weil-Saetzen + R/F + Fragen + Hauptsatz/Nebensatz-Tabelle + Endverben unterstreichen
+- Luecken: Verb einsetzen (8), Saetze verbinden mit weil (4), weil oder denn (4), Dialog erganzen
+- Wortliste: Konjunktionen-Tabelle (weil/denn/deshalb/darum), Ausdruecke-Tabelle (8 Eintraege), Grammatik-Regelbox (Wortstellung), Lernkarten-Tipp
+- Konversation: Dialog Lehrer/Schueler (zu spaet, Hausaufgaben), Dialog Meinungen begruenden, Partnerinterview (5 Fragen), Gruppenspiel weil-Kette
+- Bildaufgaben: 4 Bilder → weil-Saetze, Bildgeschichte Ben (4 Felder), Warum-Diagramm Deutsch lernen (4 Gruende), Zeichnen + 3 weil-Saetze
+
+GRAMMATIK-SCHWERPUNKTE:
+- weil + Verb am Ende (Nebensatz)
+- Wortstellung: Hauptsatz (V-Pos. 2) + Komma + weil + ... + Verb (am Ende)
+- weil am Anfang → Inversion im Hauptsatz: Weil es regnet, bleibe ich zu Hause.
+- Unterschied weil (Nebensatz) vs. denn (Hauptsatz, normale Wortstellung)
+- Perfekt und Modalverb am Ende des weil-Satzes
+
+ERSTELLTE DATEIEN (12):
+- A2_Kinder/11_GrammatikA2/06_NebensaetzeWeil/ (alle 12 Dateien)
+
+FEHLER + FIX:
+- PageNumber als Konstruktor (new PageNumber({...})) importiert → korrigiert zu Enum-Nutzung (PageNumber.CURRENT / PageNumber.TOTAL_PAGES in TextRun.children)
+
+PROGRESS.TXT:
+- UP 06 auf [X] gesetzt
+- GESAMT: 380 -> 392 Dateien (97%)
+- NAECHSTER SCHRITT: Thema 11 UP 07 — Modalverben im Praeteritum (konnte, musste, wollte)

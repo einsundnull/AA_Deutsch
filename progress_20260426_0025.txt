@@ -1,0 +1,31 @@
+Datum: 2026-04-26
+Session-Log: AA Deutsch
+
+PROMPT:
+Thema 11 UP 02 — A2_Kinder Grammatik A2: Praeteritum von sein und haben.
+
+ZUSAMMENFASSUNG:
+Skript create_GrammatikA2_02_PraeteritumSeinHaben.js erstellt und auf Anhieb erfolgreich ausgefuehrt.
+12 Dateien erstellt.
+
+INHALT:
+- Schreiben: Regelkasten (war/hatte statt Perfekt), Konjugationstabellen zum Ausfuellen (beide Verben), war/hatte einsetzen (10 Saetze), freies Schreiben (schoener Moment, 4-5 Saetze)
+- Lesen: "Der magische Schneetag" (Finn+Mia, Schneetag, Schulausfall, Schneemann) mit fett markierten war/hatte-Formen + R/F + Fragen + Zaehlen
+- Luecken: 8x war/warst/waren/wart + 8x hatte/hattest/hatten/hattet + Dialog Fussballturnier
+- Wortliste: Konjugationstabelle vollstaendig + haeufige Ausdruecke + Merkkastenbox (war/hatte statt Perfekt)
+- Konversation: Dialog Wie war dein Wochenende?, Dialog Als ich klein war..., Partnerinterview (5 Fragen)
+- Bildaufgaben: 2 Bilder beschreiben (krank/Sieger), Bildgeschichte (Regentag → drinnen spielen → Sonne → Spielplatz, Praeteritum+Perfekt mischen), Metafrage wann war/hatte vs. Perfekt
+
+GRAMMATIK-SCHWERPUNKTE:
+- sein → war, warst, war, waren, wart, waren
+- haben → hatte, hattest, hatte, hatten, hattet, hatten
+- Keine ge-Form, kein Hilfsverb — Praeteritum ist einwortig
+- Regel: sein+haben IMMER Praeteritum, alle anderen Verben Perfekt
+
+ERSTELLTE DATEIEN (12):
+- A2_Kinder/11_GrammatikA2/02_PraeteritumSeinHaben/ (alle 12 Dateien)
+
+PROGRESS.TXT:
+- UP 02 auf [X] gesetzt
+- GESAMT: 332 -> 344 Dateien (85%)
+- NAECHSTER SCHRITT: Thema 11 UP 03 — Dativ (Einfuehrung)

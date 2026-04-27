@@ -1,0 +1,34 @@
+Datum: 2026-04-27
+Session-Log: AA Deutsch
+
+PROMPT:
+Thema 11 UP 03 — A2_Kinder Grammatik A2: Dativ (Einfuehrung).
+
+ZUSAMMENFASSUNG:
+Skript create_GrammatikA2_03_Dativ.js erstellt. Einmal Syntaxfehler (fehlende schliessende Anführungszeichen in TextRun), sofort behoben. Danach erfolgreich ausgefuehrt.
+12 Dateien erstellt.
+
+INHALT:
+- Schreiben: Regelkasten (Wem-Fall, Artikel dem/der/dem/den, Pronomen), Artikel-Dativ-Tabelle (7 Nomen ausfuellen), Personalpronomen einsetzen (7 Saetze), Saetze mit Dativ-Verben bilden (5 Vorgaben)
+- Lesen: "Ein Geschenk fuer Oma" (Leni+Paul, Gewuerze-Idee vom Vater, Oma erklaert Curry) — fett markierte Dativ-Formen + R/F + Fragen + Formen-Tabelle
+- Luecken: dem/der (8 Saetze) + mir/dir/ihm/ihr/uns/euch/ihnen (7 Saetze) + Dialog Wem gehoert das? (Finn+Pia)
+- Wortliste: Komplette Kasustabelle (Nom/Akk/Dativ), Personalpronomen-Tabelle, haeufige Dativ-Verben (8 Verben mit Beispiel), Merkkastenbox
+- Konversation: Dialog Wem gehoert das?, Dialog Geburtstag (Wem schenkst du...?), Partnerinterview (5 Fragen)
+- Bildaufgaben: 3 Bilder (geben/erklaeren/schenken), Wem-Tabelle (8 Nomen → Dativform), Zeichnen + Satz mit Dativ
+
+GRAMMATIK-SCHWERPUNKTE:
+- Dativ = Wem-Fall: der→dem, die→der, das→dem, Pl.→den+Substantiv-n
+- Personalpronomen im Dativ: mir, dir, ihm, ihr, uns, euch, ihnen
+- Dativ-Verben: geben, schenken, helfen, zeigen, erklaeren, antworten, gefallen, gehoeren
+- Satzstellung: Dativ-Objekt vor Akkusativ-Objekt
+
+ERSTELLTE DATEIEN (12):
+- A2_Kinder/11_GrammatikA2/03_Dativ/ (alle 12 Dateien)
+
+FEHLER + FIX:
+- Zeile 209: fehlende schliessende Anführungszeichen ' sehr! Danke!' → ' sehr! Danke!"' — sofort behoben
+
+PROGRESS.TXT:
+- UP 03 auf [X] gesetzt
+- GESAMT: 344 -> 356 Dateien (88%)
+- NAECHSTER SCHRITT: Thema 11 UP 04 — Wechselpraepositionen (auf dem/auf den)

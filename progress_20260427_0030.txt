@@ -1,0 +1,32 @@
+Datum: 2026-04-27
+Session-Log: AA Deutsch
+
+PROMPT:
+Thema 11 UP 07 — A2_Kinder Grammatik A2: Modalverben im Praeteritum (konnte, musste, wollte).
+
+ZUSAMMENFASSUNG:
+Skript create_GrammatikA2_07_ModalverbenPraeteritum.js erstellt und auf Anhieb erfolgreich ausgefuehrt.
+12 Dateien erstellt.
+
+INHALT:
+- Schreiben: Regelkasten (konnte/musste/wollte/durfte/sollte, kein Umlaut!), Konjugationstabellen ausfuellen (3 Verben), Praeteritum einsetzen (6 Saetze), Saetze schreiben (3), Freitext (Als ich klein war...)
+- Lesen: "Ein unvergesslicher Schultag" (Jonas 11 J., Praesentuation, Schwimmbad geschlossen, Garten) mit fett markierten Modalverb-Praeteritumformen + R/F + Fragen + Verb-Tabelle + Praesens/Praeteritum-Vergleich
+- Luecken: Woerterkasten (konnte/musste/wollte/durfte/sollte + Formen), Richtige Form (8 Saetze), Praesens oder Praeteritum (5 Saetze), Kurzgeschichte Lena (4 Luecken)
+- Wortliste: Praesens→Praeteritum-Tabelle (6 Verben), Uebersetzungstabelle, vollstaendige Konjugationstabelle (konnte/musste/wollte), Regelbox (kein Umlaut, Endungen)
+- Konversation: Dialog Was war frueher anders?, Dialog Warum warst du nicht da?, Partnerinterview Frueher/Heute (5 Fragen), Gruppenspiel Frueher-Kette
+- Bildaufgaben: 4 Bilder → Praeteritum-Saetze, Zeitlinie (4→7→10→Heute), eigene Zeitlinie zeichnen + Saetze
+
+GRAMMATIK-SCHWERPUNKTE:
+- koennen → konnte, mussen → musste, wollen → wollte, duerfen → durfte, sollen → sollte
+- Kein Umlaut im Prateritum! (konnte, NICHT koennte)
+- Endungen: -te / -test / -te / -ten / -tet / -ten
+- Infinitiv am Satzende: Ich konnte nicht schwimmen.
+- Abgrenzung: Prateritum (Vergangenheit) vs. Konjunktiv II (hypothetisch)
+
+ERSTELLTE DATEIEN (12):
+- A2_Kinder/11_GrammatikA2/07_ModalverbenPraeteritum/ (alle 12 Dateien)
+
+PROGRESS.TXT:
+- UP 07 auf [X] gesetzt
+- GESAMT: 392 -> 404 Dateien (99%)
+- NAECHSTER SCHRITT: Thema 11 ABSCHLUSS — Grammatik A2 Kinder

@@ -1,0 +1,31 @@
+Datum: 2026-04-27
+Session-Log: AA Deutsch
+
+PROMPT:
+Thema 11 UP 05 — A2_Kinder Grammatik A2: Komparativ und Superlativ.
+
+ZUSAMMENFASSUNG:
+Skript create_GrammatikA2_05_KomparativSuperlativ.js erstellt und auf Anhieb erfolgreich ausgefuehrt.
+12 Dateien erstellt.
+
+INHALT:
+- Schreiben: Regelkasten (schnell→schneller→am schnellsten; Umlaut: alt→aelter→am aeltesten; unregelm.: gut/viel/gern), Steigerungstabelle (11 Adjektive), Vergleichssaetze (5), Superlativ-Saetze (4)
+- Lesen: "Die grosse Tierdiskussion" (Rico/Mira/Noah/Yara — Gepard/Delfin/Elefant/Oktopus) mit fett markierten Komparativ/Superlativformen + R/F + Fragen + Formen-Tabelle
+- Luecken: Komparativ einsetzen (8 Saetze), Superlativ einsetzen (6 Saetze), als/wie waehlen (6 Saetze), freie Saetze
+- Wortliste: 3 Tabellen (regelmaessig/Umlaut/unregelmaessig) + Vergleichsstruktur-Box (A ist -er als B / genauso...wie / am -sten)
+- Konversation: Dialog Meinungsverschiedenheit, Dialog Reiseplanung (Berge vs. Meer), Partnerinterview (5 Fragen)
+- Bildaufgaben: Tiere vergleichen (Elefant/Hund/Maus; Gepard/Pferd/Schildkroete), Klassenumfrage-Diagramm (Hund 16/Katze 12/Delfin 8/Pinguin 5), eigene Zeichnung
+
+GRAMMATIK-SCHWERPUNKTE:
+- Komparativ: Adjektiv + -er (schnell→schneller), Umlaut (alt→aelter, gross→groesser, jung→juenger)
+- Superlativ: am + Adjektiv + -sten / -esten
+- Unregelmaessig: gut→besser→am besten, viel→mehr→am meisten, gern→lieber→am liebsten
+- Vergleichsstrukturen: A ist -er als B / genauso ... wie / am -sten
+
+ERSTELLTE DATEIEN (12):
+- A2_Kinder/11_GrammatikA2/05_KomparativSuperlativ/ (alle 12 Dateien)
+
+PROGRESS.TXT:
+- UP 05 auf [X] gesetzt
+- GESAMT: 368 -> 380 Dateien (94%)
+- NAECHSTER SCHRITT: Thema 11 UP 06 — Nebensaetze mit weil

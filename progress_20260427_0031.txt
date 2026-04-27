@@ -1,0 +1,38 @@
+Datum: 2026-04-27
+Session-Log: AA Deutsch
+
+PROMPT:
+Thema 11 ABSCHLUSS — A2_Kinder Grammatik A2: Abschlusstest (kombiniert alle 7 UPs).
+
+ZUSAMMENFASSUNG:
+Skript create_GrammatikA2_ABSCHLUSS.js erstellt und auf Anhieb erfolgreich ausgefuehrt.
+2 Dateien erstellt.
+
+INHALT:
+- Aufgabe 1: Lesetext "Die Klassenreise" (Klasse 5b, Hamburg, Jonas/Mia/Leo/Yara, Rathaus/Hafen/Miniatur Wunderland) — alle 7 Grammatikformen eingebettet + R/F-Tabelle + Grammatik-Tabelle (8 Formen suchen)
+- Aufgabe 2: Lückentext gemischt (10 Saetze — Perfekt/sein, Prateritum-sein, Dativ, Wechselpraep.Wo?/Wohin?, Komparativ, Superlativ, weil-Satz, Modalverb Prateritum x2)
+- Aufgabe 3: 6 Fehler finden und korrigieren (je ein Grammatikfehler pro Satz, alle 7 Themen abgedeckt)
+- Aufgabe 4: Freies Schreiben (5-8 Saetze uber einen besonderen Tag, Checkliste mit 5 Kriterien)
+- Aufgabe 5: Konversation (Dialog Vergangenheit — Perfekt, war/hatte, Dativ, weil, Komparativ, Modalverb Prateritum)
+- Selbstevaluation: 8 Koennen-Aussagen mit Haekchenboxen
+
+GRAMMATIK-SCHWERPUNKTE (alle 7 UPs):
+- Perfekt (sein/haben-Auswahl)
+- war / hatte (Prateritum)
+- Dativ (dem/der + Personalpronomen)
+- Wechselpraepositionen (Wo?=Dativ / Wohin?=Akkusativ)
+- Komparativ und Superlativ
+- Nebensaetze mit weil
+- Modalverben im Prateritum (konnte/musste/wollte)
+
+ERSTELLTE DATEIEN (2):
+- A2_Kinder/11_GrammatikA2/ABSCHLUSS/ (beide Dateien)
+
+MEILENSTEIN:
+A2_KINDER VOLLSTAENDIG ABGESCHLOSSEN — 11 Themen, 406 Dateien (100%)
+
+PROGRESS.TXT:
+- ABSCHLUSS auf [X] gesetzt
+- A2_KINDER als vollstaendig abgeschlossen markiert
+- GESAMT: 404 -> 406 Dateien (100%)
+- NAECHSTER SCHRITT: A2_Erwachsene beginnen (Thema 01)

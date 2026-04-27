@@ -1,0 +1,31 @@
+Datum: 2026-04-27
+Session-Log: AA Deutsch
+
+PROMPT:
+Thema 01 UP 01 — A2_Erwachsene: Beruf und Arbeitsplatz beschreiben.
+
+ZUSAMMENFASSUNG:
+Skript create_Erwachsene_Beruf_01_BerufArbeitsplatz.js erstellt und auf Anhieb erfolgreich ausgefuehrt.
+12 Dateien erstellt.
+A2_Erwachsene-Curriculum (11 Themen, ca. 442 Dateien) in progress.txt angelegt.
+
+INHALT:
+- Schreiben: InfoBox (Ich bin Arzt. / Ich arbeite als … / bei … / in …), Selbstvorstellung (4-5 Saetze), Berufsprofil schreiben (3 Personen zur Auswahl: Krankenschwester/Programmierer/Lehrerin), Fragen+Antworten formulieren
+- Lesen: "Drei Menschen, drei Berufe" (Kenan Ingenieur Stuttgart Homeoffice; Miriam Arztin Muenchen Praxis; David Koch Hamburg Restaurant) + R/F + Wer-macht-was-Tabelle + Fragen + eigene Angaben
+- Luecken: Woerterkasten (als/bei/in/Vollzeit etc.), Lücken füllen (8 Saetze), Praepositionen als/bei/in/fuer (4 Saetze), Dialog auf Netzwerkveranstaltung, Steckbrief-Formular
+- Wortliste: Berufe-Tabelle (10 Berufe m+f+Arbeitsort), Ausdruecke-Tabelle (9 Eintraege), Grammatik-InfoBox (Beruf ohne Artikel nach sein)
+- Konversation: Dialog formell (Sie), Dialog Kollegen (du), Partnerinterview (5 Fragen), Berufe-Quiz (Beruf erraten)
+- Bildaufgaben: 4 Bilder → Beruf + Arbeitsort, Buero-Beschreibung, Berufe zuordnen (6 Verbindungen), Traumjob zeichnen
+
+BESONDERHEITEN (vs. Kinder):
+- Formelle Sie-Form in Dialogen + informelle du-Form
+- Erwachsenenkontext: Buero, Netzwerkveranstaltung, Homeoffice, Gehaelt, Schichtarbeit
+- Grammatik-Schwerpunkt: Beruf ohne Artikel (Ich bin Arzt, nicht: Ich bin ein Arzt)
+
+ERSTELLTE DATEIEN (12):
+- A2_Erwachsene/01_Beruf/01_BerufArbeitsplatz/ (alle 12 Dateien)
+
+PROGRESS.TXT:
+- UP 01 auf [X] gesetzt
+- GESAMT: 0 -> 12 Dateien (3%)
+- NAECHSTER SCHRITT: Thema 01 UP 02 — Ueber Arbeitsbedingungen sprechen

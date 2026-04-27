@@ -1,0 +1,32 @@
+Datum: 2026-04-27
+Session-Log: AA Deutsch
+
+PROMPT:
+Thema 11 UP 04 — A2_Kinder Grammatik A2: Wechselpraepositionen (auf dem/auf den).
+
+ZUSAMMENFASSUNG:
+Skript create_GrammatikA2_04_Wechselpraepositionen.js erstellt und auf Anhieb erfolgreich ausgefuehrt.
+12 Dateien erstellt.
+
+INHALT:
+- Schreiben: Regelkasten (Wo?=Dativ / Wohin?=Akkusativ, 9 Wechselpraep.), Tabelle 10 Saetze Wo?/Wohin? bestimmen + Artikel eintragen, Verbpaare liegen/legen+stehen/stellen+haengen (6 Sätze bilden)
+- Lesen: "Chaos im Kinderzimmer" (Mia, Bucher auf Boden, Rucksack auf Schreibtisch, Mama raeumt auf) mit fett markierten Praep.+Artikeln + R/F + Vorher/Nachher-Tabelle + Wechselpraep. kategorisieren
+- Luecken: 10x dem/den/die/das nach Wechselpraep. + 6x Verb-Paar (liegen/legen etc.) + freie Zimmerbeschreibung
+- Wortliste: 9 Wechselpraep. je mit Wo?-Dativ + Wohin?-Akkusativ-Beispiel, Verbpaare-Tabelle (5 Paare), Verschmelzungstabelle (im/ins/am/ans)
+- Konversation: Dialog Wo ist mein...?, Dialog Zimmer einrichten (Wohin?), Partnerinterview Zimmer (5 Fragen)
+- Bildaufgaben: 3 Hundepositionen beschreiben, Zimmer-Bild 5 Sätze Wo?, Anweisungen Wohin? formulieren
+
+GRAMMATIK-SCHWERPUNKTE:
+- Wo? + Dativ: dem/der (maenl./saechl. = dem, weibl. = der)
+- Wohin? + Akkusativ: den/die/das (maenl. = den, weibl. = die, saechl. = das)
+- 9 Wechselpraep.: an, auf, hinter, in, neben, ueber, unter, vor, zwischen
+- Verbpaare: liegen/legen, stehen/stellen, haengen/haengen, sitzen/setzen
+- Verschmelzungen: im, ins, am, ans
+
+ERSTELLTE DATEIEN (12):
+- A2_Kinder/11_GrammatikA2/04_Wechselpraepositionen/ (alle 12 Dateien)
+
+PROGRESS.TXT:
+- UP 04 auf [X] gesetzt
+- GESAMT: 356 -> 368 Dateien (91%)
+- NAECHSTER SCHRITT: Thema 11 UP 05 — Komparativ und Superlativ

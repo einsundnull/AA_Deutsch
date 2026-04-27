@@ -80,16 +80,94 @@ Thema 10: Gefuehle (1 UP)  — ABGESCHLOSSEN (14 Dateien)
   [X] ABSCHLUSS
 
 Thema 11: Grammatik A2 Kinder (7 UP)
-  [ ] 01 Perfekt (regelmaessig + haeufige unregelmaessige Verben)
-  [ ] 02 Praeteritum von sein und haben
-  [ ] 03 Dativ (Einfuehrung)
-  [ ] 04 Wechselpraepositionen (auf dem/auf den)
-  [ ] 05 Komparativ und Superlativ
-  [ ] 06 Nebensaetze mit weil
-  [ ] 07 Modalverben im Praeteritum (konnte, musste, wollte)
+  [X] 01 Perfekt (regelmaessig + haeufige unregelmaessige Verben)
+  [X] 02 Praeteritum von sein und haben
+  [X] 03 Dativ (Einfuehrung)
+  [X] 04 Wechselpraepositionen (auf dem/auf den)
+  [X] 05 Komparativ und Superlativ
+  [X] 06 Nebensaetze mit weil
+  [X] 07 Modalverben im Praeteritum (konnte, musste, wollte)
+  [X] ABSCHLUSS
+
+============================================================
+A2_KINDER VOLLSTAENDIG ABGESCHLOSSEN — 11 Themen, 406 Dateien
+============================================================
+
+GESAMT A2_KINDER: 406 von 406 Dateien (100%)
+
+============================================================
+AKTUELL IN ARBEIT: A2_ERWACHSENE (11 Themen, ca. 442 Dateien)
+============================================================
+
+Thema 01: Beruf & Arbeit (3 UP)
+  [X] 01 Beruf und Arbeitsplatz beschreiben
+  [ ] 02 Ueber Arbeitsbedingungen sprechen
+  [ ] 03 Bewerbung und Vorstellungsgespraech
   [ ] ABSCHLUSS
 
-GESAMT A2_KINDER bisher: 320 von ca. 406 Dateien (79%)
+Thema 02: Wohnen & Einrichten (3 UP)
+  [ ] 01 Wohnung suchen und beschreiben
+  [ ] 02 Wohnungseinrichtung
+  [ ] 03 Mit Nachbarn kommunizieren
+  [ ] ABSCHLUSS
+
+Thema 03: Einkaufen & Dienstleistungen (3 UP)
+  [ ] 01 Im Supermarkt und auf dem Markt
+  [ ] 02 Kleidung kaufen und reklamieren
+  [ ] 03 Bank und Post
+  [ ] ABSCHLUSS
+
+Thema 04: Essen & Restaurants (3 UP)
+  [ ] 01 Im Restaurant bestellen
+  [ ] 02 Rezepte lesen und erklaeren
+  [ ] 03 Ueber Ernaehrung sprechen
+  [ ] ABSCHLUSS
+
+Thema 05: Gesundheit (3 UP)
+  [ ] 01 Beim Arzt
+  [ ] 02 Apotheke und Medikamente
+  [ ] 03 Gesunder Lebensstil
+  [ ] ABSCHLUSS
+
+Thema 06: Freizeit & Kultur (3 UP)
+  [ ] 01 Freizeitaktivitaeten und Hobbys
+  [ ] 02 Veranstaltungen besuchen (Kino, Theater, Museum)
+  [ ] 03 Sport treiben
+  [ ] ABSCHLUSS
+
+Thema 07: Reisen (3 UP)
+  [ ] 01 Reise planen und buchen
+  [ ] 02 Unterwegs (Transportmittel, Orientierung)
+  [ ] 03 Im Hotel
+  [ ] ABSCHLUSS
+
+Thema 08: Familie & soziales Leben (3 UP)
+  [ ] 01 Ueber Familie und Beziehungen sprechen
+  [ ] 02 Soziale Kontakte und Einladungen
+  [ ] 03 Feste und Feiern
+  [ ] ABSCHLUSS
+
+Thema 09: Medien & Kommunikation (2 UP)
+  [ ] 01 Nachrichten und Internet nutzen
+  [ ] 02 Telefonieren und Nachrichten schreiben
+  [ ] ABSCHLUSS
+
+Thema 10: Umwelt & Natur (2 UP)
+  [ ] 01 Wetter und Jahreszeiten
+  [ ] 02 Umweltthemen (Recycling, Energie sparen)
+  [ ] ABSCHLUSS
+
+Thema 11: Grammatik A2 Erwachsene (7 UP)
+  [ ] 01 Perfekt
+  [ ] 02 Praeteritum von sein, haben und Modalverben
+  [ ] 03 Dativ
+  [ ] 04 Wechselpraepositionen
+  [ ] 05 Komparativ und Superlativ
+  [ ] 06 Nebensaetze mit weil
+  [ ] 07 Trennbare und untrennbare Verben
+  [ ] ABSCHLUSS
+
+GESAMT A2_ERWACHSENE bisher: 12 von ca. 442 Dateien (3%)
 
 NAECHSTER SCHRITT:
-Thema 11 UP 01 — Grammatik A2 Kinder: Perfekt (regelmaessig + haeufige unregelmaessige Verben)
+Thema 01 UP 02 — A2_Erwachsene: Ueber Arbeitsbedingungen sprechen
