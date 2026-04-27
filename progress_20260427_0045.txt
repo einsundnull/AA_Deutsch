@@ -1,0 +1,34 @@
+Datum: 2026-04-27
+Session-Log: AA Deutsch
+
+PROMPT:
+Thema 04 UP 02 — A2_Erwachsene: Rezepte lesen und erklaeren.
+
+ZUSAMMENFASSUNG:
+Skript create_Erwachsene_EssenRestaurant_02_RezepteLesen.js erstellt und auf Anhieb erfolgreich ausgefuehrt.
+12 Dateien erstellt.
+
+INHALT:
+- Schreiben: infoBox Rezeptphrassen, Imperativ-Uebung (5 Kochschritte), Mengenangaben ergaenzen, Rezept in Reihenfolge beschreiben, Lieblingsrezept frei schreiben
+- Lesen: "Mei Lin kocht zum ersten Mal Kartoffelsuppe" (Mei Lin, China, Dresden, VHS-Kurs, Nachbarin Frau Becker, 500g Kartoffeln + Karotte + Gemuesebruehe + 200ml Sahne + Petersilie, Stabmixer, ca. 35 Min.) + R/F + Fragen + Kochschritte-Reihenfolge
+- Luecken: Rezepttext (9 Kochverben), Kuechen-Dialog Pfannkuchen (6 Luecken), Zubereitungsverben zuordnen (6), Kuechengeraete-Funktion (5)
+- Wortliste: Zutaten/Kuechengeraete (10), Kochverben trennbar/untrennbar (10), Geschmacksadjektive (5)
+- Konversation: 2-Personen-Dialog Rezept erklaeren (Satzbausteine), Rollenspiel Kochkurs (Lehrer/Teilnehmer), Partnerinterview (5 Fragen), Gruppenspiel Rezept-Staffel
+- Bildaufgaben: Kuechengeraete benennen, Kochschritte Reihenfolge, Zutatenliste lesen, Kochfehler erkennen
+
+NEUER HELPER:
+- recipeBox(lines): rot (#C62828, fill FFEBEE) fuer Rezept-Kaestchen und Schritt-Hervorhebungen
+
+GRAMMATIK-SCHWERPUNKTE:
+- Imperativ (Sie-Form): Schritt 1 schalen → Schalen Sie die Kartoffeln!
+- Trennbare Verben im Imperativ: anbraten → Braten Sie an! / einruehren → Ruehren Sie ein!
+- Mengenangaben ohne Artikel: 500 g Kartoffeln (nicht: 500 g die Kartoffeln)
+- Konnektoren fuer Ablaeufe: zunachst / dann / danach / zum Schluss
+
+ERSTELLTE DATEIEN (12):
+- A2_Erwachsene/04_EssenRestaurant/02_RezepteLesen/ (alle 12 Dateien)
+
+PROGRESS.TXT:
+- UP 02 auf [X] gesetzt
+- GESAMT: 126 -> 138 Dateien (31%)
+- NAECHSTER SCHRITT: Thema 04 UP 03 — Ueber Ernaehrung sprechen

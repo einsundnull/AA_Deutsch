@@ -1,0 +1,32 @@
+Datum: 2026-04-27
+Session-Log: AA Deutsch
+
+PROMPT:
+Thema 03 UP 02 — A2_Erwachsene: Kleidung kaufen und reklamieren.
+
+ZUSAMMENFASSUNG:
+Skript create_Erwachsene_Einkaufen_02_KleidungReklamieren.js erstellt und auf Anhieb erfolgreich ausgefuehrt.
+12 Dateien erstellt.
+
+INHALT:
+- Schreiben: infoBox (Kleidungsphrassen), Dialog Kleidungsgeschaeft schreiben (8 Zeilen), Reklamations-E-Mail (Pullover falsche Farbe + Loch), Outfit beschreiben, Kleidungsstil
+- Lesen: "Das falsche Kleid" (Sofia Petrov, Bulgarien, Hamburg, rotes Kleid Groesse 38 bestellt, dunkelorange + Groesse 42 + Polyester geliefert, Kundenservice, Ruecksendung kostenlos, gruenes Kleid im Geschaeft) + R/F + Fragen + Adjektive-Tabelle + Meinung
+- Luecken: Kleidungsgeschaeft-Text (6 Luecken), Reklamations-Dialog (5 Luecken), Adjektivendungen (6 Saetze), passen/stehen + Dativ (5 Saetze)
+- Wortliste: Kleidung/Einkaufen-Tabelle (12 Eintraege), Reklamation-Tabelle (8 Eintraege), grammarBox Adjektive Farbe/Material/Passform + stehen/passen + Dativ
+- Konversation: Kleidungsgeschaeft-Dialog (12 Tischzeilen), Rollenspiel-Karten Reklamation (A=Kundin/B=Verkaeufer), Partnerinterview (5 Fragen), Gruppenspiel Kleidung erraten
+- Bildaufgaben: Outfits beschreiben (4 Personen), Umkleidekabinen-Szene, Preisschilder lesen (3 Stuecke), defekte Jacke reklamieren
+
+GRAMMATIK-SCHWERPUNKTE:
+- Adjektivendungen nach unbestimmtem Artikel (ein roter Pullover / einen roten Pullover)
+- stehen + Dativ: Das steht dir/Ihnen/ihm gut.
+- passen + Dativ: Das passt mir/dir/ihm nicht.
+- Konjunktiv II: Koennten Sie …? / Darf ich …?
+- Passform-Adjektive: zu eng / zu weit / zu lang / zu kurz / perfekt
+
+ERSTELLTE DATEIEN (12):
+- A2_Erwachsene/03_Einkaufen/02_KleidungReklamieren/ (alle 12 Dateien)
+
+PROGRESS.TXT:
+- UP 02 auf [X] gesetzt
+- GESAMT: 88 -> 100 Dateien (23%)
+- NAECHSTER SCHRITT: Thema 03 UP 03 — Bank und Post

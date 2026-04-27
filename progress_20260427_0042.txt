@@ -1,0 +1,31 @@
+Datum: 2026-04-27
+Session-Log: AA Deutsch
+
+PROMPT:
+Thema 03 UP 03 — A2_Erwachsene: Bank und Post.
+
+ZUSAMMENFASSUNG:
+Skript create_Erwachsene_Einkaufen_03_BankPost.js erstellt und auf Anhieb erfolgreich ausgefuehrt.
+12 Dateien erstellt.
+
+INHALT:
+- Schreiben: infoBox (Bank- und Postphrassen), E-Mail Kontoeröffnung, Ueberweisungsvorlage ausfuellen, Paket-Adressfelder, freies Schreiben Online-Banking
+- Lesen: "Neu in Deutschland — Konto und Paket" (Amir Hosseini, Iran, Frankfurt, Ingenieur, Sparkasse, Herr Kaufmann, 3 Dokumente, EC-Karte + PIN per Post, Post: Paket Oesterreich 3kg 9,49 EUR + Iran 5kg 28,90 EUR mit Sendungsverfolgung) + R/F + Fragen + Kosten berechnen + Meinung
+- Luecken: Bank-Lueckentext (9 Woerter), Postdialog (6 Luecken), Abkuerzungen zuordnen (IBAN/PIN/Kontoauszug/Ueberweisung/Einschreiben/Porto A-F), Modalverben einsetzen (5)
+- Wortliste: Bank-Tabelle (10 Eintraege), Post-Tabelle (10 Eintraege), grammarBox Modalverben, DHL-Paketgroessen-Tabelle (Loesung)
+- Konversation: Bankberatungs-Dialog (11 Tischzeilen), Post-Rollenspiel (Karten A/B), Partnerinterview (5 Fragen), Gruppenübung Situationskarten (4 Karten)
+- Bildaufgaben: Geldautomat-Schritte (6), Kontoauszug lesen und berechnen, Paketetikett lesen, Postschalter-Szene
+
+GRAMMATIK-SCHWERPUNKTE:
+- Modalverben: moechten/muessen/koennen/duerfen/sollen/wollen mit klaren Bedeutungsunterschieden
+- Trennbare Verben: abheben, einzahlen, ausfuellen, abschicken
+- Formelle Sie-Form bei Bank und Post
+- Zahlen und Betraege: 2.100,00 EUR / 9,49 EUR (Komma statt Punkt im Deutschen)
+
+ERSTELLTE DATEIEN (12):
+- A2_Erwachsene/03_Einkaufen/03_BankPost/ (alle 12 Dateien)
+
+PROGRESS.TXT:
+- UP 03 auf [X] gesetzt
+- GESAMT: 100 -> 112 Dateien (25%)
+- NAECHSTER SCHRITT: Thema 03 ABSCHLUSS — Einkaufen & Dienstleistungen

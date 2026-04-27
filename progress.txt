@@ -111,15 +111,15 @@ Thema 02: Wohnen & Einrichten (3 UP)  — ABGESCHLOSSEN (50 Dateien)
   [X] 03 Mit Nachbarn kommunizieren
   [X] ABSCHLUSS
 
-Thema 03: Einkaufen & Dienstleistungen (3 UP)
+Thema 03: Einkaufen & Dienstleistungen (3 UP)  — ABGESCHLOSSEN (50 Dateien)
   [X] 01 Im Supermarkt und auf dem Markt
-  [ ] 02 Kleidung kaufen und reklamieren
-  [ ] 03 Bank und Post
-  [ ] ABSCHLUSS
+  [X] 02 Kleidung kaufen und reklamieren
+  [X] 03 Bank und Post
+  [X] ABSCHLUSS
 
 Thema 04: Essen & Restaurants (3 UP)
-  [ ] 01 Im Restaurant bestellen
-  [ ] 02 Rezepte lesen und erklaeren
+  [X] 01 Im Restaurant bestellen
+  [X] 02 Rezepte lesen und erklaeren
   [ ] 03 Ueber Ernaehrung sprechen
   [ ] ABSCHLUSS
 
@@ -167,7 +167,7 @@ Thema 11: Grammatik A2 Erwachsene (7 UP)
   [ ] 07 Trennbare und untrennbare Verben
   [ ] ABSCHLUSS
 
-GESAMT A2_ERWACHSENE bisher: 88 von ca. 442 Dateien (20%)
+GESAMT A2_ERWACHSENE bisher: 138 von ca. 442 Dateien (31%)
 
 NAECHSTER SCHRITT:
-Thema 03 UP 02 — A2_Erwachsene: Kleidung kaufen und reklamieren
+Thema 04 UP 03 — A2_Erwachsene: Ueber Ernaehrung sprechen

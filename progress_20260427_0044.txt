@@ -1,0 +1,34 @@
+Datum: 2026-04-27
+Session-Log: AA Deutsch
+
+PROMPT:
+Thema 04 UP 01 — A2_Erwachsene: Im Restaurant bestellen.
+
+ZUSAMMENFASSUNG:
+Skript create_Erwachsene_EssenRestaurant_01_RestaurantBestellen.js auf Anhieb erfolgreich ausgefuehrt.
+12 Dateien erstellt.
+
+INHALT:
+- Schreiben: infoBox Restaurantphrassen, Tischreservierung Telefongespraech, Bestellung von Speisekarte schreiben, Restaurantbesuch im Perfekt beschreiben, Reklamation formulieren
+- Lesen: "Das erste Mal in einem deutschen Restaurant" (Ibrahim Al-Rashid, Irak, Koeln, Kollege Jonas, Sauerbraten mit Kartoffelkloessen und Rotkohl, Forelle, Brezel mit Obatzda, "Stimmt so!" = 5,70 EUR Trinkgeld) + R/F + Fragen + Speisekarte Restaurant "Zum goldenen Hirschen"
+- Luecken: Restauranttext (14 Luecken), Dialog (6), Adjektivendungen nach bestimmtem Artikel (5), Geschmack beschreiben (Tabelle)
+- Wortliste: Restaurant-Tabelle (12 Eintraege), Geschmack/Zubereitung-Tabelle (10 Eintraege), infoBox Restaurantphrassen
+- Konversation: 3-Personen-Dialog (Gaeste A+B + Kellner C, 12 Tischzeilen), Tischreservierung Rollenspiel (Karten A/B), Partnerinterview (5 Fragen), Restaurant-Simulation Gruppenspiel
+- Bildaufgaben: Restaurantszene, Speisekarte lesen und reagieren, gedeckter Tisch beschriften, Reklamations-Situation
+
+NEUER HELPER:
+- menuBox(lines): warmes Braun (#8D6E63, fill FFF8E1) fuer Speisekarten/Restaurant-Menues
+
+GRAMMATIK-SCHWERPUNKTE:
+- Adjektivendungen nach bestimmtem Artikel (-e/-en)
+- Konjunktiv II bestellen: Ich haefte gerne / Wir wuerden gerne
+- Perfekt: haben-Verben (bestellt, gegessen, getrunken, bezahlt) + sein-Verben (gegangen, gekommen)
+- Formelle Sie-Form: "Kann ich bitte die Karte haben?" / "Bringen Sie mir bitte..."
+
+ERSTELLTE DATEIEN (12):
+- A2_Erwachsene/04_EssenRestaurant/01_RestaurantBestellen/ (alle 12 Dateien)
+
+PROGRESS.TXT:
+- UP 01 auf [X] gesetzt
+- GESAMT: 114 -> 126 Dateien (28%)
+- NAECHSTER SCHRITT: Thema 04 UP 02 — Rezepte lesen und erklaeren

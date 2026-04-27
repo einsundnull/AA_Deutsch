@@ -1,0 +1,34 @@
+Datum: 2026-04-27
+Session-Log: AA Deutsch
+
+PROMPT:
+Thema 03 ABSCHLUSS — A2_Erwachsene: Einkaufen & Dienstleistungen.
+
+ZUSAMMENFASSUNG:
+Skript create_Erwachsene_Einkaufen_ABSCHLUSS.js erstellt und auf Anhieb erfolgreich ausgefuehrt.
+2 Dateien erstellt. Thema 03 vollstaendig abgeschlossen.
+
+INHALT:
+- Aufgabe 1: Lesetext "Ein Samstag in der Stadt" (Nora Blum, Stuttgart, Markt: Tomaten/Erbeeren/Brot/Bergkaese, Kleidergeschaeft: Winterjacke Groesse 38 im Sonderangebot 89,90 EUR, Bank: 300 EUR abheben + Ueberweisung per Online-Banking, Post: Paket Muenchen 1,5 kg + 5 Briefmarken) + R/F + Fragen
+- Aufgabe 2: Lueckentext gemischt (9 Luecken — alle 3 UPs abgedeckt)
+- Aufgabe 3: 6 Fehler korrigieren (Mengenangabe ohne Artikel, stehen+Dativ, Adjektivendung -en, niemandem, der Brief, passt nicht)
+- Aufgabe 4: Reklamations-E-Mail (falsche Groesse + fehlender Knopf), Checkliste 4 Punkte
+- Aufgabe 5: Rollenspiel 3-Personen (Markt/Kleidergeschaeft/Post), Pflichtbereiche-Tabelle
+- Selbstevaluation: 7 Koennen-Aussagen
+
+THEMEN-ABDECKUNG (alle 3 UPs):
+- UP 01 Supermarkt/Markt: Lesetext, Luecken, Fehler, Rollenspiel Marktstand
+- UP 02 Kleidung/Reklamation: Lesetext, Luecken, Fehler, E-Mail, Rollenspiel Geschaeft
+- UP 03 Bank/Post: Lesetext, Luecken, Fehler, Rollenspiel Post
+
+ERSTELLTE DATEIEN (2):
+- A2_Erwachsene/03_Einkaufen/ABSCHLUSS/ (beide Dateien)
+
+MEILENSTEIN:
+Thema 03 Einkaufen & Dienstleistungen VOLLSTAENDIG — 50 Dateien
+
+PROGRESS.TXT:
+- ABSCHLUSS auf [X] gesetzt
+- Thema 03 als ABGESCHLOSSEN markiert (50 Dateien)
+- GESAMT: 112 -> 114 Dateien (26%)
+- NAECHSTER SCHRITT: Thema 04 UP 01 — Im Restaurant bestellen
