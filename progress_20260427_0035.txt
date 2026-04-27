@@ -1,0 +1,34 @@
+Datum: 2026-04-27
+Session-Log: AA Deutsch
+
+PROMPT:
+Thema 01 ABSCHLUSS — A2_Erwachsene: Beruf & Arbeit.
+
+ZUSAMMENFASSUNG:
+Skript create_Erwachsene_Beruf_ABSCHLUSS.js erstellt und auf Anhieb erfolgreich ausgefuehrt.
+2 Dateien erstellt. Thema 01 vollstaendig abgeschlossen.
+
+INHALT:
+- Aufgabe 1: Lesetext "Ein neuer Anfang" (Nadia Kovacs, Buchhalterin Wien, Uberstunden, NGO-Stelle, Bewerbung, Vorstellungsgesprach, Stelle bekommen) + R/F + Themen-Tabelle (5 Kategorien aus dem Text suchen)
+- Aufgabe 2: Luckentext gemischt (8 Satze — Beruf/Arbeitsplatz/Adjektiv/Uberstunden/Bewerbung/Starken/Verfugbarkeit)
+- Aufgabe 3: 6 Fehler korrigieren (Artikel nach sein / Adjektivendung / Praposition fur / viel vs. viele / sich freuen auf / Akkusativ mein)
+- Aufgabe 4: Freies Schreiben (6-8 Satze, Checkliste mit 4 Kriterien)
+- Aufgabe 5: Rollenspiel Vorstellungsgesprach (Tabelle mit 5 Pflichtbereichen fur A und B)
+- Selbstevaluation: 7 Konnen-Aussagen
+
+THEMEN-ABDECKUNG (alle 3 UPs):
+- UP 01 Beruf + Arbeitsplatz: Nadia als Buchhalterin bei Firma / NGO-Stelle
+- UP 02 Arbeitsbedingungen: Uberstunden, keine Flexibilitat, starr / neue Stelle: flexibel/sinnvoll/gut bezahlt
+- UP 03 Bewerbung: Lebenslauf/Anschreiben/Einladung/Gesprach/Fragen stellen
+
+ERSTELLTE DATEIEN (2):
+- A2_Erwachsene/01_Beruf/ABSCHLUSS/ (beide Dateien)
+
+MEILENSTEIN:
+Thema 01 Beruf & Arbeit VOLLSTAENDIG — 38 Dateien
+
+PROGRESS.TXT:
+- ABSCHLUSS auf [X] gesetzt
+- Thema 01 als ABGESCHLOSSEN markiert (38 Dateien)
+- GESAMT: 36 -> 38 Dateien (9%)
+- NAECHSTER SCHRITT: Thema 02 UP 01 — Wohnung suchen und beschreiben

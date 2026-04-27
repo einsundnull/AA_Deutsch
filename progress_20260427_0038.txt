@@ -1,0 +1,34 @@
+Datum: 2026-04-27
+Session-Log: AA Deutsch
+
+PROMPT:
+Thema 02 UP 03 — A2_Erwachsene: Mit Nachbarn kommunizieren.
+
+ZUSAMMENFASSUNG:
+Skript create_Erwachsene_Wohnen_03_NachbarnKommunizieren.js erstellt und auf Anhieb erfolgreich ausgefuehrt.
+12 Dateien erstellt.
+
+INHALT:
+- Schreiben: infoBox (Nachbarschaftsphrassen formell), Zettel schreiben (Laerm), Bitte um Paketannahme, Antwort auf Beschwerde, freies Schreiben ueber Nachbarn
+- Lesen: "Neue Nachbarn" (Fatou Diallo, Senegal, Hamburg, Wohnung 12, Krankenpflegerin, Nachtschicht, Herr Vogel Wohnung 11, Laerm Wohnung 13, Ruhezeit 22-7 Uhr) + R/F + Fragen + Tabelle direkt/hoeflich + eigene Erfahrung
+- Luecken: Gespraech im Treppenhaus (8 Luecken), Koennten/Wuerden-Umformungen (4), Hausordnung-Lueckentext (5), Zettel erganzen (5 Luecken)
+- Wortliste: Vokabular-Tabelle (12 Eintraege), Redemittel-Tabelle (6 Eintraege), grammarBox formell vs. informell, Ubersetzungszeilen
+- Konversation: Treppenhaus-Dialog (8 Tischzeilen), Rollenspiel-Karten A/B (Problem ansprechen), Partnerinterview (5 Fragen), Gruppenubung "Der ideale Nachbar"
+- Bildaufgaben: Dialog zur Situation schreiben, Zettel lesen und reagieren, 4 Situationen einschaetzen (Laerm/Fahrrad/Paket/Rauch), eigenen Party-Zettel schreiben
+
+GRAMMATIK-SCHWERPUNKTE:
+- Konjunktiv II fuer hoefliche Bitten: Koennten Sie …? / Wuerden Sie …?
+- Formelle Sie-Form in Zetteln und Briefen
+- Reflexive Verben: sich beschweren, sich entschuldigen
+- Perfekt fuer vergangene Ereignisse: Die Musik hat gestoert. / Ich habe geschlafen.
+
+NEUE HILFSFUNKTION:
+- zettelBox(lines): gelb umrandete Zettel-Vorlage (Border-Farbe #F9A825, Fill #FFFDE7)
+
+ERSTELLTE DATEIEN (12):
+- A2_Erwachsene/02_Wohnen/03_NachbarnKommunizieren/ (alle 12 Dateien)
+
+PROGRESS.TXT:
+- UP 03 auf [X] gesetzt
+- GESAMT: 62 -> 74 Dateien (17%)
+- NAECHSTER SCHRITT: Thema 02 ABSCHLUSS — Wohnen & Einrichten

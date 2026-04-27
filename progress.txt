@@ -99,20 +99,20 @@ GESAMT A2_KINDER: 406 von 406 Dateien (100%)
 AKTUELL IN ARBEIT: A2_ERWACHSENE (11 Themen, ca. 442 Dateien)
 ============================================================
 
-Thema 01: Beruf & Arbeit (3 UP)
+Thema 01: Beruf & Arbeit (3 UP)  — ABGESCHLOSSEN (38 Dateien)
   [X] 01 Beruf und Arbeitsplatz beschreiben
-  [ ] 02 Ueber Arbeitsbedingungen sprechen
-  [ ] 03 Bewerbung und Vorstellungsgespraech
-  [ ] ABSCHLUSS
+  [X] 02 Ueber Arbeitsbedingungen sprechen
+  [X] 03 Bewerbung und Vorstellungsgespraech
+  [X] ABSCHLUSS
 
-Thema 02: Wohnen & Einrichten (3 UP)
-  [ ] 01 Wohnung suchen und beschreiben
-  [ ] 02 Wohnungseinrichtung
-  [ ] 03 Mit Nachbarn kommunizieren
-  [ ] ABSCHLUSS
+Thema 02: Wohnen & Einrichten (3 UP)  — ABGESCHLOSSEN (50 Dateien)
+  [X] 01 Wohnung suchen und beschreiben
+  [X] 02 Wohnungseinrichtung
+  [X] 03 Mit Nachbarn kommunizieren
+  [X] ABSCHLUSS
 
 Thema 03: Einkaufen & Dienstleistungen (3 UP)
-  [ ] 01 Im Supermarkt und auf dem Markt
+  [X] 01 Im Supermarkt und auf dem Markt
   [ ] 02 Kleidung kaufen und reklamieren
   [ ] 03 Bank und Post
   [ ] ABSCHLUSS
@@ -167,7 +167,7 @@ Thema 11: Grammatik A2 Erwachsene (7 UP)
   [ ] 07 Trennbare und untrennbare Verben
   [ ] ABSCHLUSS
 
-GESAMT A2_ERWACHSENE bisher: 12 von ca. 442 Dateien (3%)
+GESAMT A2_ERWACHSENE bisher: 88 von ca. 442 Dateien (20%)
 
 NAECHSTER SCHRITT:
-Thema 01 UP 02 — A2_Erwachsene: Ueber Arbeitsbedingungen sprechen
+Thema 03 UP 02 — A2_Erwachsene: Kleidung kaufen und reklamieren

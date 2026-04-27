@@ -1,0 +1,31 @@
+Datum: 2026-04-27
+Session-Log: AA Deutsch
+
+PROMPT:
+Thema 01 UP 02 — A2_Erwachsene: Ueber Arbeitsbedingungen sprechen.
+
+ZUSAMMENFASSUNG:
+Skript create_Erwachsene_Beruf_02_Arbeitsbedingungen.js erstellt und auf Anhieb erfolgreich ausgefuehrt.
+12 Dateien erstellt.
+
+INHALT:
+- Schreiben: InfoBox (Meinungen ausdrücken / Vergleiche), Adjektive-Bewertungstabelle (7 Adj., sehr wichtig/wichtig/nicht so wichtig), Vor- und Nachteile-Tabelle (Beruf nach Wahl), Idealer Arbeitsplatz (5-7 Saetze), Berufsvergleich (3 Saetze)
+- Lesen: "Jobzufriedenheit — Was sagen die Deutschen?" (Umfrage 500 Berufstatige: Arbeitsklima 78%, Work-Life-Balance 71%, Gehalt 65%, Homeoffice 58%, Stress 62%, Zufrieden 23%) + R/F + Zahlen-Tabelle + Fragen + eigene Meinung
+- Luecken: Woerterkasten (stressig/flexibel/fair etc.), Adjektive einsetzen (8 Saetze), Meinungsausdruecke (finden/halten fuer/zufrieden mit/aergern ueber), Dialog Mittagspause, Saetze mit weil/obwohl verbinden
+- Wortliste: Adjektive-Tabelle (8 Adj. mit Gegenteil + Beispiel), Nomen-Tabelle (8 Eintraege mit Artikel/Plural), Redemittel-InfoBox (positiv/negativ/neutral)
+- Konversation: Dialog Chef formell (Anliegen vortragen), Dialog Freunde (Job bewerten), Partnerinterview (5 Fragen), Gruppendiskussion Homeoffice Pro/Contra
+- Bildaufgaben: 3 Bilder beschreiben (gestresst/gutes Klima/Homeoffice), Balkendiagramm lesen + Vergleichssaetze, Traumjob-Tabelle + 3 Saetze
+
+GRAMMATIK-SCHWERPUNKTE:
+- Meinung ausdruecken: Ich finde … / halte … fuer / bin zufrieden mit / aergere mich ueber
+- Vergleiche: -er als / weniger … als
+- weil-Saetze (Begruendung) + obwohl-Saetze (Einraeuumung)
+- Konjunktiv II passiv: Wäre es moeglich, dass …? / Ich wuerde mir wuenschen, dass …
+
+ERSTELLTE DATEIEN (12):
+- A2_Erwachsene/01_Beruf/02_Arbeitsbedingungen/ (alle 12 Dateien)
+
+PROGRESS.TXT:
+- UP 02 auf [X] gesetzt
+- GESAMT: 12 -> 24 Dateien (5%)
+- NAECHSTER SCHRITT: Thema 01 UP 03 — Bewerbung und Vorstellungsgespraech

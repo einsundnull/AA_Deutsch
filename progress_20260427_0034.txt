@@ -1,0 +1,32 @@
+Datum: 2026-04-27
+Session-Log: AA Deutsch
+
+PROMPT:
+Thema 01 UP 03 — A2_Erwachsene: Bewerbung und Vorstellungsgespraech.
+
+ZUSAMMENFASSUNG:
+Skript create_Erwachsene_Beruf_03_Bewerbung.js erstellt und auf Anhieb erfolgreich ausgefuehrt.
+12 Dateien erstellt.
+
+INHALT:
+- Schreiben: InfoBox (Bewerbungsphrasen), Kurzbewerbung auf Stellenanzeige (Burokaufmann/-frau Teilzeit), Lebenslauf-Steckbrief ausfuellen, 3 typische Vorstellungsgesprach-Fragen beantworten
+- Lesen: "Mein erstes Vorstellungsgesprach in Deutschland" (Amara Diallo aus Senegal, Verkauferin Supermarkt, Herr Wagner, Sprachkurs-Frage, Stelle bekommen) + R/F + Fragen + Reihenfolge Bewerbungsprozess + eigene Erfahrung
+- Luecken: Woerterkasten (Bewerbung/Lebenslauf/Stelle etc.), Saetze erganzen (7), Frage-Antwort zuordnen (A-E), Anschreiben erganzen, Formell/Informell unterscheiden
+- Wortliste: Bewerbungsvokabular-Tabelle (11 Eintraege), Staerken-Adjektive (6 mit Bedeutung), Redemittel-InfoBox (Einstieg/Uber sich/Motivation/Abschluss)
+- Konversation: Rollenspiel Vorstellungsgesprach (8 Tischzeilen), Dialog nach dem Gesprach, Partnerinterview Bewerbungscoaching (5 Fragen), Gruppenubung Gute/Schlechte Antwort (5 Beispiele)
+- Bildaufgaben: 3 Bilder beschreiben (Gesprach/Anschreiben/Handschlag), Bewerbungsprozess-Infografik beschriften, eigenes Anschreiben verfassen
+
+GRAMMATIK-SCHWERPUNKTE:
+- Formelle Sie-Form (Bewerbung und Gesprach)
+- Satzstrukturen: Ich bewerbe mich fur … / Ich habe … Jahre Erfahrung als … / Meine Starken sind …
+- weil-Satze fur Motivation: Diese Stelle interessiert mich, weil …
+- Perfekt fur Erfahrungen: Ich habe … gearbeitet / Ich habe … abgeschlossen.
+- Haufliche Fehler: formell vs. informell unterscheiden
+
+ERSTELLTE DATEIEN (12):
+- A2_Erwachsene/01_Beruf/03_Bewerbung/ (alle 12 Dateien)
+
+PROGRESS.TXT:
+- UP 03 auf [X] gesetzt
+- GESAMT: 24 -> 36 Dateien (8%)
+- NAECHSTER SCHRITT: Thema 01 ABSCHLUSS — Beruf & Arbeit

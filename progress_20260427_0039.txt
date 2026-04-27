@@ -1,0 +1,34 @@
+Datum: 2026-04-27
+Session-Log: AA Deutsch
+
+PROMPT:
+Thema 02 ABSCHLUSS — A2_Erwachsene: Wohnen & Einrichten.
+
+ZUSAMMENFASSUNG:
+Skript create_Erwachsene_Wohnen_ABSCHLUSS.js erstellt und auf Anhieb erfolgreich ausgefuehrt.
+2 Dateien erstellt. Thema 02 vollstaendig abgeschlossen.
+
+INHALT:
+- Aufgabe 1: Lesetext "Ein neues Kapitel" (Marta Kovac, Kroatien, Muenchen, Lehrerin, 2-Zi 58 qm 980 KM + 140 NK, Besichtigung mit Einkommensnachweis + Schufa, Schlafzimmer fertig/Wohnzimmer leer, Nachbarn Steinbergs geholfen, Weckerlaerm-Problem geloest) + R/F + Fragen
+- Aufgabe 2: Lueckentext gemischt (8 Luecken — Kaltmiete/NK/Mietvertrag/Kaution/Schufa/steht-liegt/stelle/Treppenhaus/Ruhezeit/Hausordnung/beschweren)
+- Aufgabe 3: 6 Fehler korrigieren (Dativ WO vs. Akkusativ WOHIN x2, Konjunktiv II, hat+Adjektiv, Dativ Plural Zimmern, Dativ auf dem Boden)
+- Aufgabe 4: Zettel schreiben (Einzugs-Ankuendigung), Checkliste mit 4 Kriterien
+- Aufgabe 5: Rollenspiel Wohnungsbesichtigung (3-Personen-Karten A/B/C), Pflichtbereiche-Tabelle (5 Punkte)
+- Selbstevaluation: 7 Koennen-Aussagen
+
+THEMEN-ABDECKUNG (alle 3 UPs):
+- UP 01 Wohnung suchen: Lesetext (Marta sucht), Luecken, Rollenspiel Besichtigung
+- UP 02 Wohnungseinrichtung: Lesetext (Einrichtung), Luecken (steht/liegt/haengt), Fehlerkorrektur (Wechselprapositionen)
+- UP 03 Nachbarn: Lesetext (Zettel/Entschuldigung), Schreiben (Einzugs-Zettel), Rollenspiel Treppenhaus
+
+ERSTELLTE DATEIEN (2):
+- A2_Erwachsene/02_Wohnen/ABSCHLUSS/ (beide Dateien)
+
+MEILENSTEIN:
+Thema 02 Wohnen & Einrichten VOLLSTAENDIG — 50 Dateien
+
+PROGRESS.TXT:
+- ABSCHLUSS auf [X] gesetzt
+- Thema 02 als ABGESCHLOSSEN markiert (50 Dateien)
+- GESAMT: 74 -> 76 Dateien (17%)
+- NAECHSTER SCHRITT: Thema 03 UP 01 — Im Supermarkt und auf dem Markt

@@ -1,0 +1,31 @@
+Datum: 2026-04-27
+Session-Log: AA Deutsch
+
+PROMPT:
+Thema 03 UP 01 — A2_Erwachsene: Im Supermarkt und auf dem Markt.
+
+ZUSAMMENFASSUNG:
+Skript create_Erwachsene_Einkaufen_01_Supermarkt.js erstellt und auf Anhieb erfolgreich ausgefuehrt.
+12 Dateien erstellt.
+
+INHALT:
+- Schreiben: infoBox (Einkaufsphrassen), Einkaufszettel-Tabelle (8 Zeilen), Preisvergleich-Tabelle (4 Produkte SM vs. Markt), Marktstand-Dialog schreiben, Supermarkt-vs-Markt-Meinung
+- Lesen: "Samstag auf dem Viktualienmarkt" (Emre Yilmaz, Tuerkei, Muenchen, Viktualienmarkt, Frau Huber, Tomaten/Paprika 4,80 EUR, Bauernbrot 3,50 EUR, Supermarkt fuer Nudeln/Oel/Milch) + R/F + Fragen + Mengenangaben-Tabelle + Meinung
+- Luecken: Supermarkt-Lückentext (8 Woerter), Marktdialog (6 Luecken), Mengenangaben-Zuordnung (6), Preisvergleich-Saetze (4), grammarBox Mengenangaben ohne Artikel
+- Wortliste: Einkaufs-Vokabular-Tabelle (14 Eintraege), Mengenangaben-Tabelle (8 Eintraege), grammarBox, infoBox mit nuetzlichen Saetzen
+- Konversation: Marktstand-Dialog (8 Tischzeilen), Supermarkt-Suche-Rollenspiel (Karten A/B), Partnerinterview Einkaufsgewohnheiten (5 Fragen), Einkaufs-Staffette
+- Bildaufgaben: Supermarkt beschreiben, Einkaufskorb analysieren, Wochenmarkt-Szene, Preisschilder vergleichen
+
+GRAMMATIK-SCHWERPUNKTE:
+- Mengenangaben ohne Artikel: ein Kilo Tomaten (nicht: ein Kilo der Tomaten)
+- Komparativ beim Preisvergleich: teurer als / billiger als / am guenstigsten
+- Akkusativ beim Einkaufen: Ich kaufe einen Joghurt / eine Flasche / ein Kilo
+- Preise nennen: Was kostet …? / Das macht … Euro. / Das kostet …
+
+ERSTELLTE DATEIEN (12):
+- A2_Erwachsene/03_Einkaufen/01_Supermarkt/ (alle 12 Dateien)
+
+PROGRESS.TXT:
+- UP 01 auf [X] gesetzt
+- GESAMT: 76 -> 88 Dateien (20%)
+- NAECHSTER SCHRITT: Thema 03 UP 02 — Kleidung kaufen und reklamieren

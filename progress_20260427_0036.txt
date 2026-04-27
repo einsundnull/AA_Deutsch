@@ -1,0 +1,35 @@
+Datum: 2026-04-27
+Session-Log: AA Deutsch
+
+PROMPT:
+Thema 02 UP 01 — A2_Erwachsene: Wohnung suchen und beschreiben.
+
+ZUSAMMENFASSUNG:
+Skript create_Erwachsene_Wohnen_01_WohnungSuchen.js erstellt und auf Anhieb erfolgreich ausgefuehrt.
+12 Dateien erstellt.
+
+INHALT:
+- Schreiben: InfoBox (Suchphrassen/Schluesselwoerter), Wohnungsanzeige lesen (Muenchen Schwabing 3-Zi, 72 qm, 1.350 EUR KM), eigene Wohnsituation beschreiben, Traumwohnung-Text, Vergleich zweier Wohnungen
+- Lesen: "Wohnungssuche in Deutschland — ein Erfahrungsbericht" (Tomas Novak, Tschechien, Frankfurt, Sachsenhausen, 55 qm, 980 EUR KM + 160 EUR NK, Schufa-Auskunft) + R/F + Fragen + Abkuerzungen + eigene Erfahrung
+- Luecken: Woerterkasten (Wohnungsvokabular), Abkuerzungen-Zuordnung (qm/KM/WM/NK/EG/OG/EBK/WG), Telefonat mit Vermieter erganzen, Saetze mit Luecken formulieren
+- Wortliste: Wohnungstypen + Raeume-Tabelle (8 Eintraege), Miet-Vokabular-Tabelle (Kaltmiete/Warmmiete/Nebenkosten/Kaution/Vermieter/Mieter/Besichtigung/Mietvertrag/Schufa-Auskunft), nuetzliche Saetze InfoBox
+- Konversation: Vermieter-Telefonat formell (Tischgeruest), Freunde vergleichen Wohnungen (Dialoggeruest), Partnerinterview (5 Fragen), Wohnungsmarkt-Simulation (3 Anzeige-Karten A/B/C)
+- Bildaufgaben: Wohnung beschreiben, Grundriss lesen und beschriften, Traumwohnung zeichnen und beschreiben, eigene Wohnungsanzeige schreiben
+
+GRAMMATIK-SCHWERPUNKTE:
+- Adjektive zur Wohnungsbeschreibung (gross/klein/hell/dunkel/ruhig/laut/modern/alt)
+- Komparativ: groesser als / kleiner als / billiger als / teurer als
+- Praepositionen: im Erdgeschoss / im zweiten Stock / in der Naehe von
+- Wechselpraepositionen: in + Dativ (Die Kueche ist im zweiten Zimmer)
+- Formelle Sprache am Telefon: Ich interessiere mich fuer … / Ich haette gerne …
+
+NEUE HILFSFUNKTION:
+- anzeigenBox(zeilen): gelb/orange umrandete Box fuer Wohnungsanzeigen (Border-Farbe #CC8800)
+
+ERSTELLTE DATEIEN (12):
+- A2_Erwachsene/02_Wohnen/01_WohnungSuchen/ (alle 12 Dateien)
+
+PROGRESS.TXT:
+- UP 01 auf [X] gesetzt
+- GESAMT: 38 -> 50 Dateien (11%)
+- NAECHSTER SCHRITT: Thema 02 UP 02 — Wohnungseinrichtung

@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<title>A2 Familie – Arbeitsblatt</title>
+
+<style>
+body {
+    font-family: Arial, sans-serif;
+    max-width: 900px;
+    margin: auto;
+    padding: 20px;
+    line-height: 1.6;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+.top {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.input-line {
+    border-bottom: 1px solid black;
+    width: 250px;
+    display: inline-block;
+}
+
+.section {
+    margin-top: 30px;
+}
+
+.write-line {
+    border-bottom: 1px solid black;
+    height: 22px;
+    margin: 6px 0;
+}
+
+.img-placeholder {
+    border: 2px dashed #aaa;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #aaa;
+    margin: 10px 0;
+}
+
+.solution {
+    display: none;
+    background: #f5f5f5;
+    padding: 15px;
+    margin-top: 30px;
+}
+
+button {
+    margin-top: 20px;
+    padding: 10px 15px;
+    cursor: pointer;
+}
+
+@media print {
+    button {
+        display: none;
+    }
+}
+</style>
+
+<script>
+function toggleSolution() {
+    const el = document.getElementById("solution");
+    el.style.display = el.style.display === "block" ? "none" : "block";
+}
+</script>
+
+</head>
+
+<body>
+
+<h1>Familie erzählen</h1>
+<p style="text-align:center;">Niveau: A2 | Kinder und Jugendliche</p>
+
+<div class="top">
+    <div>Name: <span class="input-line"></span></div>
+    <div>Datum: <span class="input-line"></span></div>
+</div>
+
+<div class="section">
+<h2>Aufgabe 1: Familienfoto beschreiben</h2>
+<div class="img-placeholder">[Bild einfügen]</div>
+
+<p>Schreibe 4–5 Sätze über das Bild:</p>
+<div class="write-line"></div>
+<div class="write-line"></div>
+<div class="write-line"></div>
+<div class="write-line"></div>
+<div class="write-line"></div>
+</div>
+
+<div class="section">
+<h2>Aufgabe 2: Stammbaum lesen</h2>
+<div class="img-placeholder">[Stammbaum]</div>
+
+<p>a) Wie heißen Linas Eltern?</p>
+<div class="write-line"></div>
+
+<p>b) Wie viele Geschwister hat Lina?</p>
+<div class="write-line"></div>
+
+<p>c) Wer ist Linas Tante?</p>
+<div class="write-line"></div>
+
+<p>d) Hat Lina Cousins oder Cousinen?</p>
+<div class="write-line"></div>
+</div>
+
+<div class="section">
+<h2>Aufgabe 3: Sprechblasen ergänzen</h2>
+<div class="img-placeholder">[Kinder sprechen]</div>
+
+<p>Kind 1:</p>
+<div class="write-line"></div>
+
+<p>Kind 2:</p>
+<div class="write-line"></div>
+
+<p>Kind 3:</p>
+<div class="write-line"></div>
+</div>
+
+<div class="section">
+<h2>Aufgabe 4: Bilder verbinden</h2>
+
+<p>Bild A → Mein Bruder spielt am Wochenende Fußball.</p>
+<p>Bild B → Mein Vater fährt mich zur Schule.</p>
+<p>Bild C → Meine Mutter kocht jeden Sonntag für uns.</p>
+<p>Bild D → Meine Schwester geht mit dem Hund spazieren.</p>
+</div>
+
+<div class="section">
+<h2>Aufgabe 5: Mein Familienportrait</h2>
+<div class="img-placeholder">[Hier zeichnen]</div>
+
+<p>Schreibe einen Satz zu jeder Person:</p>
+<div class="write-line"></div>
+<div class="write-line"></div>
+<div class="write-line"></div>
+<div class="write-line"></div>
+</div>
+
+<button onclick="toggleSolution()">Lösung anzeigen</button>
+
+<div id="solution" class="solution">
+<h2>Lösungen (Beispiele)</h2>
+
+<p><b>Aufgabe 1:</b> Auf dem Bild sehe ich eine Familie. Sie stehen vor einem Haus. Sie lachen.</p>
+
+<p><b>Aufgabe 3:</b></p>
+<ul>
+<li>Kind 1: Wir sind drei Geschwister.</li>
+<li>Kind 2: Mama kocht heute Pizza.</li>
+<li>Kind 3: Ich liebe meine Familie.</li>
+</ul>
+
+<p><b>Aufgabe 4:</b></p>
+<ul>
+<li>A → Bruder spielt Fußball</li>
+<li>B → Vater fährt zur Schule</li>
+<li>C → Mutter kocht</li>
+<li>D → Schwester geht mit Hund</li>
+</ul>
+
+</div>
+
+</body>
+</html>

@@ -130,4 +130,7 @@ Lies nicht:
 Achte darauf, dass du Umlaute wirklich schreibst (anstelle von ae -> ä, ue -> ü, oe -> ö)
 Sag mir am Ende immer ob du die Progress File erstellt hast und unter welchem Namen.
 
+Erstelle mir ein Prompt, der es das nächste Mal und bei allen kommenden Malen erlaubt, den Prompt zu posten, sodass
+  die Arbeit sofort an der Stelle, an der wir in einer Session aufgehört haben, aufzunehmen, ohne das gesamte Projeckt
+  zu lesen und die 1M Token Grenze zu erreichen.
 

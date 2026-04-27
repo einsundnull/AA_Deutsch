@@ -1,0 +1,35 @@
+Datum: 2026-04-27
+Session-Log: AA Deutsch
+
+PROMPT:
+Thema 02 UP 02 — A2_Erwachsene: Wohnungseinrichtung.
+
+ZUSAMMENFASSUNG:
+Skript create_Erwachsene_Wohnen_02_Wohnungseinrichtung.js erstellt und auf Anhieb erfolgreich ausgefuehrt.
+12 Dateien erstellt.
+
+INHALT:
+- Schreiben: infoBox mit Einrichtungsphrasen (stehen/liegen/haengen + Prapositionen), Zimmer beschreiben, Traumzimmer-Text, E-Mail Moebel kaufen, Vorher-Nachher-Vergleich
+- Lesen: "Ein neues Zuhause in Berlin" (Yasmin Oezdemir, Tuerkei, Berlin, Schlafzimmer/Wohnzimmer/Kueche einrichten, Sofa gebraucht gekauft, Teppich aus Tuerkei) + R/F + Fragen + Tabelle steht/liegt/haengt + Meinung
+- Luecken: steht/haengt/liegt (6 Saetze), stelle/haenge/lege (5 Saetze), Wohnungsbeschreibungs-Lueckentext (7 Luecken), Dialog Wohnung zeigen (5 Luecken), Satzumformungen (3)
+- Wortliste: Moebel-Tabelle (10 Eintraege), Verben/Adjektive-Tabelle (8 Eintraege), Ubersetzungszeilen, grammarBox Wechselprapositionen
+- Konversation: Dialog Wohnung zeigen (8 Tischzeilen), Wohnungsvergleich Lisa/Tobias (Tabelle), Partnerinterview (5 Fragen), Moebel-Staffette (Gruppenspiel)
+- Bildaufgaben: Wohnzimmer beschreiben, Grundriss beschriften, Traumwohnung zeichnen, Vorher-Nachher-Vergleich
+
+GRAMMATIK-SCHWERPUNKTE:
+- Wechselprapositionen: Dativ (WO? stehen/liegen/haengen) vs. Akkusativ (WOHIN? stellen/legen/haengen)
+- Zustandsverben: stehen, liegen, haengen
+- Bewegungsverben: stellen, legen, haengen
+- Komparativ: groesser als / ruhiger als / moderner als
+- Formelle Sprache: E-Mail schreiben (Sehr geehrte/r … / Mit freundlichen Gruessen)
+
+NEUE HILFSFUNKTION:
+- grammarBox(lines): orange umrandete Box fuer Grammatik-Hinweise (Border-Farbe #E65100, Fill #FFF3E0)
+
+ERSTELLTE DATEIEN (12):
+- A2_Erwachsene/02_Wohnen/02_Wohnungseinrichtung/ (alle 12 Dateien)
+
+PROGRESS.TXT:
+- UP 02 auf [X] gesetzt
+- GESAMT: 50 -> 62 Dateien (14%)
+- NAECHSTER SCHRITT: Thema 02 UP 03 — Mit Nachbarn kommunizieren
