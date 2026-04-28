@@ -1,0 +1,43 @@
+Datum: 2026-04-28
+Session-Log: AA Deutsch
+
+PROMPT:
+Thema 07 UP 01 — A2_Erwachsene: Reise planen und buchen
+
+ZUSAMMENFASSUNG:
+Skript create_Erwachsene_Reisen_01_ReisePlanenBuchen.js erstellt und auf Anhieb erfolgreich ausgefuehrt.
+12 Dateien erstellt.
+
+INHALT:
+- Schreiben: infoBox Reiseausdruecke (buchen/reservieren/vergleichen, Futur I, Adjektivdeklination),
+  Traumreise beschreiben (4 Fragen), Reisevorschlag-Nachricht (Futur I + Konjunktiv II),
+  Adjektivendungen erganzen (6), formelle Buchungs-E-Mail
+- Lesen: "Selins Hamburg-Trip" (Selin Kaya, Tuerkei, Koeln, Sozialarbeiterin;
+  Freundin Mina (Syrien); IC-Zug 4h20 Sparpreis 49 EUR; Hotel Elblicht 3 Sterne 68 EUR/Nacht
+  inkl. Fruehstueck; Elbphilharmonie 15 EUR; Speicherstadt; Budget 220 EUR/Person)
+  + R/F (7) + Fragen (4) + Reise-Uebersichtstabelle
+- Luecken: Reisetext (10 Woerter), Reisebuero-Dialog (6 Luecken),
+  Futur I bilden (6), Adjektivendungen (6)
+- Wortliste: Reise und Buchung (10), Unterkunft und Transportmittel (8),
+  travelBox Reisetipps Deutschland, grammarBox Reiseverben Perfekt
+- Konversation: Dialog Reise planen (lueckig), Rollenspiel Reisebuero (Preistabelle Zug/Flug/Hotel),
+  Partnerinterview (5 Fragen), Gruppenspiel "Meine Traumreise" (5 Leitfragen)
+- Bildaufgaben: 5 Transportmittel benennen, Zugverbindung lesen (ICE München-Hamburg),
+  Hotelwebsite lesen (Hotel Zur Linde Freiburg), Urlaubsfoto-Szene + Futur I
+
+GRAMMATIK-SCHWERPUNKTE:
+- Futur I: werden + Infinitiv (Plaene, Vorhaben, Vorhersagen)
+- Adjektivdeklination nach bestimmtem Artikel (Nom./Akk./Dat.)
+- Wenn-Saetze (Konditionalsaetze mit Verbendstellung)
+- Modalverben fuer Buchung/Planung (moechten/wollen/koennen/sollen)
+
+NEUER HELPER:
+- travelBox (blau-tuerkis #00695C, fill E0F2F1) fuer Reise-Infoboxen
+
+ERSTELLTE DATEIEN (12):
+- A2_Erwachsene/07_Reisen/01_ReisePlanenBuchen/ (alle 12 Dateien)
+
+PROGRESS.TXT:
+- UP 01 auf [X] gesetzt
+- GESAMT: 228 -> 240 Dateien (54%)
+- NAECHSTER SCHRITT: Thema 07 UP 02 — Unterwegs (Transportmittel, Orientierung)

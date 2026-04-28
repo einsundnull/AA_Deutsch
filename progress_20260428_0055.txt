@@ -1,0 +1,41 @@
+Datum: 2026-04-28
+Session-Log: AA Deutsch
+
+PROMPT:
+Thema 06 ABSCHLUSS — A2_Erwachsene: Freizeit & Kultur
+
+ZUSAMMENFASSUNG:
+Skript create_Erwachsene_FreizeitKultur_ABSCHLUSS.js erstellt und auf Anhieb erfolgreich ausgefuehrt.
+2 Dateien erstellt. Thema 06 vollstaendig abgeschlossen.
+
+INHALT:
+- Aufgabe 1: Lesetext "Chiomas perfektes Wochenende" (Chioma Obi, Nigeria, Freiburg, Lehrerin,
+  Yoga samstags, Jazzkonzert 16 EUR ermaeßigt, Buchclub jeden 2. Samstag (8 Personen),
+  Radfahren Sonntag Rhein/Schwarzwald, plant 5-km-Stadtlauf)
+  + R/F (7 Aussagen)
+- Aufgabe 2: Gemischter Lueckentext (10 Luecken — alle 3 UPs abgedeckt)
+- Aufgabe 3: 6 Fehler korrigieren (je 2 pro UP):
+  UP 01: „angefangen, regelmaeßig lesen" (Infinitiv mit zu fehlt),
+         „Ich interessiere sehr fuer" (Reflexivpronomen mich fehlt)
+  UP 02: Relativpronomen „der" statt „den" (Akkusativ), Verb nicht am Satzende
+  UP 03: Komparativ „gesunder" statt „gesuender" (Umlaut), trennbares Verb Stellung
+- Aufgabe 4: Text Freizeit-Profil (6–8 Saetze, alle 3 Bereiche, Relativsatz + Komparativ + Infinitiv zu)
+- Aufgabe 5: Rollenspiel Freizeit planen (3 Aktivitaeten, Zustimmung/Ablehnung/Gegenvorschlag)
+- Selbstevaluation: 7 Koennen-Aussagen
+
+THEMEN-ABDECKUNG (alle 3 UPs):
+- UP 01 Hobbys: Text (Yoga, Buchclub), Luecken, Fehler a+b, Schreibaufgabe (Hobby)
+- UP 02 Veranstaltungen: Text (Jazzkonzert), Luecken, Fehler c+d, Schreibaufgabe (Relativsatz)
+- UP 03 Sport: Text (Radfahren, Stadtlauf), Luecken, Fehler e+f, Rollenspiel, Schreibaufgabe
+
+ERSTELLTE DATEIEN (2):
+- A2_Erwachsene/06_FreizeitKultur/ABSCHLUSS/ (beide Dateien)
+
+MEILENSTEIN:
+Thema 06 Freizeit & Kultur VOLLSTAENDIG — 50 Dateien
+
+PROGRESS.TXT:
+- ABSCHLUSS auf [X] gesetzt
+- Thema 06 als ABGESCHLOSSEN markiert (50 Dateien)
+- GESAMT: 226 -> 228 Dateien (52%)
+- NAECHSTER SCHRITT: Thema 07 UP 01 — Reise planen und buchen
