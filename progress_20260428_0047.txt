@@ -1,0 +1,41 @@
+Datum: 2026-04-28
+Session-Log: AA Deutsch
+
+PROMPT:
+Thema 04 ABSCHLUSS — A2_Erwachsene: Essen & Restaurants.
+
+ZUSAMMENFASSUNG:
+Skript create_Erwachsene_EssenRestaurant_ABSCHLUSS.js erstellt und auf Anhieb erfolgreich ausgefuehrt.
+2 Dateien erstellt. Thema 04 vollstaendig abgeschlossen.
+
+INHALT:
+- Aufgabe 1: Lesetext "Fatimas kulinarisches Tagebuch" (Fatima El-Amin, Marokko, Frankfurt, 3 Blog-Eintraege:
+  1) Restaurant "Zum Adler" - Schnitzel + Sandra (Forelle), "Stimmt so" erklaert;
+  2) Linsensuppen-Rezept von Sandra - anbraten/koecheln/puerieren/abschmecken, Mann Tariq begeistert;
+  3) Deutsche Esskultur - Bio/Vollkorn, Sandra vegetarisch, Fatima ausgewogen, vermisst wuerzige Gewuerze)
+  + R/F (7 Aussagen) + Fragen (3)
+- Aufgabe 2: Lueckentext gemischt (10 Luecken — alle 3 UPs abgedeckt)
+- Aufgabe 3: 6 Fehler korrigieren (je 2 pro UP):
+  UP 01: Adjektivendung maskulin (gegrillten Fisch), Partizip II gebracht
+  UP 02: Imperativ Sie-Form (Schneiden Sie), Mengenangabe ohne Artikel
+  UP 03: Konjunktiv II solltest vs. sollst, Adverb vegetarisch (keine Adjektivendung)
+- Aufgabe 4: Blogeintrag schreiben (5-7 Saetze, Perfekt + Konjunktiv II + Komparativ)
+- Aufgabe 5: Rollenspiel 3-Personen (Gaeste A+B + Kellner C), menuBox Tagesgericht
+- Selbstevaluation: 7 Koennen-Aussagen
+
+THEMEN-ABDECKUNG (alle 3 UPs):
+- UP 01 Restaurant: Text Eintrag 1, Luecken, Fehler a+b, Rollenspiel
+- UP 02 Rezepte: Text Eintrag 2, Luecken, Fehler c+d
+- UP 03 Ernaehrung: Text Eintrag 3, Luecken, Fehler e+f, Schreiben
+
+ERSTELLTE DATEIEN (2):
+- A2_Erwachsene/04_EssenRestaurant/ABSCHLUSS/ (beide Dateien)
+
+MEILENSTEIN:
+Thema 04 Essen & Restaurants VOLLSTAENDIG — 50 Dateien
+
+PROGRESS.TXT:
+- ABSCHLUSS auf [X] gesetzt
+- Thema 04 als ABGESCHLOSSEN markiert (50 Dateien)
+- GESAMT: 150 -> 152 Dateien (34%)
+- NAECHSTER SCHRITT: Thema 05 UP 01 — Beim Arzt

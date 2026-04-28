@@ -1,0 +1,39 @@
+Datum: 2026-04-28
+Session-Log: AA Deutsch
+
+PROMPT:
+Thema 05 UP 01 — A2_Erwachsene: Beim Arzt.
+
+ZUSAMMENFASSUNG:
+Skript create_Erwachsene_Gesundheit_01_BeimArzt.js erstellt und auf Anhieb erfolgreich ausgefuehrt.
+12 Dateien erstellt.
+
+INHALT:
+- Schreiben: infoBox Arzt-Ausdruecke, Symptome mit "seit" beschreiben (4 Saetze), Anmeldeformular ausfuellen,
+  Arztgespraech vorbereiten (4 Punkte), Krankmeldungs-Nachricht schreiben
+- Lesen: "Yuki beim Hausarzt" (Yuki Tanaka, Japan, Hamburg, Grafikdesignerin, VHS, Halsentzuendung,
+  Dr. Weber, 38,9 Grad, Antibiotika 10 Tage, Attest 3 Tage) + R/F (7 Aussagen) + Fragen (4)
+  + Modalverben-Tabelle aus dem Text
+- Luecken: Arztbesuch-Text (10 Woerter), Dialog Dr. Hoffmann / Herr Karim (6 Luecken),
+  Koerperteile + Beschwerden zuordnen (A-F), "seit" + Dativ Endungen (5)
+- Wortliste: Symptome/Krankheiten (10), Arztpraxis (8), grammarBox Koerperteile nach Artikel
+- Konversation: 2-Personen-Dialog Arztgespraech (Satzbausteine), Rollenspiel Termin vereinbaren
+  (Tischkarten A/B, 5 Schritte), Partnerinterview (5 Fragen), Gruppenspiel Symptome raten
+- Bildaufgaben: Koerperteile beschriften (8 Pfeile), Arztpraxis-Szene beschreiben,
+  Krankmeldungsformular lesen (Ahmed Malik, Grippe, 28.04.-02.05., Dr. Hoffmann),
+  Empfehlungen bei 4 Symptomen
+
+GRAMMATIK-SCHWERPUNKTE:
+- "seit" + Dativ fuer Zeitdauer (immer Praesens, nicht Perfekt):
+  seit drei Tagen / seit einer Woche / seit dem Wochenende
+- Modalverben beim Arzt: muessen (Pflicht) / sollen (Anweisung) / duerfen nicht (Verbot) / sollten (Rat)
+- Koerperteile mit Artikel: der/die/das korrekt
+- Reflexives Verb: sich krank fuehlen / sich ausruhen
+
+ERSTELLTE DATEIEN (12):
+- A2_Erwachsene/05_Gesundheit/01_BeimArzt/ (alle 12 Dateien)
+
+PROGRESS.TXT:
+- UP 01 auf [X] gesetzt
+- GESAMT: 152 -> 164 Dateien (37%)
+- NAECHSTER SCHRITT: Thema 05 UP 02 — Apotheke und Medikamente

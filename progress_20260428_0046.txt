@@ -1,0 +1,44 @@
+Datum: 2026-04-28
+Session-Log: AA Deutsch
+
+PROMPT:
+Thema 04 UP 03 — A2_Erwachsene: Ueber Ernaehrung sprechen.
+
+ZUSAMMENFASSUNG:
+Skript create_Erwachsene_EssenRestaurant_03_ErnaehrungSprechen.js erstellt und nach einem kleinen Fix
+(Apostroph in Carlos' → umformuliert) erfolgreich ausgefuehrt. 12 Dateien erstellt.
+
+FEHLER & FIX:
+SyntaxError: Apostrophen in "Carlos'" endeten den JS-String. Geloest durch Umformulierung:
+"Findest du die Ernaehrungsumstellung von Carlos gut?"
+
+INHALT:
+- Schreiben: infoBox Ernaehrungsausdruecke, Ernaehrungstagebuch (Fruehstueck/Mittagessen/Abendessen/Getraenke),
+  Gesund-Ungesund-Bewertung, 4 Ratschlaege mit Konjunktiv II, Freitext Ernaehrung
+- Lesen: "Carlos aendert seine Ernaehrung" (Carlos Mendez, Mexiko, Muenchen, Softwarefirma, frueher Fast Food/Pizza/Cola,
+  Arzt-Tipp: mehr Obst/Gemuese/Wasser, weniger rotes Fleisch, jetzt Muesli/Salat/Fisch/Huelsenfruechte,
+  Linsensuppe fuer Kollegen) + R/F + Fragen + Frueher-Heute-Tabelle
+- Luecken: Ernaehrungstext 10 Naehrstoffe-Woerter, Konjunktiv II (5 Raetschlaege), Komparativ (5),
+  Ernaehrungstypen zuordnen (vegetarisch/vegan/Low-Carb/pescetarisch)
+- Wortliste: Naehrstoffe (10 Eintraege), Ernaehrungsgewoohnheiten (8 Eintraege), healthBox 5 Lebensmittelgruppen
+- Konversation: 2-Personen-Dialog Ernaehrungsberatung (Sie-Form), Meinungsdiskussion 3 Positionen (vegetarisch/ausgewogen/vegan),
+  Partnerinterview (5 Fragen), Gruppenspiel Ernaehrungs-Quiz
+- Bildaufgaben: Lebensmittel kategorisieren (gesund/maessig/ungesund), Ernaehrungspyramide beschreiben,
+  Naehrwerttabelle lesen, Wochenspeiseplan bewerten
+
+NEUER HELPER:
+- healthBox(lines): dunkelgruen (#2E7D32, fill F1F8E9) fuer Ernaehrungstipps / Lebensmittelgruppen
+
+GRAMMATIK-SCHWERPUNKTE:
+- Konjunktiv II fuer Ratschlaege: Du solltest / Man sollte / Es waere gut, wenn …
+- Komparativ (regelmaessig + unregelmaessig): gesund → gesuender, gut → besser, viel → mehr, wenig → weniger
+- Reflexives Verb: sich ernaehren (ich ernaehre mich vegetarisch)
+- Praeposition: verzichten auf + Akkusativ
+
+ERSTELLTE DATEIEN (12):
+- A2_Erwachsene/04_EssenRestaurant/03_ErnaehrungSprechen/ (alle 12 Dateien)
+
+PROGRESS.TXT:
+- UP 03 auf [X] gesetzt
+- GESAMT: 138 -> 150 Dateien (34%)
+- NAECHSTER SCHRITT: Thema 04 ABSCHLUSS — Essen & Restaurants
