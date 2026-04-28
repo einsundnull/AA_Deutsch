@@ -1,0 +1,40 @@
+Datum: 2026-04-28
+Session-Log: AA Deutsch
+
+PROMPT:
+Thema 05 UP 02 — A2_Erwachsene: Apotheke und Medikamente.
+
+ZUSAMMENFASSUNG:
+Skript create_Erwachsene_Gesundheit_02_ApothekenMedikamente.js erstellt und auf Anhieb erfolgreich ausgefuehrt.
+12 Dateien erstellt.
+
+INHALT:
+- Schreiben: infoBox Apothekenausdruecke, 4 Situationen formulieren, Beipackzettel lesen + Fragen beantworten,
+  Einnahme-Anweisung mit Modalverben schreiben, Apotheken-Tipp bei Erkaeltung
+- Lesen: "Olga in der Apotheke" (Olga Kovalenko, Ukraine, Stuttgart, Koehin,
+  Apotheker Herr Schreiber, Amoxicillin 3x tgl. nach Essen 10 Tage, kein Alkohol,
+  Nasenspray 2x tgl. 2 Spruehstoesse, Zuzahlung 10 EUR) + R/F (7) + Fragen (4) + Reihenfolge
+- Luecken: Apothekentext (11 Luecken), Dialog Erkaeltungssaft (6), Medikamente zuordnen (A-F),
+  Einnahme-Zeitangaben (5)
+- Wortliste: Medikamenten-Typen (8), Apothekenvokabular (8), pkgBox rezeptfrei vs. verschreibungspflichtig
+- Konversation: Dialog Apotheke (Satzbausteine), Rollenspiel Beipackzettel erklaeren (Tabelle 4 Schritte),
+  Partnerinterview (5 Fragen), Gruppenspiel: Was ist das Medikament?
+- Bildaufgaben: Medikamente benennen + Funktion, Beipackzettel lesen, Apothekenszene beschreiben,
+  Kassenzettel auswerten (Amoxicillin 5 EUR / Nasenspray 8,95 EUR / Vitamin C 4,99 EUR = 18,94 EUR)
+
+NEUER HELPER:
+- pkgBox(lines): blau (#1565C0, fill E3F2FD) fuer Beipackzettel-Kaestchen
+
+GRAMMATIK-SCHWERPUNKTE:
+- Modalverben fuer Einnahmeregeln: muessen (Pflicht) / duerfen nicht (Verbot) / sollen (Anweisung)
+- Zeitangaben: einmal/zweimal/dreimal taeglich, alle 8 Stunden, nach dem Essen, auf nuechternen Magen
+- Adjektive: rezeptfrei / verschreibungspflichtig
+- Trennbares Verb: ausstellen (Attest), einloesen (Rezept)
+
+ERSTELLTE DATEIEN (12):
+- A2_Erwachsene/05_Gesundheit/02_ApothekenMedikamente/ (alle 12 Dateien)
+
+PROGRESS.TXT:
+- UP 02 auf [X] gesetzt
+- GESAMT: 164 -> 176 Dateien (40%)
+- NAECHSTER SCHRITT: Thema 05 UP 03 — Gesunder Lebensstil
