@@ -1,0 +1,38 @@
+Datum: 2026-04-28
+Session-Log: AA Deutsch
+
+PROMPT:
+Thema 06 UP 02 — A2_Erwachsene: Veranstaltungen besuchen (Kino, Theater, Museum)
+
+ZUSAMMENFASSUNG:
+Skript create_Erwachsene_FreizeitKultur_02_Veranstaltungen.js erstellt und auf Anhieb erfolgreich ausgefuehrt.
+12 Dateien erstellt.
+
+INHALT:
+- Schreiben: infoBox Veranstaltungsausdruecke, Veranstaltung beschreiben (4 Punkte),
+  Theaterkarten-Anfrage, Kritik-Tabelle (gut/schlecht), Traumveranstaltung (Perfekt + Praesens)
+- Lesen: "Kwames Theaterabend in Berlin" (Kwame Asante, Ghana, Berlin, Softwareentwickler,
+  Berliner Ensemble, "Die Raeuber" von Schiller, Kollegin Sophia, Reihe 7 28 EUR/Karte, Sekt in Pause)
+  + R/F (7) + Fragen (4) + Veranstaltungs-Tabelle (Was/Wo/Wie viel/Wie war es)
+- Luecken: Kulturtext (10 Woerter), Theaterkassen-Dialog (6 Luecken),
+  Relativpronomen einsetzen (6), Adjektive zuordnen (6)
+- Wortliste: Veranstaltungen (10 mit Artikel/Verb), Bewertungsausdruecke (8),
+  grammarBox Relativsaetze Nom./Akk.
+- Konversation: Dialog Veranstaltung erzaehlen (lueckig), Rollenspiel Theaterkasse
+  (Preistabelle Parkett/Rang/Galerie), Partnerinterview (5 Fragen), Filmkritik-Runde (Gruppe)
+- Bildaufgaben: 4 Veranstaltungsorte benennen, Konzertplakat lesen (Jazz Night Koeln),
+  Theaterprogramm-Szene beschreiben, Kinoticket lesen und Fragen beantworten
+
+GRAMMATIK-SCHWERPUNKTE:
+- Relativsaetze im Nominativ und Akkusativ (der/die/das/den)
+- Meinungsadjektive: spannend / bewegend / mitreissend / enttaeuschend / beeindruckend
+- Indirekte Rede (Das fand ich.../Ich finde, dass...)
+- Wortstellung in Nebensaetzen mit dass
+
+ERSTELLTE DATEIEN (12):
+- A2_Erwachsene/06_FreizeitKultur/02_Veranstaltungen/ (alle 12 Dateien)
+
+PROGRESS.TXT:
+- UP 02 auf [X] gesetzt
+- GESAMT: 202 -> 214 Dateien (48%)
+- NAECHSTER SCHRITT: Thema 06 UP 03 — Sport treiben

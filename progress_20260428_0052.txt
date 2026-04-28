@@ -1,0 +1,38 @@
+Datum: 2026-04-28
+Session-Log: AA Deutsch
+
+PROMPT:
+Thema 06 UP 01 — A2_Erwachsene: Freizeitaktivitaeten und Hobbys.
+
+ZUSAMMENFASSUNG:
+Skript create_Erwachsene_FreizeitKultur_01_FreizeitHobbys.js erstellt und auf Anhieb erfolgreich ausgefuehrt.
+12 Dateien erstellt.
+
+INHALT:
+- Schreiben: infoBox Freizeitausdruecke, Hobby beschreiben (4 Punkte), Verabredungs-Nachricht,
+  Vor-Nachteile-Tabelle (Hobby aus Liste), ideales Wochenende (Perfekt + Praesens)
+- Lesen: "Lenas neue Hobbys in Deutschland" (Lena Kovac, Kroatien, Duesseldorf, Grafikdesignerin,
+  Buchclub jeden 2. Dienstag (8 Personen, Cafe, Deutsch/Uebersetzungen),
+  Aquarellkurs samstags 2h 15 EUR bei Frau Hofer, Wandern Schwarzwald 2h mit Auto)
+  + R/F (7) + Fragen (4) + Hobbys-Tabelle (Wann/Kosten/Was gefaellt)
+- Luecken: Freizeittext (10 Woerter), Verabredungs-Dialog (6 Luecken),
+  weil-Saetze bilden (4), Infinitiv mit zu (5)
+- Wortliste: Freizeitaktivitaeten (10 mit Verb), Verabredungen (8), grammarBox Verben + Infinitiv zu
+- Konversation: Dialog Hobbys vorstellen (lueckig), Rollenspiel Verabredung (5 Schritte),
+  Partnerinterview (5 Fragen), Gruppenspiel "Zwei Luegen, eine Wahrheit"
+- Bildaufgaben: 8 Aktivitaeten benennen, Kursflyer lesen (Kulturzentrum Duesseldorf),
+  Parkszene beschreiben, Wochenkalender auswerten
+
+GRAMMATIK-SCHWERPUNKTE:
+- Infinitiv mit zu: Lust haben zu / anfangen zu / aufhoeren zu / versuchen zu / planen zu
+- Reflexive Verben + Praepositionen: sich interessieren fuer / sich anmelden fuer / sich verabreden mit
+- Nebensaetze mit weil (Verb am Ende)
+- Perfekt fuer vergangene Aktivitaeten (haben/sein + Partizip II)
+
+ERSTELLTE DATEIEN (12):
+- A2_Erwachsene/06_FreizeitKultur/01_FreizeitHobbys/ (alle 12 Dateien)
+
+PROGRESS.TXT:
+- UP 01 auf [X] gesetzt
+- GESAMT: 190 -> 202 Dateien (46%)
+- NAECHSTER SCHRITT: Thema 06 UP 02 — Veranstaltungen besuchen (Kino, Theater, Museum)

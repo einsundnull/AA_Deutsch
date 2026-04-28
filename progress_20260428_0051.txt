@@ -1,0 +1,41 @@
+Datum: 2026-04-28
+Session-Log: AA Deutsch
+
+PROMPT:
+Thema 05 ABSCHLUSS — A2_Erwachsene: Gesundheit.
+
+ZUSAMMENFASSUNG:
+Skript create_Erwachsene_Gesundheit_ABSCHLUSS.js erstellt und auf Anhieb erfolgreich ausgefuehrt.
+2 Dateien erstellt. Thema 05 vollstaendig abgeschlossen.
+
+INHALT:
+- Aufgabe 1: Lesetext "Rosas Wendepunkt" (Rosa Ferreira, Portugal, Hannover, Koechin,
+  Bronchitis, Dr. Lange, 5 Tage Attest, Antibiotika 3x tgl. 10 Tage, kein Alkohol,
+  inhalieren 2x tgl., Apotheker Herr Gruen, Zuzahlung 10 EUR,
+  danach: Yoga-Kurs, Fruehstueck, 7h Schlaf, 2x Joggen, aufgehoert zu rauchen)
+  + R/F (7 Aussagen) + Fragen (3)
+- Aufgabe 2: Lueckentext gemischt (10 Luecken — alle 3 UPs abgedeckt)
+- Aufgabe 3: 6 Fehler korrigieren (je 2 pro UP):
+  UP 01: "seit drei Tag" (Dativ Pl.), Attest-Satzstellung
+  UP 02: Modalverb-Stellung (muss nehmen → muss…nehmen), kauft → kaufen
+  UP 03: aufgehört rauchen → aufgehört zu rauchen, bewegte → bewege (seit+Praesens)
+- Aufgabe 4: Brief an Freund/in (6-8 Saetze, alle 3 Bereiche, Konjunktiv II + weil + Perfekt)
+- Aufgabe 5: Rollenspiel 3 Stationen (Beim Arzt / Apotheke / Gesundheitsgespraech)
+- Selbstevaluation: 7 Koennen-Aussagen
+
+THEMEN-ABDECKUNG (alle 3 UPs):
+- UP 01 Beim Arzt: Text (Arztbesuch), Luecken, Fehler a+b, Rollenspiel Station 1
+- UP 02 Apotheke: Text (Apotheke), Luecken, Fehler c+d, Rollenspiel Station 2
+- UP 03 Lebensstil: Text (Lebensstilaenderung), Luecken, Fehler e+f, Brief, Station 3
+
+ERSTELLTE DATEIEN (2):
+- A2_Erwachsene/05_Gesundheit/ABSCHLUSS/ (beide Dateien)
+
+MEILENSTEIN:
+Thema 05 Gesundheit VOLLSTAENDIG — 50 Dateien
+
+PROGRESS.TXT:
+- ABSCHLUSS auf [X] gesetzt
+- Thema 05 als ABGESCHLOSSEN markiert (50 Dateien)
+- GESAMT: 188 -> 190 Dateien (43%)
+- NAECHSTER SCHRITT: Thema 06 UP 01 — Freizeitaktivitaeten und Hobbys

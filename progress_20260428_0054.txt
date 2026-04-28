@@ -1,0 +1,44 @@
+Datum: 2026-04-28
+Session-Log: AA Deutsch
+
+PROMPT:
+Thema 06 UP 03 — A2_Erwachsene: Sport treiben
+
+ZUSAMMENFASSUNG:
+Skript create_Erwachsene_FreizeitKultur_03_SportTreiben.js erstellt und auf Anhieb erfolgreich ausgefuehrt.
+12 Dateien erstellt.
+
+INHALT:
+- Schreiben: infoBox Sportausdruecke (seit/nach/vor + Dativ, sich anmelden, trainieren),
+  eigenen Sport beschreiben, Nachricht Sportvorschlag, Komparativ-Saetze (4),
+  formelle E-Mail an Sportverein (Modalverben)
+- Lesen: "Mehmet und der Sportverein" (Mehmet Yilmaz, Tuerkei, Koeln, Elektriker,
+  Kollege Thomas, SV Koeln-Ehrenfeld, 12 EUR/Monat, Di+Do 19-21 Uhr,
+  Trainer Herr Bauer, Turnier Halbfinale, neue Freunde Jonas und Stefan)
+  + R/F (7) + Fragen (4) + Sporttabelle (Vereinsinfos)
+- Luecken: Sporttext (10 Woerter), Vereins-Dialog (6 Luecken),
+  Modalverben einsetzen (6), Komparativ/Superlativ-Tabelle (6)
+- Wortliste: Sportarten und Verben (10), Vereinssport-Ausdruecke (8),
+  sportBox Sportvereine in Deutschland, grammarBox trennbare Sportverben + Perfekt
+- Konversation: Dialog ueber Sport (lueckig), Rollenspiel Vereinsanmeldung
+  (Preistabelle Erwachsene/Student/Familie), Partnerinterview (5 Fragen),
+  Gruppenrunde "Mein idealer Sport" (5 Leitfragen)
+- Bildaufgaben: 6 Sportarten benennen, Trainingsplan auswerten (Zeiten addieren),
+  Fitnessstudio-Szene beschreiben, Vereinsposter lesen
+
+GRAMMATIK-SCHWERPUNKTE:
+- Modalverben Praesens (muessen/koennen/duerfen/sollen/wollen/moechten)
+- Komparativ und Superlativ (schneller als / am schnellsten; gut→besser→am besten)
+- Temporale Praepositionen: seit / nach / vor + Dativ
+- Trennbare Verben: aufwaermen / teilnehmen / anmelden / mitspielen
+
+NEUER HELPER:
+- sportBox (orange-rot #D84315, fill FBE9E7) fuer Sport-Infoboxen
+
+ERSTELLTE DATEIEN (12):
+- A2_Erwachsene/06_FreizeitKultur/03_SportTreiben/ (alle 12 Dateien)
+
+PROGRESS.TXT:
+- UP 03 auf [X] gesetzt
+- GESAMT: 214 -> 226 Dateien (51%)
+- NAECHSTER SCHRITT: Thema 06 ABSCHLUSS — Freizeit & Kultur
