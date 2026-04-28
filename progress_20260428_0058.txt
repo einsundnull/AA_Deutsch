@@ -1,0 +1,44 @@
+Datum: 2026-04-28
+Session-Log: AA Deutsch
+
+PROMPT:
+Thema 07 UP 03 — A2_Erwachsene: Im Hotel
+
+ZUSAMMENFASSUNG:
+Skript create_Erwachsene_Reisen_03_ImHotel.js erstellt und auf Anhieb erfolgreich ausgefuehrt.
+12 Dateien erstellt.
+
+INHALT:
+- Schreiben: infoBox Hotelausdruecke (einchecken/auschecken, Konjunktiv II fuer Bitten),
+  Einchecken-Saetze formulieren (4), Beschwerde-E-Mail, Konjunktiv-II-Umformung (4),
+  Hotelbewertung schreiben
+- Lesen: "Nataschkas Hotelprobleme in Dresden" (Natascha Petrova, Russland, Leipzig, Buchhalterin,
+  Hotel am Zwinger 3 Sterne, Rezeptionistin Frau Kellner, Zimmer 312 3.OG,
+  Laerm Hauptstrasse, Nachtrezeption ausgebucht nur Ohrenstoepsel,
+  Frau Dr. Hagen + Hotelmanager, Umzug Innenhof kostenlos, 4/5 Sterne Bewertung)
+  + R/F (7) + Fragen (4) + Hotelinfos-Tabelle
+- Luecken: Hoteltext (10 Woerter), Rezeptionsdialog (6 Luecken),
+  Konjunktiv II Tabelle (6), Genitiv-Uebung (6)
+- Wortliste: Hotelaufenthalt (10), Zimmerausstattung/Services (8),
+  hotelBox Typischer Hotelablauf, grammarBox Hotel-Verben Perfekt
+- Konversation: Dialog Einchecken (lueckig), Rollenspiel Hotelproblem (4 Schritte),
+  Partnerinterview (5 Fragen), Gruppenspiel "Was wuerden Sie tun?" (5 Situationen)
+- Bildaufgaben: 6 Hotelraeume benennen, Hotelrechnung lesen/berechnen,
+  Online-Bewertung analysieren (positiv/negativ), Buchungsformular ausfuellen
+
+GRAMMATIK-SCHWERPUNKTE:
+- Konjunktiv II fuer hoefliche Bitten: haette/koennte/wuerde/duerfte
+- Genitiv: des Hotels / der Rezeption / der Gaeste
+- Perfekt mit Hotel-Verben: eingecheckt/verlegt/reserviert
+- Adjektivdeklination in Hotelbeschreibungen
+
+NEUER HELPER:
+- hotelBox (violett #4A148C, fill F3E5F5) fuer Hotel-Infoboxen
+
+ERSTELLTE DATEIEN (12):
+- A2_Erwachsene/07_Reisen/03_ImHotel/ (alle 12 Dateien)
+
+PROGRESS.TXT:
+- UP 03 auf [X] gesetzt
+- GESAMT: 252 -> 264 Dateien (60%)
+- NAECHSTER SCHRITT: Thema 07 ABSCHLUSS — Reisen

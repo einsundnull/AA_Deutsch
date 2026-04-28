@@ -1,0 +1,44 @@
+Datum: 2026-04-28
+Session-Log: AA Deutsch
+
+PROMPT:
+Thema 07 UP 02 — A2_Erwachsene: Unterwegs (Transportmittel, Orientierung)
+
+ZUSAMMENFASSUNG:
+Skript create_Erwachsene_Reisen_02_Unterwegs.js erstellt und auf Anhieb erfolgreich ausgefuehrt.
+12 Dateien erstellt.
+
+INHALT:
+- Schreiben: infoBox Orientierungsausdruecke (Imperativ, Wegbeschreibung, OEPNV),
+  Weg beschreiben (Hauptbahnhof → 2 Ziele), Nachrichten-Wegbeschreibung,
+  Imperativ-Luecken (6 trennbare/untrennbare Verben), Wechselpraepositionen (6),
+  Postkarte unterwegs (Perfekt + Praesens + Futur I)
+- Lesen: "Bashirs Ausflug nach Heidelberg" (Bashir Rahimi, Afghanistan, Frankfurt, IT-Techniker,
+  S-Bahn 1h, Strassenbahn Linie 21/23, Universitaetsplatz, Schloss 9 EUR,
+  Hauptstrasse Fussgaengerzone, Schnitzel mit Kartoffelsalat, verirrt auf Rueckweg)
+  + R/F (7) + Fragen (4) + Reise-Uebersichtstabelle
+- Luecken: Orientierungstext (10 Woerter), Wegbeschreibungs-Dialog (6 Luecken),
+  Imperativ-Tabelle (6), Wechselpraepositionen Akk./Dat. (6)
+- Wortliste: Orientierung und Wegbeschreibung (10), OEPNV (8),
+  mapBox OEPNV in Deutschland, grammarBox Imperativ trennbare Verben
+- Konversation: Dialog Wegbeschreibung (lueckig), Rollenspiel Stadtplan-Navigation
+  (schematischer Stadtplan), Partnerinterview (5 Fragen), Gruppenspiel "Wie komme ich dahin?"
+- Bildaufgaben: 6 Verkehrssymbole benennen, Fahrplan auswerten (Linie 14),
+  Wegbeschreibung anhand Stadtplan (2 Aufgaben), Fahrkartenautomat lesen und rechnen
+
+GRAMMATIK-SCHWERPUNKTE:
+- Imperativ (Sie-Form): trennbare und untrennbare Verben
+- Wechselpraepositionen: Akkusativ (Wohin?) vs. Dativ (Wo?)
+- OEPNV-Vokabular: einsteigen/aussteigen/umsteigen + Haltestelle/Linie/Fahrplan
+- Adjektivdeklination in Wegbeschreibungen
+
+NEUER HELPER:
+- mapBox (dunkelblau #283593, fill E8EAF6) fuer OEPNV/Karten-Infoboxen
+
+ERSTELLTE DATEIEN (12):
+- A2_Erwachsene/07_Reisen/02_Unterwegs/ (alle 12 Dateien)
+
+PROGRESS.TXT:
+- UP 02 auf [X] gesetzt
+- GESAMT: 240 -> 252 Dateien (57%)
+- NAECHSTER SCHRITT: Thema 07 UP 03 — Im Hotel

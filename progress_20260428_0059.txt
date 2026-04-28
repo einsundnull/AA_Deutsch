@@ -1,0 +1,41 @@
+Datum: 2026-04-28
+Session-Log: AA Deutsch
+
+PROMPT:
+Thema 07 ABSCHLUSS — A2_Erwachsene: Reisen
+
+ZUSAMMENFASSUNG:
+Skript create_Erwachsene_Reisen_ABSCHLUSS.js erstellt und auf Anhieb erfolgreich ausgefuehrt.
+2 Dateien erstellt. Thema 07 vollstaendig abgeschlossen.
+
+INHALT:
+- Aufgabe 1: Lesetext "Ivans erste Reise nach Muenchen" (Ivan Horvatic, Kroatien, Nuernberg, Koch,
+  Bayern-Ticket 25 EUR hin/zurueck, Hotel Muenchner Hof 2 Sterne 59 EUR inkl. Fruehstueck,
+  U-Bahn Linie 3/6 Marienplatz, Tageskarte 8,80 EUR, Alte Pinakothek 1 EUR Sonntag,
+  Englischer Garten Rad, verirrt Rueckweg zur S-Bahn)
+  + R/F (7 Aussagen)
+- Aufgabe 2: Gemischter Lueckentext (10-11 Luecken — alle 3 UPs)
+- Aufgabe 3: 6 Fehler korrigieren (je 2 pro UP):
+  UP 01: doppeltes werden (Futur I), falscher Artikel (den guenstigen Zug)
+  UP 02: zur Ampel (nicht zum — feminin), ausgestiegen mit sein (nicht haben)
+  UP 03: koennte → koennten (Sie-Form Konjunktiv II), der Speise → der Speisen (Pl.)
+- Aufgabe 4: Reisebericht (6–8 Saetze, alle 3 Bereiche)
+- Aufgabe 5: Rollenspiel 3 Stationen (Zugticket / Wegbeschreibung / Hotel einchecken)
+- Selbstevaluation: 7 Koennen-Aussagen
+
+THEMEN-ABDECKUNG (alle 3 UPs):
+- UP 01 Planen/Buchen: Text (Bayern-Ticket/Hotel), Luecken, Fehler a+b, Rollenspiel Station 1
+- UP 02 Unterwegs: Text (U-Bahn/Weg fragen), Luecken, Fehler c+d, Rollenspiel Station 2
+- UP 03 Im Hotel: Text (Einchecken/Biergarten), Luecken, Fehler e+f, Rollenspiel Station 3
+
+ERSTELLTE DATEIEN (2):
+- A2_Erwachsene/07_Reisen/ABSCHLUSS/ (beide Dateien)
+
+MEILENSTEIN:
+Thema 07 Reisen VOLLSTAENDIG — 50 Dateien
+
+PROGRESS.TXT:
+- ABSCHLUSS auf [X] gesetzt
+- Thema 07 als ABGESCHLOSSEN markiert (50 Dateien)
+- GESAMT: 264 -> 266 Dateien (60%)
+- NAECHSTER SCHRITT: Thema 08 UP 01 — Ueber Familie und Beziehungen sprechen

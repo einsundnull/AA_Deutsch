@@ -1,0 +1,44 @@
+Datum: 2026-04-28
+Session-Log: AA Deutsch
+
+PROMPT:
+Thema 08 UP 02 — A2_Erwachsene: Soziale Kontakte und Einladungen
+
+ZUSAMMENFASSUNG:
+Skript create_Erwachsene_FamilieSoziales_02_SozialeKontakte.js erstellt und auf Anhieb erfolgreich ausgefuehrt.
+12 Dateien erstellt.
+
+INHALT:
+- Schreiben: infoBox Einladungsausdruecke (einladen/zusagen/absagen, um-zu/damit),
+  Einladung schreiben (Anlass/Datum/Uhrzeit/Mitbringsel),
+  Absage schreiben (Grund + Gegenvorschlag),
+  um-zu / damit (6 Saetze), formelle Einladungs-E-Mail (Futur I + damit)
+- Lesen: "Fatous Netzwerk in Muenchen" (Fatou Diallo, Senegal, Muenchen, Informatik TU,
+  Sprachcafe jeden Di 18-20h, Freundinnen Mei (China) und Rebeca (Brasilien),
+  Jonas (deutsch, Stadtteilfeier), Kochgruppe)
+  + R/F (7) + Fragen (4) + Netzwerk-Tabelle (3 Personen)
+- Luecken: Einladungstext (10 Woerter), Einladungs-Dialog (6 Luecken),
+  um-zu / damit (6), zweiteilige Konjunktionen (4: entweder-oder / sowohl-als-auch / weder-noch / nicht-nur-sondern-auch)
+- Wortliste: Einladungen/Treffen (10), Kontakte pflegen (8),
+  socialBox Tipps soziale Kontakte in Deutschland, grammarBox trennbare Verben Perfekt
+- Konversation: Dialog Einladen (lueckig), Rollenspiel Einladung annehmen/absagen (4 Schritte),
+  Partnerinterview (5 Fragen), Gruppenspiel "Ketteneinladung"
+- Bildaufgaben: 4 Einladungskarten analysieren, WhatsApp-Einladung lesen + Zu-/Absage schreiben,
+  Tischplan lesen + Futur I, Sprachcafe-Plakat auswerten
+
+GRAMMATIK-SCHWERPUNKTE:
+- Finalsaetze: um … zu + Infinitiv (gleiches Subjekt) vs. damit + Nebensatz (verschiedene Subj.)
+- Zweiteilige Konjunktionen: entweder-oder / sowohl-als-auch / weder-noch / nicht-nur-sondern-auch
+- Trennbare Verben: einladen / absagen / zusagen / mitbringen / kennenlernen
+- Reflexive Verben: sich verabreden / sich melden / sich wohlfuehlen
+
+NEUER HELPER:
+- socialBox (blau #0277BD, fill E1F5FE) fuer Soziale-Kontakte-Infoboxen
+
+ERSTELLTE DATEIEN (12):
+- A2_Erwachsene/08_FamilieSoziales/02_SozialeKontakte/ (alle 12 Dateien)
+
+PROGRESS.TXT:
+- UP 02 auf [X] gesetzt
+- GESAMT: 278 -> 290 Dateien (66%)
+- NAECHSTER SCHRITT: Thema 08 UP 03 — Feste und Feiern

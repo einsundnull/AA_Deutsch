@@ -1,0 +1,45 @@
+Datum: 2026-04-28
+Session-Log: AA Deutsch
+
+PROMPT:
+Thema 08 UP 01 — A2_Erwachsene: Ueber Familie und Beziehungen sprechen
+
+ZUSAMMENFASSUNG:
+Skript create_Erwachsene_FamilieSoziales_01_FamilieBeziehungen.js erstellt und auf Anhieb erfolgreich ausgefuehrt.
+12 Dateien erstellt.
+
+INHALT:
+- Schreiben: infoBox Familienausdruecke (Verwandte/Geschwister/Beziehungen, seit+Dativ,
+  Possessivpronomen Dativ, Relativsaetze), Familienmitglied beschreiben (Relativsatz),
+  Familienstruktur erklaeren (4 Aspekte), Possessivpronomen Dativ (6),
+  Brief ueber Familienereignis
+- Lesen: "Amiras Familie in zwei Laendern" (Amira Benali, Tunesien, Stuttgart, Aerztin,
+  Mann Karim (Ingenieur), Tochter Yasmin 1,5 Jahre, Eltern in Tunis (Vater pensionierter Lehrer,
+  Mutter Haushalt), Karims Schwester Leila (Frankreich, Uebersetzerin),
+  Freundin Elena aus Rumaenien)
+  + R/F (7) + Fragen (4) + Familien-Stammbaum-Tabelle (6 Personen)
+- Luecken: Familientext (10 Woerter), Familiengespraech-Dialog (6 Luecken),
+  Relativsaetze bilden (4), Praeteritum sein/haben (6)
+- Wortliste: Familienmitglieder/Beziehungen (10), Charaktereigenschaften (8),
+  familyBox Familien in Deutschland, grammarBox reflexive Verben + Perfekt
+- Konversation: Dialog Familie erzaehlen (lueckig), Rollenspiel Familienfoto beschreiben (3 Schritte),
+  Partnerinterview (5 Fragen), Gruppenspiel "Wer bin ich?" (Familienmitglied beschreiben)
+- Bildaufgaben: Familienstammbaum lesen (4 Generationen), Familienfoto beschreiben,
+  Heiratsanzeige lesen, Postkarte von Verwandten lesen + antworten
+
+GRAMMATIK-SCHWERPUNKTE:
+- Possessivpronomen im Dativ (meinem/meiner/meinen)
+- Praeteritum von sein und haben (war/hatte)
+- Relativsaetze (Nom./Akk.) zur Personenbeschreibung
+- Reflexive Verben: sich trennen / sich kuemmern / sich verstehen
+
+NEUER HELPER:
+- familyBox (rosa-rot #AD1457, fill FCE4EC) fuer Familien-Infoboxen
+
+ERSTELLTE DATEIEN (12):
+- A2_Erwachsene/08_FamilieSoziales/01_FamilieBeziehungen/ (alle 12 Dateien)
+
+PROGRESS.TXT:
+- UP 01 auf [X] gesetzt
+- GESAMT: 266 -> 278 Dateien (63%)
+- NAECHSTER SCHRITT: Thema 08 UP 02 — Soziale Kontakte und Einladungen
