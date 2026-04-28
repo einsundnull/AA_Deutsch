@@ -1,0 +1,42 @@
+Datum: 2026-04-28
+Session-Log: AA Deutsch
+
+PROMPT:
+Thema 05 UP 03 — A2_Erwachsene: Gesunder Lebensstil.
+
+ZUSAMMENFASSUNG:
+Skript create_Erwachsene_Gesundheit_03_GesunderLebensstil.js erstellt und auf Anhieb erfolgreich ausgefuehrt.
+12 Dateien erstellt.
+
+INHALT:
+- Schreiben: infoBox Gesundheitsausdruecke, reflexive Verben einsetzen (4), Gesundheitsplaene mit
+  Konjunktiv II (5 Saetze), Begruendungen mit "weil" (4), Gesundheitsprogramm Freitext
+- Lesen: "Priyas neues Leben" (Priya Sharma, Indien, Leipzig, Buchhalterin, frueher: wenig Schlaf /
+  Fast Food / kein Sport, VHS-Gesundheitskurs, jetzt: 7h Schlaf / Haferflocken / 3x Yoga +
+  2x Spaziergang Rosental-Park / aufgehoert zu rauchen, Kollege Thomas lobt sie) + R/F (7) +
+  Fragen (4) + Frueher-Heute-Tabelle (5 Bereiche)
+- Luecken: Gesundheitstext (10 Woerter), Konjunktiv II (5), Kausalsaetze bilden (4),
+  Aktivitaeten zuordnen (A-H zu 4 Bereichen)
+- Wortliste: Sport/Bewegung (8), Stress/Schlaf/Entspannung (8), tippBox 10 Tipps gesunder Lebensstil
+- Konversation: Dialog Gesundheitstipps austauschen (lueckig), Rollenspiel Gesundheits-Coaching
+  (4 Schritte Tabelle), Partnerinterview (5 Fragen), Gruppenspiel Gesundheitstipps-Kette
+- Bildaufgaben: gesunde vs. ungesunde Person beschreiben + Ratschlaege, Wochenplan ausfuellen
+  (7 Tage x 3 Bereiche), Stressquellen erkennen, Schlafzeiten-Diagramm auswerten
+
+NEUER HELPER:
+- tippBox(lines): tuerkis (#00838F, fill E0F7FA) fuer Gesundheitstipp-Kaestchen
+
+GRAMMATIK-SCHWERPUNKTE:
+- Konjunktiv II: sollte / koennte / wuerde fuer Ratschlaege und Vorschlaege
+- Reflexive Verben: sich entspannen / sich erholen / sich bewegen / sich ernaehren / sich fuehlen
+- Kausalsaetze: weil + Verb am Ende
+- Trennbare Verben: abnehmen (nimmt ab) / zunehmen / aufhoeren (Hoerte auf zu rauchen)
+- Komparativ: gesuender / fitter / besser + "seit" (Zeitangabe)
+
+ERSTELLTE DATEIEN (12):
+- A2_Erwachsene/05_Gesundheit/03_GesunderLebensstil/ (alle 12 Dateien)
+
+PROGRESS.TXT:
+- UP 03 auf [X] gesetzt
+- GESAMT: 176 -> 188 Dateien (43%)
+- NAECHSTER SCHRITT: Thema 05 ABSCHLUSS — Gesundheit
