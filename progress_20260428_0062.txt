@@ -1,0 +1,46 @@
+Datum: 2026-04-28
+Session-Log: AA Deutsch
+
+PROMPT:
+Thema 08 UP 03 — A2_Erwachsene: Feste und Feiern
+
+ZUSAMMENFASSUNG:
+Skript create_Erwachsene_FamilieSoziales_03_FesteFeiern.js erstellt und auf Anhieb erfolgreich ausgefuehrt.
+12 Dateien erstellt.
+
+INHALT:
+- Schreiben: infoBox Glueckwunschausdruecke (Geburtstag/Weihnachten/Silvester/Hochzeit/Geburt),
+  Glueckwunschkarte (Konjunktiv II), Festbeschreibung (4 Aspekte),
+  Vergleichssaetze waehrend/wohingegen/im Gegensatz zu/aehnlich wie (3),
+  Festbeschreibung mit 4 verschiedenen Nebensaetzen (weil/obwohl/wenn/als)
+- Lesen: "Mehmets erstes Weihnachten in Deutschland" (Mehmet Arslan, Tuerkei, Duesseldorf, Muslim,
+  Kollege Stefan zu Weihnachtsmarkt eingeladen, Gluehwein/Lebkuchen/Mandeln,
+  eigene Feier 12 Personen mit tuerkischem Essen + Plaetzchen,
+  Vergleich mit Zuckerfest, Skype mit Mutter)
+  + R/F (7) + Fragen (4) + Vergleichstabelle Weihnachten/eigenes Fest
+- Luecken: Festetext (10 Woerter), Festedialog (7 Luecken),
+  als vs. wenn (6), Temporalpraepositionen an/in/zu/bei (6)
+- Wortliste: Feste/Feiern (10), Deutsche Feste mit Zeitpunkt (6),
+  festBox Kulturhinweise zu Festen, grammarBox Feste-Verben Perfekt
+- Konversation: Dialog ueber Fest (lueckig), Rollenspiel Interkulturelles Festgespraech,
+  Partnerinterview (5 Fragen), Gruppenspiel "Fest raten"
+- Bildaufgaben: 6 Festsymbole erkennen (Weihnachten/Ostern/Silvester/Karneval/Advent/Hochzeit),
+  Weihnachtsmarkt-Szene beschreiben, Glueckwunschkarte lesen + Konjunktiv II,
+  Festkalender auswerten (bundesweit vs. regional)
+
+GRAMMATIK-SCHWERPUNKTE:
+- als (einmalig Vergangenheit) vs. wenn (Wiederholung/Bedingung/Zukunft)
+- Temporalpraepositionen: an + Dat. (Tage), in + Dat. (Monate), zu + Dat. (Anlass), bei + Dat. (Gelegenheit)
+- Vergleichsstrukturen: waehrend / wohingegen / im Gegensatz zu / aehnlich wie
+- Konjunktiv II fuer Wuensche (Moegest du / Mein Wunsch waere / Ich wuerde mir wuenschen)
+
+NEUER HELPER:
+- festBox (rotbraun #BF360C, fill FBE9E7) fuer Feste-Infoboxen
+
+ERSTELLTE DATEIEN (12):
+- A2_Erwachsene/08_FamilieSoziales/03_FesteFeiern/ (alle 12 Dateien)
+
+PROGRESS.TXT:
+- UP 03 auf [X] gesetzt
+- GESAMT: 290 -> 302 Dateien (68%)
+- NAECHSTER SCHRITT: Thema 08 ABSCHLUSS — Familie & soziales Leben

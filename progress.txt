@@ -144,7 +144,7 @@ Thema 07: Reisen (3 UP)  — ABGESCHLOSSEN (50 Dateien)
 Thema 08: Familie & soziales Leben (3 UP)
   [X] 01 Ueber Familie und Beziehungen sprechen
   [X] 02 Soziale Kontakte und Einladungen
-  [ ] 03 Feste und Feiern
+  [X] 03 Feste und Feiern
   [ ] ABSCHLUSS
 
 Thema 09: Medien & Kommunikation (2 UP)
@@ -167,7 +167,7 @@ Thema 11: Grammatik A2 Erwachsene (7 UP)
   [ ] 07 Trennbare und untrennbare Verben
   [ ] ABSCHLUSS
 
-GESAMT A2_ERWACHSENE bisher: 290 von ca. 442 Dateien (66%)
+GESAMT A2_ERWACHSENE bisher: 302 von ca. 442 Dateien (68%)
 
 NAECHSTER SCHRITT:
-Thema 08 UP 03 — A2_Erwachsene: Feste und Feiern
+Thema 08 ABSCHLUSS — A2_Erwachsene: Familie & soziales Leben
