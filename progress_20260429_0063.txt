@@ -1,0 +1,40 @@
+Datum: 2026-04-29
+Session-Log: AA Deutsch
+
+PROMPT:
+Thema 08 ABSCHLUSS — A2_Erwachsene: Familie & soziales Leben
+
+ZUSAMMENFASSUNG:
+Skript create_Erwachsene_FamilieSoziales_ABSCHLUSS.js erstellt und auf Anhieb erfolgreich ausgefuehrt.
+2 Dateien erstellt. Thema 08 vollstaendig abgeschlossen.
+
+INHALT:
+- Aufgabe 1: Lesetext "Olas Brief an die Familie" (Ola Nowak, Polen, Koeln, Pflegerin,
+  Anya Ukraine + Marek polnisch beim Sprachcafe, Pierogi-Abend, Weihnachten mit Freunden,
+  Karpfensuppe der Oma, Skype Sonntag 18 Uhr, Februar Heimreise)
+  + R/F (7 Aussagen)
+- Aufgabe 2: Gemischter Lueckentext (10 Luecken — alle 3 UPs)
+- Aufgabe 3: 6 Fehler korrigieren (je 2 pro UP):
+  UP 01: bei meine → bei meinen Eltern (Dat. Pl.); doppeltes „ist" am Satzende
+  UP 02: damit-um-zu-Mix; doppeltes „mitgebracht"
+  UP 03: Wenn → Als (einmalig); In → Zu Weihnachten
+- Aufgabe 4: Brief 8–10 Saetze (alle 3 UPs)
+- Aufgabe 5: Rollenspiel 3 Stationen (Familie/Einladung/Fest aus Heimat)
+- Selbstevaluation: 7 Koennen-Aussagen
+
+THEMEN-ABDECKUNG (alle 3 UPs):
+- UP 01 Familie: Text (Geschwister/Oma), Luecken, Fehler a+b, Rollenspiel Station 1
+- UP 02 Soziale Kontakte: Text (Einladung Pierogi), Luecken, Fehler c+d, Rollenspiel Station 2
+- UP 03 Feste: Text (Weihnachten in DE vs. Polen), Luecken, Fehler e+f, Rollenspiel Station 3
+
+ERSTELLTE DATEIEN (2):
+- A2_Erwachsene/08_FamilieSoziales/ABSCHLUSS/ (beide Dateien)
+
+MEILENSTEIN:
+Thema 08 Familie & soziales Leben VOLLSTAENDIG — 50 Dateien
+
+PROGRESS.TXT:
+- ABSCHLUSS auf [X] gesetzt
+- Thema 08 als ABGESCHLOSSEN markiert (50 Dateien)
+- GESAMT: 302 -> 304 Dateien (69%)
+- NAECHSTER SCHRITT: Thema 09 UP 01 — Nachrichten und Internet nutzen

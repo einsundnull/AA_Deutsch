@@ -1,0 +1,43 @@
+Datum: 2026-04-29
+Session-Log: AA Deutsch
+
+PROMPT:
+Thema 09 UP 01 — A2_Erwachsene: Nachrichten und Internet nutzen
+
+ZUSAMMENFASSUNG:
+Skript create_Erwachsene_MedienKommunikation_01_NachrichtenInternet.js erstellt und auf Anhieb erfolgreich ausgefuehrt.
+12 Dateien erstellt.
+
+INHALT:
+- Schreiben: infoBox Medienausdruecke (Quellen/Haeufigkeit/Meinung/Passiv),
+  Mein Medienkonsum (4-5 Saetze), Online-Funktion erklaeren (Imperativ),
+  Passiv Praesens (5), Meinungstext Vor-/Nachteile mit Konnektoren
+- Lesen: "Hassans digitaler Alltag" (Hassan El-Sayed, Aegypten, Bremen, Mathelehrer,
+  Tagesschau-App + aegypt. Nachrichten morgens, Podcast unterwegs,
+  Lernvideos hochladen, Handy-Box im Unterricht, Skype Sonntagabend mit Mutter)
+  + R/F (7) + Fragen (4) + Mediennutzungs-Tabelle (6 Tageszeiten)
+- Luecken: Internet-Text (10 Woerter), Computer-Hilfe-Dialog (6 Luecken),
+  Aktiv→Passiv Praesens (5), Komposita bilden (6)
+- Wortliste: Internet/Computer (10), Nachrichten/Medien (8),
+  mediaBox Mediennutzung Deutschland Fakten, grammarBox Internet-Verben Perfekt
+- Konversation: Dialog Mediennutzung (lueckig), Rollenspiel Computerhilfe (4 Schritte),
+  Partnerinterview (5 Fragen), Gruppendebatte "Internet — Segen oder Fluch?"
+- Bildaufgaben: 6 App-Symbole erkennen, Online-Zeitung lesen, Smartphone-Bildschirm
+  beschreiben (Apps + Passiv), Sicherheits-Infografik
+
+GRAMMATIK-SCHWERPUNKTE:
+- Passiv Praesens: werden + Partizip II
+- Komposita (zusammengesetzte Nomen, Artikel = letztes Wort)
+- Konnektoren: einerseits/andererseits, zwar/aber, trotzdem, deshalb
+- Imperativ in Anleitungen (Klick auf … / Gib ein …)
+
+NEUER HELPER:
+- mediaBox (dunkelgrau-blau #37474F, fill ECEFF1) fuer Medien-Infoboxen
+
+ERSTELLTE DATEIEN (12):
+- A2_Erwachsene/09_MedienKommunikation/01_NachrichtenInternet/ (alle 12 Dateien)
+
+PROGRESS.TXT:
+- UP 01 auf [X] gesetzt
+- GESAMT: 304 -> 316 Dateien (71%)
+- NAECHSTER SCHRITT: Thema 09 UP 02 — Telefonieren und Nachrichten schreiben
