@@ -1,0 +1,44 @@
+Datum: 2026-04-29
+Session-Log: AA Deutsch
+
+PROMPT:
+Thema 10 UP 01 — A2_Erwachsene: Wetter und Jahreszeiten
+
+ZUSAMMENFASSUNG:
+Skript create_Erwachsene_UmweltNatur_01_WetterJahreszeiten.js erstellt und auf Anhieb erfolgreich ausgefuehrt.
+12 Dateien erstellt.
+
+INHALT:
+- Schreiben: infoBox Wetterausdruecke (Beschreibung/Temp/Vorhersage),
+  Wetter heute beschreiben (3-4 Saetze), Lieblingsjahreszeit (4-5 Saetze),
+  Futur I fuer Wettervorhersage (5), Wettervergleich Deutschland-Heimat (5-6 Saetze)
+- Lesen: "Linhs erster deutscher Winter" (Linh Nguyen, Vietnam Ho-Chi-Minh-Stadt, Leipzig,
+  Maschinenbau-Studentin, Herbst-Schock, Tageslicht 16h dunkel, Winterkleidung-Kauf,
+  Heizung lernen, erster Schnee Mitte Januar, Schlittschuh 3 Stuerze,
+  Liebe zu Sommer langen Tagen + Fruehling)
+  + R/F (7) + Fragen (4) + Vergleichstabelle Vietnam/Deutschland (5 Aspekte)
+- Luecken: Wettertext (10 Woerter), Wetterbericht-Dialog (6 Luecken),
+  Praepositionen im/am/bei/ab (6), Komparativ/Superlativ Wettervokabular (6)
+- Wortliste: Wetterphaenomene (10), Jahreszeiten/Adjektive (8),
+  weatherBox Wetter Deutschland Werte, grammarBox es-Verben (regnet/schneit/donnert)
+- Konversation: Wetter-Smalltalk (lueckig), Rollenspiel Wettervorhersage (3 Schritte),
+  Partnerinterview (5 Fragen), Gruppenspiel "Das ideale Wetter fuer ..."
+- Bildaufgaben: 6 Wettersymbole, Wetterkarte Deutschland (5 Staedte) + Komparativ,
+  4 Jahreszeiten zuordnen, Wetter-App 7 Tage + Futur I
+
+GRAMMATIK-SCHWERPUNKTE:
+- Futur I fuer Vorhersagen: werden + Infinitiv
+- Komparativ und Superlativ (kalt-kaelter, warm-waermer, lang-laenger)
+- Praepositionen: im (Monat/Jahreszeit), am (Tag), bei (Wetter+Dat.), ab (Datum+Dat.)
+- es-Verben: es regnet/schneit/donnert/blitzt
+
+NEUER HELPER:
+- weatherBox (hellblau #0288D1, fill E3F2FD) fuer Wetter-Infoboxen
+
+ERSTELLTE DATEIEN (12):
+- A2_Erwachsene/10_UmweltNatur/01_WetterJahreszeiten/ (alle 12 Dateien)
+
+PROGRESS.TXT:
+- UP 01 auf [X] gesetzt
+- GESAMT: 330 -> 342 Dateien (77%)
+- NAECHSTER SCHRITT: Thema 10 UP 02 — Umweltthemen (Recycling, Energie sparen)

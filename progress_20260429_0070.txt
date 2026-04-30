@@ -1,0 +1,44 @@
+Datum: 2026-04-29
+Session-Log: AA Deutsch
+
+PROMPT:
+Thema 11 UP 01 — A2_Erwachsene: Grammatik Perfekt
+
+ZUSAMMENFASSUNG:
+Skript create_Erwachsene_Grammatik_01_Perfekt.js erstellt und auf Anhieb erfolgreich ausgefuehrt.
+12 Dateien erstellt.
+
+INHALT:
+- Schreiben: ruleBox Perfekt-Uebersicht (Bildung, regelmaeßig/unregelmaeßig, sein-Verben),
+  Tagesablauf in 5 Saetzen mit Zeitausdruecken, Verben ins Perfekt setzen (6),
+  haben/sein wahlen (6), Wochenend-Bericht (6-8 Saetze)
+- Lesen: "Davids verrueckter Sonntag" (Wecker um 5h, Spaziergang mit Hund Bruno,
+  Mann Karl trifft, Architekt bietet Nebenjob, Frau lacht, italienisch kochen)
+  + R/F (7) + Verben aus Text finden (8) + Fragen (4)
+- Luecken: Verben ins Perfekt (8), haben/sein waehlen (8), Tagesablauf-Text mit Luecken (8),
+  Trennbar/Untrennbar Partizip II Tabelle (8)
+- Wortliste: 16 wichtige unregelmaessige Verben (Hilfsverb + Partizip II),
+  10 trennbare/untrennbare Verben mit Beispielen,
+  ruleBox Faustregeln Perfekt + grammarBox haeufige Fehler
+- Konversation: Wochenend-Dialog (lueckig), Rollenspiel Urlaub erzaehlen (6 Aspekte),
+  Partnerinterview Erinnerungen (5 Fragen), Gruppenspiel "Eine Luege im Perfekt"
+- Bildaufgaben: 6 Tagesablauf-Bilder beschreiben, Familienfoto Strand (4-5 Saetze),
+  Reiseblog Berlin-Hamburg-Muenchen, 6 Aktionsbilder Verben + Partizip II + Hilfsverb
+
+GRAMMATIK-SCHWERPUNKTE:
+- Perfekt-Bildung: haben/sein + Partizip II
+- Regelmaeßig (gemacht/gelernt) vs. Unregelmaeßig (gegangen/gesehen)
+- Trennbare Verben (auf-ge-standen) vs. untrennbare (bezahlt, kein ge!)
+- -ieren-Verben ohne ge (telefoniert, studiert)
+- haben vs. sein (Bewegung/Zustandsaenderung mit sein)
+
+NEUER HELPER:
+- ruleBox (lila #4527A0, fill EDE7F6) fuer Grammatik-Regeluebersichten
+
+ERSTELLTE DATEIEN (12):
+- A2_Erwachsene/11_Grammatik/01_Perfekt/ (alle 12 Dateien)
+
+PROGRESS.TXT:
+- UP 01 auf [X] gesetzt
+- GESAMT: 356 -> 368 Dateien (83%)
+- NAECHSTER SCHRITT: Thema 11 UP 02 — Praeteritum von sein, haben und Modalverben

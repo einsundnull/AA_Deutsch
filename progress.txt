@@ -147,18 +147,18 @@ Thema 08: Familie & soziales Leben (3 UP)  — ABGESCHLOSSEN (50 Dateien)
   [X] 03 Feste und Feiern
   [X] ABSCHLUSS
 
-Thema 09: Medien & Kommunikation (2 UP)
+Thema 09: Medien & Kommunikation (2 UP)  — ABGESCHLOSSEN (26 Dateien)
   [X] 01 Nachrichten und Internet nutzen
-  [ ] 02 Telefonieren und Nachrichten schreiben
-  [ ] ABSCHLUSS
+  [X] 02 Telefonieren und Nachrichten schreiben
+  [X] ABSCHLUSS
 
-Thema 10: Umwelt & Natur (2 UP)
-  [ ] 01 Wetter und Jahreszeiten
-  [ ] 02 Umweltthemen (Recycling, Energie sparen)
-  [ ] ABSCHLUSS
+Thema 10: Umwelt & Natur (2 UP)  — ABGESCHLOSSEN (26 Dateien)
+  [X] 01 Wetter und Jahreszeiten
+  [X] 02 Umweltthemen (Recycling, Energie sparen)
+  [X] ABSCHLUSS
 
 Thema 11: Grammatik A2 Erwachsene (7 UP)
-  [ ] 01 Perfekt
+  [X] 01 Perfekt
   [ ] 02 Praeteritum von sein, haben und Modalverben
   [ ] 03 Dativ
   [ ] 04 Wechselpraepositionen
@@ -167,7 +167,7 @@ Thema 11: Grammatik A2 Erwachsene (7 UP)
   [ ] 07 Trennbare und untrennbare Verben
   [ ] ABSCHLUSS
 
-GESAMT A2_ERWACHSENE bisher: 316 von ca. 442 Dateien (71%)
+GESAMT A2_ERWACHSENE bisher: 368 von ca. 442 Dateien (83%)
 
 NAECHSTER SCHRITT:
-Thema 09 UP 02 — A2_Erwachsene: Telefonieren und Nachrichten schreiben
+Thema 11 UP 02 — A2_Erwachsene: Praeteritum von sein, haben und Modalverben

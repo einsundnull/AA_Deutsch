@@ -1,0 +1,46 @@
+Datum: 2026-04-29
+Session-Log: AA Deutsch
+
+PROMPT:
+Thema 09 UP 02 — A2_Erwachsene: Telefonieren und Nachrichten schreiben
+
+ZUSAMMENFASSUNG:
+Skript create_Erwachsene_MedienKommunikation_02_TelefonierenNachrichten.js erstellt und auf Anhieb erfolgreich ausgefuehrt.
+12 Dateien erstellt.
+
+INHALT:
+- Schreiben: infoBox Telefon-/Schreib-Ausdruecke (Anfang/Verbinden/Verstehen/Verabschiedung,
+  formell/informell, indirekte Rede), 3 SMS-Situationen, formelle E-Mail an Hausarzt,
+  indirekte Rede mit dass/ob/W-Wort (4), Telefonnotiz schreiben
+- Lesen: "Esras schwieriger Anruf" (Esra Demirci, Tuerkei, Hannover, Friseurin,
+  Bank-Anruf 3x versucht, Frau Krueger geduldig, buchstabieren-Strategie,
+  3 Tipps: ruhig bleiben/aufschreiben/nachfragen, formelle E-Mails 3x lesen)
+  + R/F (7) + Fragen (4) + Tipp-Tabelle (3 Tipps + Begruendung)
+- Luecken: Telefon-Text (10 Woerter), Telefondialog (6 Luecken),
+  dass/ob/W-Wort (6), Indirekte-Rede-Tabelle (4)
+- Wortliste: Telefonieren (10), Schriftliche Kommunikation (8),
+  phoneBox Telefon-Floskeln, grammarBox Verben Perfekt
+- Konversation: Termin am Telefon (lueckig), Rollenspiel Anruf entgegennehmen (4 Schritte),
+  Partnerinterview (5 Fragen), Gruppenspiel "Stille Post am Telefon"
+- Bildaufgaben: 6 Kommunikationsmittel benennen, WhatsApp-Verlauf analysieren + indirekte Rede,
+  Formelle E-Mail lesen + Antwort schreiben, Anrufnotiz auswerten
+
+GRAMMATIK-SCHWERPUNKTE:
+- Indirekte Rede: dass-Saetze / ob-Saetze / W-Wort-Saetze
+- Pronomenanpassung in indirekter Rede (ich → er/sie)
+- Verbendstellung in Nebensaetzen
+- Trennbare Verben am Telefon: anrufen / zurueckrufen / weiterleiten / ausrichten
+
+NEUER HELPER:
+- phoneBox (tuerkis #00838F, fill E0F7FA) fuer Telefon-Infoboxen
+
+INKLUDIERT:
+- Deutsches Buchstabier-Alphabet (Anton/Berta/Caesar...)
+
+ERSTELLTE DATEIEN (12):
+- A2_Erwachsene/09_MedienKommunikation/02_TelefonierenNachrichten/ (alle 12 Dateien)
+
+PROGRESS.TXT:
+- UP 02 auf [X] gesetzt
+- GESAMT: 316 -> 328 Dateien (74%)
+- NAECHSTER SCHRITT: Thema 09 ABSCHLUSS — Medien & Kommunikation

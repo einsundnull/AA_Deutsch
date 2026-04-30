@@ -1,0 +1,44 @@
+Datum: 2026-04-29
+Session-Log: AA Deutsch
+
+PROMPT:
+Thema 10 UP 02 — A2_Erwachsene: Umweltthemen (Recycling, Energie sparen)
+
+ZUSAMMENFASSUNG:
+Skript create_Erwachsene_UmweltNatur_02_Umweltthemen.js erstellt und auf Anhieb erfolgreich ausgefuehrt.
+12 Dateien erstellt.
+
+INHALT:
+- Schreiben: infoBox Umweltausdruecke (Muelltrennung 4 Tonnen, Energie sparen, Verkehr, sollte/sollten),
+  Umweltverhalten beschreiben (4-5 Saetze), 5 Empfehlungen mit sollte/koennte,
+  weil-Saetze fuer Umweltargumente (4), Forderungstext mit Passiv
+- Lesen: "Yusufs neuer Alltag in Hamburg" (Yusuf Aydin, Tuerkei Antalya, Hamburg, Buchhalter Reederei,
+  Vermieterin Frau Hartmann erklaert 5-fache Muelltrennung, Pfandsystem 25 Cent,
+  Stand-by ausgeschaltet 18 EUR/Monat = 220 EUR/Jahr, Fahrrad zur Arbeit, Wochenmarkt,
+  Stofftasche)
+  + R/F (7) + Fragen (4) + Uebersichtstabelle (5 Bereiche)
+- Luecken: Umwelttext (10 Woerter), Supermarkt-Dialog (6 Luecken),
+  Passiv mit Modalverb (4), Mueltrennungs-Zuordnung (8 Items zu 4 Tonnen)
+- Wortliste: Muell/Recycling (10), Energie/Klima (8),
+  ecoBox Muelltrennung Uebersicht, grammarBox Umwelt-Verben Perfekt
+- Konversation: Tippsdialog Umweltschutz (lueckig), Rollenspiel beim Hausmeister (4 Schritte),
+  Partnerinterview (5 Fragen), Gruppendebatte "Individuelles Handeln vs. Politik"
+- Bildaufgaben: 4 Mülltonnen (Farbe + Inhalt), Pfandautomat Anleitung+Berechnung,
+  Stromrechnung lesen, Plakat Umweltschutz im Alltag (6 Tipps)
+
+GRAMMATIK-SCHWERPUNKTE:
+- Konjunktiv II: sollte / koennte / muesste / wuerde fuer Empfehlungen
+- Passiv mit Modalverb: Modalverb + Partizip II + werden
+- weil-Saetze fuer Argumente
+- Imperativ in Anleitungen (Pfandautomat)
+
+NEUER HELPER:
+- ecoBox (gruen #2E7D32, fill C8E6C9) fuer Umwelt-Infoboxen
+
+ERSTELLTE DATEIEN (12):
+- A2_Erwachsene/10_UmweltNatur/02_Umweltthemen/ (alle 12 Dateien)
+
+PROGRESS.TXT:
+- UP 02 auf [X] gesetzt
+- GESAMT: 342 -> 354 Dateien (80%)
+- NAECHSTER SCHRITT: Thema 10 ABSCHLUSS — Umwelt & Natur

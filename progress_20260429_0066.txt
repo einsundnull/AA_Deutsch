@@ -1,0 +1,39 @@
+Datum: 2026-04-29
+Session-Log: AA Deutsch
+
+PROMPT:
+Thema 09 ABSCHLUSS — A2_Erwachsene: Medien & Kommunikation
+
+ZUSAMMENFASSUNG:
+Skript create_Erwachsene_MedienKommunikation_ABSCHLUSS.js erstellt und auf Anhieb erfolgreich ausgefuehrt.
+2 Dateien erstellt. Thema 09 vollstaendig abgeschlossen.
+
+INHALT:
+- Aufgabe 1: Lesetext "Sandros digitaler Tag" (Sandro Rizzo, Italien, Duesseldorf, Architekt,
+  Tagesschau-App + ital. Nachrichten, Podcast Architektur, Telefonat mit Herrn Hofmann
+  uebers Wohnzimmer, formelle E-Mail mit Plaenen-Anhang, abends Benachrichtigungen aus,
+  Skype mit Familie in Mailand)
+  + R/F (7 Aussagen)
+- Aufgabe 2: Gemischter Lueckentext (10 Luecken — beide UPs)
+- Aufgabe 3: 6 Fehler korrigieren (UP 01: 2 Fehler / UP 02: 4 Fehler):
+  UP 01: Plural „werden" / doppeltes „wird"
+  UP 02: dass-Wortstellung / dass→wann (W-Wort) / Pronomenstellung / „in"→"auf" dem Anrufbeantworter
+- Aufgabe 4: Mediennutzungs-Tagebuch (8–10 Saetze, beide UPs)
+- Aufgabe 5: Rollenspiel 2 Stationen (Telefonat / Online-Hilfe)
+- Selbstevaluation: 7 Koennen-Aussagen
+
+THEMEN-ABDECKUNG (beide UPs):
+- UP 01 Nachrichten/Internet: Text (Apps/Podcast), Luecken, Fehler a+b, Rollenspiel Station 2
+- UP 02 Telefonieren/Schreiben: Text (Hofmann-Anruf + E-Mail), Luecken, Fehler c+d+e+f, Rollenspiel Station 1
+
+ERSTELLTE DATEIEN (2):
+- A2_Erwachsene/09_MedienKommunikation/ABSCHLUSS/ (beide Dateien)
+
+MEILENSTEIN:
+Thema 09 Medien & Kommunikation VOLLSTAENDIG — 26 Dateien (2 UPs + ABSCHLUSS)
+
+PROGRESS.TXT:
+- ABSCHLUSS auf [X] gesetzt
+- Thema 09 als ABGESCHLOSSEN markiert (26 Dateien)
+- GESAMT: 328 -> 330 Dateien (75%)
+- NAECHSTER SCHRITT: Thema 10 UP 01 — Wetter und Jahreszeiten
