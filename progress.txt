@@ -161,13 +161,13 @@ Thema 11: Grammatik A2 Erwachsene (7 UP)
   [X] 01 Perfekt
   [X] 02 Praeteritum von sein, haben und Modalverben
   [X] 03 Dativ
-  [ ] 04 Wechselpraepositionen
+  [X] 04 Wechselpraepositionen
   [ ] 05 Komparativ und Superlativ
   [ ] 06 Nebensaetze mit weil
   [ ] 07 Trennbare und untrennbare Verben
   [ ] ABSCHLUSS
 
-GESAMT A2_ERWACHSENE bisher: 392 von ca. 442 Dateien (89%)
+GESAMT A2_ERWACHSENE bisher: 404 von ca. 442 Dateien (91%)
 
 NAECHSTER SCHRITT:
-Thema 11 UP 04 — A2_Erwachsene: Wechselpraepositionen
+Thema 11 UP 05 — A2_Erwachsene: Komparativ und Superlativ

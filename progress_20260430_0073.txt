@@ -1,0 +1,42 @@
+Datum: 2026-04-30
+Session-Log: AA Deutsch
+
+PROMPT:
+Thema 11 UP 04 — A2_Erwachsene: Wechselpraepositionen
+
+ZUSAMMENFASSUNG:
+Skript create_Erwachsene_Grammatik_04_Wechselpraepositionen.js erstellt und auf Anhieb erfolgreich ausgefuehrt.
+12 Dateien erstellt.
+
+INHALT:
+- Schreiben: ruleBox 9 Wechselpraepositionen (in/an/auf/ueber/unter/vor/hinter/neben/zwischen),
+  Wohin? (Akk.) vs. Wo? (Dat.) ueben (6), Saetze bilden (6), Verbpaare legen/liegen,
+  stellen/stehen, haengen (6), Zimmerbeschreibung (5-6 Saetze)
+- Lesen: "Sumayyas neue Wohnung" (Bremen Altbau 3. Stock; Flur Spiegel von Mama;
+  Wohnzimmer Sofa+Couchtisch; Kueche Pflanzen; Schlafzimmer Bett unter Fenster;
+  Bad Spiegel ueber Waschbecken)
+  + R/F (7) + Wechselpraepositionen finden (8) + Fragen (4)
+- Luecken: Akk./Dat. unterscheiden (8), Artikel ergaenzen (8),
+  Wohnungsbeschreibung (7), Verbpaare + Praeposition (6)
+- Wortliste: Tabelle aller 9 Wechselpraepositionen mit Akk./Dat.-Beispielen,
+  Verbpaare-Tabelle (legen/liegen, stellen/stehen, haengen, setzen/sitzen, gehen/sein),
+  ruleBox Kontraktionen (ins/im/ans/am/aufs/zum/zur)
+- Konversation: Wo-bist-du-Dialog (lueckig), Rollenspiel im neuen Buero (4 Schritte),
+  Partnerinterview (5 Fragen), Spiel "Was ist wo?"
+- Bildaufgaben: 8 Katze-Positionen, Zimmerbeschreibung (6-7 Saetze),
+  4 Bewegungsbilder (Akk.), Stadtplan (Dat. + Akk.-Mix)
+
+GRAMMATIK-SCHWERPUNKTE:
+- 9 Wechselpraepositionen: in/an/auf/ueber/unter/vor/hinter/neben/zwischen
+- Akkusativ (WOHIN? Bewegung) vs. Dativ (WO? Position)
+- Verbpaare: legen/liegen, stellen/stehen, haengen, setzen/sitzen
+- Kontraktionen: ins/im, ans/am, aufs
+- Plural Dativ +n (zwischen den Baeumen)
+
+ERSTELLTE DATEIEN (12):
+- A2_Erwachsene/11_Grammatik/04_Wechselpraepositionen/ (alle 12 Dateien)
+
+PROGRESS.TXT:
+- UP 04 auf [X] gesetzt
+- GESAMT: 392 -> 404 Dateien (91%)
+- NAECHSTER SCHRITT: Thema 11 UP 05 — Komparativ und Superlativ
