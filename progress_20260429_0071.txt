@@ -1,0 +1,42 @@
+Datum: 2026-04-30
+Session-Log: AA Deutsch
+
+PROMPT:
+Thema 11 UP 02 — A2_Erwachsene: Praeteritum von sein, haben und Modalverben
+
+ZUSAMMENFASSUNG:
+Skript create_Erwachsene_Grammatik_02_Praeteritum.js erstellt und auf Anhieb erfolgreich ausgefuehrt.
+12 Dateien erstellt.
+
+INHALT:
+- Schreiben: ruleBox Praeteritum-Verwendung (sein/haben/Modalverben),
+  ruleBox Modalverben-Konjugation (komplette Tabelle), sein/haben einsetzen (6),
+  Modalverben Praeteritum (6), Kindheit-Text (5-6 Saetze), Urlaub-Erzaehlung
+- Lesen: "Tante Helgas Brief aus den 70er Jahren" (1972, 3 Wochen Bodensee, Hotel,
+  Klaus 8 + Petra 6, schwimmen/segeln/wandern, Fischrestaurant 30 Min Wartezeit,
+  Limonade mit Strohhalm)
+  + R/F (7) + Verben aus Text finden (8) + Fragen (4)
+- Luecken: sein/haben (6), Modalverben Praeteritum (8),
+  Geschichte mit Luecken (10), Konjugationstabelle (sein/haben/koennen/muessen/wollen)
+- Wortliste: sein und haben Tabelle (alle Personen), 6 Modalverben mit Bedeutung,
+  ruleBox haeufige Fehler (Konjugation, „zu" nach Modalverb, kannte vs. konnte)
+- Konversation: Kindheits-Dialog (lueckig), Rollenspiel Großeltern-Interview (5 Fragen),
+  Partnerinterview (5 Fragen), Spiel "Drei Wahrheiten und eine Luege"
+- Bildaufgaben: Schwarzweiß-Familienfoto beschreiben, Schule frueher vs. heute,
+  Spielsachen 1970er, 6 Bilder Person + sein/haben/Modalverb-Saetze
+
+GRAMMATIK-SCHWERPUNKTE:
+- Praeteritum von sein: war/warst/war/waren/wart/waren
+- Praeteritum von haben: hatte/hattest/hatte/hatten/hattet/hatten
+- 6 Modalverben Praeteritum (konnte, musste, durfte, sollte, wollte, mochte)
+- 1. + 3. Person Singular gleich (ich konnte = er/sie konnte)
+- Mischung Praeteritum (sein/haben/Modal) + Perfekt (Vollverben)
+- Konjunktiv II (moechte) vs. Praeteritum (wollte) unterscheiden
+
+ERSTELLTE DATEIEN (12):
+- A2_Erwachsene/11_Grammatik/02_Praeteritum/ (alle 12 Dateien)
+
+PROGRESS.TXT:
+- UP 02 auf [X] gesetzt
+- GESAMT: 368 -> 380 Dateien (86%)
+- NAECHSTER SCHRITT: Thema 11 UP 03 — Dativ
