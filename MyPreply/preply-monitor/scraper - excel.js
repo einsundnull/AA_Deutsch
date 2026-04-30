@@ -66,23 +66,34 @@ function notify(change) {
 }
 
 async function readValues(page) {
-  await page.goto(URL, { waitUntil: "networkidle" });
+  await page.goto(URL, { waitUntil: "domcontentloaded" });
+  await page.waitForTimeout(5000);
 
-  const values = await page.$$eval(
-    '[data-preply-ds-component="Heading"]',
-    elements =>
-      elements
-        .map(e => e.textContent.trim())
-        .filter(t => t.length > 0)
-  );
+  await page.reload({ waitUntil: "domcontentloaded" });
+  await page.waitForTimeout(5000);
 
-  const dollarValue = values.find(v => /^\$\d+/.test(v));
-  const numbers = values.filter(v => /^\d+$/.test(v));
+  const text = await page.locator("body").innerText();
+
+  console.log("==== SEITENTEXT START ====");
+  console.log(text);
+  console.log("==== SEITENTEXT ENDE ====");
+
+  const dollarMatch = text.match(/\$\s*\d+/);
+
+  const profilePositionMatch =
+    text.match(/Profilposition[\s\S]{0,100}?(\d+)/i) ||
+    text.match(/Profile position[\s\S]{0,100}?(\d+)/i) ||
+    text.match(/Position[\s\S]{0,100}?(\d+)/i);
+
+  const secondNumberMatch =
+    text.match(/Aufrufe[\s\S]{0,100}?(\d+)/i) ||
+    text.match(/Views[\s\S]{0,100}?(\d+)/i) ||
+    text.match(/Besucher[\s\S]{0,100}?(\d+)/i);
 
   return {
-    dollar: dollarValue || null,
-    number_1: numbers[0] || null,
-    number_2: numbers[1] || null,
+    dollar: dollarMatch ? dollarMatch[0].replace(/\s+/g, "") : null,
+    number_1: profilePositionMatch ? profilePositionMatch[1] : null,
+    number_2: secondNumberMatch ? secondNumberMatch[1] : null,
     checkedAt: now()
   };
 }
@@ -119,32 +130,37 @@ async function checkOnce(page) {
   saveLastValues(current);
 }
 
-async function main() {
-  const browser = await chromium.launchPersistentContext(
-    "C:\\Users\\pc\\Desktop\\Standard Files\\AA Deutsch\\MyPreply\\preply-monitor\\chrome-profile",
-    {
-      headless: false,
-      channel: "chrome"
-    }
-  );
+async function readValues(page) {
+  await page.goto(URL, { waitUntil: "domcontentloaded" });
+  await page.waitForTimeout(5000);
 
-  const page = await browser.newPage();
+  await page.reload({ waitUntil: "domcontentloaded" });
+  await page.waitForTimeout(5000);
 
-  console.log("Preply-Monitor gestartet.");
-  console.log("Check alle 15 Minuten.");
-  console.log("Excel-Datei:", EXCEL_FILE);
+  const text = await page.locator("body").innerText();
 
-  await checkOnce(page);
+  console.log("==== SEITENTEXT START ====");
+  console.log(text);
+  console.log("==== SEITENTEXT ENDE ====");
 
-  setInterval(async () => {
-    try {
-      await checkOnce(page);
-    } catch (err) {
-      console.error("Fehler beim Prüfen:", err.message);
-    }
-  }, CHECK_EVERY_MS);
+  const dollarMatch = text.match(/\$\s*\d+/);
+
+  const profilePositionMatch =
+    text.match(/Profilposition[\s\S]{0,100}?(\d+)/i) ||
+    text.match(/Profile position[\s\S]{0,100}?(\d+)/i) ||
+    text.match(/Position[\s\S]{0,100}?(\d+)/i);
+
+  const secondNumberMatch =
+    text.match(/Aufrufe[\s\S]{0,100}?(\d+)/i) ||
+    text.match(/Views[\s\S]{0,100}?(\d+)/i) ||
+    text.match(/Besucher[\s\S]{0,100}?(\d+)/i);
+
+  return {
+    dollar: dollarMatch ? dollarMatch[0].replace(/\s+/g, "") : null,
+    number_1: profilePositionMatch ? profilePositionMatch[1] : null,
+    number_2: secondNumberMatch ? secondNumberMatch[1] : null,
+    checkedAt: now()
+  };
 }
-
-main();
 
  

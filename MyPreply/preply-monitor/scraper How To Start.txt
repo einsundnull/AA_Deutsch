@@ -8,5 +8,5 @@ node scraper.js
 
 & node "C:\Users\pc\Desktop\Standard Files\AA Deutsch\MyPreply\preply-monitor\scraper.js"
 
-
+cd "C:\Users\pc\Desktop\Standard Files\AA Deutsch\MyPreply\preply-monitor"
 & node "C:\Users\pc\Desktop\Standard Files\AA Deutsch\MyPreply\preply-monitor\scraper - excel.js"
