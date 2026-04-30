@@ -1,0 +1,50 @@
+Datum: 2026-04-30
+Session-Log: AA Deutsch
+
+PROMPT:
+Thema 11 UP 03 — A2_Erwachsene: Dativ
+
+ZUSAMMENFASSUNG:
+Skript create_Erwachsene_Grammatik_03_Dativ.js erstellt — beim ersten Lauf
+Syntaxfehler durch Apostroph in deutschen Anfuehrungszeichen (‚...').
+Loesung: Apostrophe entfernt. Skript erfolgreich ausgefuehrt — 12 Dateien erstellt.
+
+ERROR + FIX:
+- Fehler: SyntaxError "missing ) after argument list" — einzelne Apostroph (‚...')
+  in deutschen Anfuehrungszeichen beendet JS-String zu frueh
+- Fix: Apostrophe „‚...'" durch normale Anfuehrungszeichen ersetzt (2 Stellen im Lesetext)
+
+INHALT:
+- Schreiben: ruleBox Dativ-Uebersicht (Wem?, Artikel-Tabelle, Personalpronomen),
+  ruleBox Dativ-Verben (helfen/danken/gehoeren/gefallen/schmecken),
+  ruleBox Dativ+Akkusativ-Reihenfolge, ruleBox Dativ-Praepositionen,
+  Saetze mit Dativ-Verben (5), Dativ+Akkusativ (4), Praepositionen (6), Sonntags-Text
+- Lesen: "Adams Geburtstag" (30. Geb., Frau Anna, Frühstück ans Bett, Mutter Polen Telefon,
+  Bruder Wien geschrieben, Ueberraschungsparty, Tomas selbstgebautes Vogelhaus,
+  Schwiegervater Wein, Schwiegermutter Schokoladenkuchen)
+  + R/F (7) + Dativ-Konstruktionen finden (6) + Fragen (4)
+- Luecken: bestimmter Artikel (6), Possessivpronomen (6), Personalpronomen (6),
+  Brief an Tante (8 Luecken), Plural Dativ +n (6)
+- Wortliste: 10 Dativ-Verben, 9 Dativpraepositionen, Personalpronomen-Tabelle (9),
+  ruleBox Dativ-Adjektivendung -en, grammarBox haeufige Fehler
+- Konversation: Geschenke-Dialog (lueckig), Rollenspiel im Restaurant (4 Schritte),
+  Partnerinterview (5 Fragen), Spiel "Wem gehoert das?"
+- Bildaufgaben: 6 Bilder Wem gehoert das, Geschenkszene + direkte Rede,
+  Postkarte schreiben, 4 Hilfe-Szenen mit Dativ-Verben
+
+GRAMMATIK-SCHWERPUNKTE:
+- Dativ-Artikel: dem/der/dem/den+n
+- Possessivpronomen Dativ: meinem/meiner/meinen+n
+- Personalpronomen Dativ: mir/dir/ihm/ihr/uns/euch/ihnen
+- Dativ-Verben: helfen/danken/gefallen/gehoeren/schmecken/antworten
+- Dativ-Praepositionen: mit/bei/von/zu/nach/aus/seit/gegenueber/außer
+- Plural Dativ +n (Kindern, Maennern, Tagen)
+- Dativ + Akkusativ Reihenfolge (Pronomen vor Nomen)
+
+ERSTELLTE DATEIEN (12):
+- A2_Erwachsene/11_Grammatik/03_Dativ/ (alle 12 Dateien)
+
+PROGRESS.TXT:
+- UP 03 auf [X] gesetzt
+- GESAMT: 380 -> 392 Dateien (89%)
+- NAECHSTER SCHRITT: Thema 11 UP 04 — Wechselpraepositionen

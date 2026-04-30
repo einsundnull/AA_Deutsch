@@ -160,14 +160,14 @@ Thema 10: Umwelt & Natur (2 UP)  — ABGESCHLOSSEN (26 Dateien)
 Thema 11: Grammatik A2 Erwachsene (7 UP)
   [X] 01 Perfekt
   [X] 02 Praeteritum von sein, haben und Modalverben
-  [ ] 03 Dativ
+  [X] 03 Dativ
   [ ] 04 Wechselpraepositionen
   [ ] 05 Komparativ und Superlativ
   [ ] 06 Nebensaetze mit weil
   [ ] 07 Trennbare und untrennbare Verben
   [ ] ABSCHLUSS
 
-GESAMT A2_ERWACHSENE bisher: 380 von ca. 442 Dateien (86%)
+GESAMT A2_ERWACHSENE bisher: 392 von ca. 442 Dateien (89%)
 
 NAECHSTER SCHRITT:
-Thema 11 UP 03 — A2_Erwachsene: Dativ
+Thema 11 UP 04 — A2_Erwachsene: Wechselpraepositionen
