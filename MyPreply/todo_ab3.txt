@@ -1,0 +1,311 @@
+> panel-renderer.js <- Kann ich diese Datei als die Basisklasse für ein Panel verstehen?                                
+● Ja, aber mit einer wichtigen Klarstellung:
+
+  panel-renderer.js ist NICHT eine echte Basisklasse, sondern ein "Renderer-Service":                                   
+  ┌─────────────────────────────────────┐                                                                                 │   Panel-Daten (Group-Objekt)        │  ← Reine Daten-Struktur
+  │   {id, status, dayIndex, ...}       │
+  └─────────────────────────────────────┘
+              ↓
+  ┌─────────────────────────────────────┐
+  │   PanelRenderer                     │  ← Renderer-Service
+  │   (panel-renderer.js)               │     (erstellt HTML-Elemente)
+  │                                     │
+  │   createPanelElement()              │
+  │   applyPanelStyles()                │
+  │   attachInteractivePanelListeners() │
+  └─────────────────────────────────────┘
+              ↓
+  ┌─────────────────────────────────────┐
+  │   Rendered Panel (DOM-Element)      │  ← HTML-Element im Browser
+  │   <div class="time-slot-panel">     │
+  └─────────────────────────────────────┘
+
+  Das ist kein klassisches OOP-Vererbungs-Pattern:
+
+  // ❌ NICHT so:
+  class Panel { /* Basisklasse */ }
+  class BookedPanel extends Panel { }
+  class TimeoutPanel extends Panel { }
+
+  // ✅ Stattdessen:
+  class PanelRenderer {
+      createPanelElement(group) {  // Ein Status-Parameter, nicht mehrere Subklassen
+          switch(group.status) {
+              case 'booked': /* ... */
+              case 'timeout': /* ... */
+          }
+      }
+  }
+
+  Könnte man das refaktorieren?
+
+  Ja, es könnte moderner sein mit:
+  - Panel-Basisklasse für Daten
+  - BookedPanel, TimeoutPanel, PersonalPanel als Subklassen
+  - PanelRenderer nutzt Polymorphismus statt Switch-Statements
+
+  Aber das ist zu großer Refactor für jetzt. Die aktuelle Lösung funktioniert und ist wartbar.
+
+  Relevante Dateien zur aktuellen Architektur:
+  - panel-renderer.js - Rendering
+  - ghost-panel-renderer.js - Ghost-Rendering (parallele Implementierung)
+  - panel-styles.js - CSS-Anwendung
+  - panel-drag-handler.js - Drag/Resize-Logik
+  - panel-collision-detector.js - Kollisionsprüfung
+
+  Gibt es ein spezifisches Problem, das du lösen möchtest?
+
+● User approved Claude's plan
+  ⎿  Plan saved to: .claude\plans\radiant-giggling-comet.md · /plan to edit
+     Plan: Panel-Renderer Refaktor (Kompletter Replace)
+                                                                                                                             Context
+                                                                                                                             panel-renderer.js ist ein monolithischer Renderer-Service (~990 Zeilen), der Status-spezifisches Verhalten über
+     If/Else und Maps steuert. Ziel ist echter OOP-Polymorphismus: jeder Panel-Status bekommt eine eigene Klasse, die
+     ihre Spezifika selbst definiert.
+
+     Warum: Status-Logik ist verstreut (Text, Listener, Delete-Config, Badges), schwer zu erweitern. Mit Subklassen:
+     neuer Status = neue Datei, kein Anfassen der Basis.
+
+     ---
+     Neue Datei-Struktur (5 Dateien)
+
+     panel-base.js          ← abstrakte Basisklasse (panel-spezifische Methoden)
+     panel-booked.js        ← BookedPanel extends PanelBase
+     panel-personal.js      ← PersonalPanel extends PanelBase
+     panel-timeout.js       ← TimeoutPanel extends PanelBase
+     panel-available.js     ← AvailablePanel extends PanelBase (blocked, available)
+     panel-renderer.js      ← KOMPLETT NEU: Overlay-Koordinator + Factory-Delegation
+
+     ---
+     1. panel-base.js — Abstrakte Basisklasse
+
+     Kapselt: ein einzelnes Panel-DOM-Element bauen, stylen, Listener anhängen.
+
+     export class PanelBase {
+         constructor(group, renderer) {
+             this.group = group;
+             this.renderer = renderer;       // PanelRenderer-Instanz
+             this.calendar = renderer.calendar;
+             this.grouper = renderer.grouper;
+             this.panelState = renderer.panelState;
+         }
+
+         // GEMEINSAME FACTORY-METHODE (aufgerufen von PanelRenderer)
+         createElement(calendarBody) {
+             const firstCell = this.renderer.findTableCell(calendarBody, this.group.dayIndex, this.group.startSlot);
+             const lastCell  = this.renderer.findTableCell(calendarBody, this.group.dayIndex, this.group.endSlot);
+             if (!firstCell || !lastCell) return null;
+
+             const panel = document.createElement('div');
+             this._applyDataset(panel);
+             this._applyPosition(panel, firstCell, lastCell);
+             this._buildChildren(panel);           // gemeinsam: delete/topHandle/resizeHandle/spinner/text
+             this._buildStatusChildren(panel);     // hook für Subklassen (z.B. ConfirmationBadge)
+             this.renderer.applyPanelStyles(panel, this.renderer.calculatePanelDimensions(firstCell, lastCell));
+             this.renderer.applyCellStylingToPanel(panel, this.group.status, this.group.displayText);
+             this.attachListeners(panel, calendarBody); // abstrakt — Subklasse implementiert
+             return panel;
+         }
+
+         // GEMEINSAM
+         _applyDataset(panel) { /* dataset.panelId, dayIndex, status, date, teacherUid … */ }
+         _applyPosition(panel, firstCell, lastCell) { /* cssText */ }
+         _buildChildren(panel) { /* deleteButton, topHandle, resizeHandle, spinner, textSpan */ }
+
+         // HOOKS FÜR SUBKLASSEN
+         _buildStatusChildren(panel) {}           // Standard: kein extra Child
+         attachListeners(panel, calendarBody) {}  // Standard: keine Listener
+
+         // GEMEINSAME HILFSMETHODEN (Subklassen erben)
+         buildText() { return this.group.displayText; }
+         getDeleteConfig() {
+             return { chatEnabled: false, studentUIDs: [], operation: 'deletion' };
+         }
+         // createDeleteButton(), createTopHandle(), createResizeHandle(), createLoadingSpinner()
+         // createPanelText(), createConfirmationBadge()  ← unverändert aus panel-renderer.js
+     }
+
+     ---
+     2. panel-booked.js — BookedPanel
+
+     Status: "booked". Spezifika:
+     - Text zeigt Student-Namen + Zeitbereich (Teacher-Sicht)
+     - Student: unterschiedliche Listener je isSelectedTeacher
+     - Delete-Config: chatEnabled: true
+     - ConfirmationBadge wenn group.confirmed === true
+
+     export class BookedPanel extends PanelBase {
+         buildText() {
+             // Student-Namen aus studentNameCache + Zeitbereich
+         }
+         _buildStatusChildren(panel) {
+             if (this.group.confirmed) panel.appendChild(this.createConfirmationBadge());
+         }
+         getDeleteConfig() {
+             return { chatEnabled: true, studentUIDs: this.group.students || [], operation: 'deletion' };
+         }
+         attachListeners(panel, calendarBody) {
+             const isSelectedTeacher = panel.dataset.isSelectedTeacher !== 'false';
+             if (!isSelectedTeacher) {
+                 // mousedown → Radio-Button aktivieren (non-selected teacher)
+             } else {
+                 // standard drag + resize + delete
+             }
+         }
+     }
+
+     ---
+     3. panel-personal.js — PersonalPanel
+
+     Status: "personal". Spezifika:
+     - Guard: preventPersonalPanel → gibt null zurück (über Factory abgefangen)
+     - ConfirmationBadge wenn confirmed
+     - Delete-Config: chatEnabled: false, operation: 'personal_deletion'
+
+     export class PersonalPanel extends PanelBase {
+         _buildStatusChildren(panel) {
+             if (this.group.confirmed) panel.appendChild(this.createConfirmationBadge());
+         }
+         getDeleteConfig() {
+             return { chatEnabled: false, studentUIDs: this.group.students || [], operation: 'personal_deletion' };
+         }
+         attachListeners(panel, calendarBody) {
+             // standard drag + resize + delete
+         }
+     }
+
+     ---
+     4. panel-timeout.js — TimeoutPanel
+
+     Status: "timeout". Spezifika:
+     - Delete-Config: chatEnabled: false, studentUIDs: [], operation: 'timeout_deletion'
+     - Standard-Listener (drag, resize, delete)
+
+     export class TimeoutPanel extends PanelBase {
+         getDeleteConfig() {
+             return { chatEnabled: false, studentUIDs: [], operation: 'timeout_deletion' };
+         }
+         attachListeners(panel, calendarBody) {
+             // standard drag + resize + delete
+         }
+     }
+
+     ---
+     5. panel-available.js — AvailablePanel
+
+     Status: "available" und "blocked". Keine Sonder-Logik außer Standard-Listener.
+
+     ---
+     6. panel-renderer.js — Komplett Neu
+
+     Bleibt Overlay-Koordinator (externe API bleibt identisch). Neu: createPanelElement delegiert an Factory.
+
+     import { BookedPanel }    from './panel-booked.js';
+     import { PersonalPanel }  from './panel-personal.js';
+     import { TimeoutPanel }   from './panel-timeout.js';
+     import { AvailablePanel } from './panel-available.js';
+
+     const PANEL_CLASS_MAP = {
+         booked:    BookedPanel,
+         personal:  PersonalPanel,
+         timeout:   TimeoutPanel,
+         available: AvailablePanel,
+         blocked:   AvailablePanel,
+     };
+
+     export class PanelRenderer {
+         constructor(grouper) { /* unverändert */ }
+
+         createPanelElement(group, calendarBody) {
+             // PersonalPanel-Guard
+             if (group.status === 'personal' && this.calendar.state.preventPersonalPanel) return null;
+
+             const PanelClass = PANEL_CLASS_MAP[group.status] ?? AvailablePanel;
+             const panelObj   = new PanelClass(group, this);
+             return panelObj.createElement(calendarBody);
+         }
+
+         // ALLE FOLGENDEN METHODEN BLEIBEN UNVERÄNDERT (externe API):
+         // createOverlayContainer(), renderAllPanels(), removePanelFromUI()
+         // applyCellStylingToPanel(), findTableCell(), calculatePanelDimensions()
+         // updatePanelPosition(), applyPanelStyles()
+         // repositionAllPanels(), attachWindowResizeListener(), removeWindowResizeListener()
+         // createOverlayContainer(), removeOverlayContainer(), attachOverlayHoverListeners()
+
+         // LÖSCH-LOGIK BLEIBT IN PanelRenderer (Aufrufer: deleteButton-Listener in PanelBase)
+         // deletePanel(), deletePanelUnified(), removePanelFromUI()
+         // showDeleteConfirmationModal(), createDeleteModal(), closeDeleteModal()
+         // showPastBookingWarning(), isPanelInPast()
+         // getStatusDisplayText(), createSlotsFromGroup()
+
+         // GEMEINSAME ELEMENT-BUILDER (aufgerufen von PanelBase)
+         // createDeleteButton(), createTopHandle(), createResizeHandle()
+         // createLoadingSpinner(), createPanelText(), createConfirmationBadge()
+         // attachPanelEventListeners(), attachDeleteButtonListener()
+
+         // DRAG-DELEGATION (aufgerufen von Subklassen über this.renderer.grouper.dragHandler)
+         // attachStandardDragListeners(panel, group, calendarBody, resizeHandle, topHandle, deleteButton)
+         //   ← neue Hilfsmethode, kapselt die 5 dragHandler-Aufrufe aus attachInteractivePanelListeners
+     }
+
+     ---
+     Kritische externe API (muss erhalten bleiben)
+
+     ┌───────────────────────────────────────────────┬───────────────────────────┐
+     │                    Methode                    │      Aufgerufen von       │
+     ├───────────────────────────────────────────────┼───────────────────────────┤
+     │ createOverlayContainer(calendarBody)          │ time-slot-grouper-core.js │
+     ├───────────────────────────────────────────────┼───────────────────────────┤
+     │ renderAllPanels(calendarBody)                 │ time-slot-grouper-core.js │
+     ├───────────────────────────────────────────────┼───────────────────────────┤
+     │ removePanelFromUI(panel, group)               │ booking-options-dialog.js │
+     ┌───────────────────────────────────────────────┬───────────────────────────┐
+     │                    Methode                    │      Aufgerufen von       │
+     ├───────────────────────────────────────────────┼───────────────────────────┤
+     │ createOverlayContainer(calendarBody)          │ time-slot-grouper-core.js │
+     ├───────────────────────────────────────────────┼───────────────────────────┤
+     │ renderAllPanels(calendarBody)                 │ time-slot-grouper-core.js │
+     ├───────────────────────────────────────────────┼───────────────────────────┤
+     │ removePanelFromUI(panel, group)               │ booking-options-dialog.js │
+     ├───────────────────────────────────────────────┼───────────────────────────┤
+     │ applyCellStylingToPanel(panel, status, text)  │ panel-visual-states.js    │
+     ├───────────────────────────────────────────────┼───────────────────────────┤
+     │ findTableCell(calendarBody, dayIndex, slot)   │ panel-booking-manager.js  │
+     ├───────────────────────────────────────────────┼───────────────────────────┤
+     │ calculatePanelDimensions(firstCell, lastCell) │ panel-booking-manager.js  │
+     ├───────────────────────────────────────────────┼───────────────────────────┤
+     │ updatePanelPosition(panel, position)          │ panel-booking-manager.js  │
+     └───────────────────────────────────────────────┴───────────────────────────┘
+
+     ---
+     Reihenfolge der Implementierung
+
+     1. panel-base.js schreiben (Basisklasse, alle gemeinsamen Methoden)
+     2. panel-renderer.js neu schreiben:
+       - Factory-Map + createPanelElement neu
+       - Alle gemeinsamen Element-Builder hierher verschieben (werden von PanelBase aufgerufen)
+       - Alle Lösch-Methoden, Overlay-Methoden, externe API: unverändert übernehmen
+     3. panel-booked.js — komplexeste Subklasse zuerst
+     4. panel-personal.js, panel-timeout.js, panel-available.js
+     5. Smoke-Test: Kalender laden, Panel erstellen, löschen, draggen
+
+     ---
+     Dateien die NICHT geändert werden
+
+     - panel-styles.js — unverändert
+     - panel-drag-handler.js — unverändert
+     - panel-visual-states.js — unverändert
+     - panel-collision-detector.js — unverändert
+     - ghost-panel-renderer.js — unverändert
+     - time-slot-grouper-core.js — unverändert (externe API bleibt gleich)
+     - booking-options-dialog.js — unverändert
+     - panel-booking-manager.js — unverändert
+
+     ---
+     Verifikation
+
+     1. Teacher-Kalender laden → Panels erscheinen korrekt (booked, timeout, personal)
+     2. Panel löschen → Bestätigungs-Modal erscheint, Firebase-Löschung erfolgt
+     3. Panel draggen → funktioniert
+     4. Student-Kalender: grauer Panel (anderer Lehrer) → Klick aktiviert Radio-Button
+     5. Browser-Konsole: keine Fehler
