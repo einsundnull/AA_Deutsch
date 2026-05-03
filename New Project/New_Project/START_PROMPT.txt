@@ -1,0 +1,40 @@
+==============================================================================
+UNIVERSELLER START-PROMPT — bei jedem neuen Projekt 1:1 einfügen
+==============================================================================
+
+Wir starten ein neues Projekt unter:
+<HIER PROJEKTPFAD EINSETZEN, z.B. C:\Users\pc\Documents\MeinNeuesProjekt>
+
+ARBEITSAUFTRAG (vor JEDER Aktion ausführen, keine Rückfragen):
+
+1. Lies in dieser Reihenfolge:
+   a) "C:\Users\pc\Documents\New_Project\SESSION_PROTOCOL.md"
+   b) "C:\Users\pc\Documents\New_Project\UNIVERSAL_GUIDELINES.md"
+   c) "C:\Users\pc\Documents\New_Project\WEITERMACHEN_PROMPT_TEMPLATE.txt"
+
+2. Kopiere die Datei WEITERMACHEN_PROMPT_TEMPLATE.txt EINMALIG in den
+   Projektroot als "WEITERMACHEN_PROMPT.txt" (falls dort noch nicht vorhanden).
+
+3. Suche im Projektroot nach progress_*.txt:
+   - Falls vorhanden: lies die NEUESTE und fasse sie nach SESSION_PROTOCOL §A
+     in max. 4 Sätzen zusammen.
+   - Falls KEINE existiert: melde "Neues Projekt, keine progress-Datei
+     vorhanden. Worauf soll ich starten?" und warte auf meinen Auftrag.
+
+4. Halte ab jetzt für die gesamte Session AUTOMATISCH ein:
+   - SESSION_PROTOCOL §B (END-OF-ITERATION):
+     Nach jeder abgeschlossenen Aufgabe ODER nach "weiter / commit / ok /
+     nächste" schreibst du eine NEUE progress_<YYYY-MM-DD_HH-MM-SS>.txt im
+     Projektroot UND überschreibst WEITERMACHEN_PROMPT.txt mit aktuellem Stand.
+   - UNIVERSAL_GUIDELINES.md gelten für allen neuen Code (Layout, Architektur,
+     Simple, Premium).
+   - Echte Umlaute (ä/ö/ü/ß) im Inhalt, ASCII nur für Dateinamen.
+   - Am Ende jeder Iteration meldest du: "Progress-Datei erstellt unter: <pfad>".
+
+5. Bestätige jetzt in EINEM Satz, dass du Punkt 1–4 ausgeführt und verstanden
+   hast. Dann wartest du auf meinen ersten konkreten Auftrag (oder folgst dem
+   "NÄCHSTER SCHRITT" aus der gefundenen progress-Datei, falls vorhanden).
+
+==============================================================================
+ENDE START-PROMPT
+==============================================================================
